@@ -200,3 +200,5 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
+theme: "minima"
