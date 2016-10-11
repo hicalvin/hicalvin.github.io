@@ -46,6 +46,8 @@ category: Tech
 
 好，继续iOS。  那么通过引用计数应付不了什么情形呢？ 那就是**循环引用(Reference Cycle)**, 类似于数据库的死锁， A引用B， B引用A， 或者更复杂的A B C D形成引用环， 互相等对方释放。 如果是手动引用还好办， 可以release来手动释放， 但是在ARC的情况下， 就需要另外一种方式了， 那就是**弱引用(Weak Reference)**. 弱引用的意思就是， 虽然持有对象， 但是不增加引用计数， 也就意味着计数由其他对象来控制。 应用场景在delegate中比较多， 因为delegate就是 A B相互引用的情形。 
 
+更详细的解释可以参考唐巧的[这篇博客](http://blog.devtang.com/2016/07/30/ios-memory-management/)， 里面解释的非常清楚。 
+
 
 
 
