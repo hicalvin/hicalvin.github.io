@@ -8,15 +8,15 @@ category: tech
 今天看到Crossin分享了一个好玩的Python包，叫Tushare, 居然可以用来看实时电影票房， 立刻吸引了我的兴趣， 所以就花了点时间， 配了一堆Python组件以后终于在自己机器上看到了电影实时票房了。  以后查看哪本电影最卖座就方便咯
 
 
-#如何安装PiP
+# 如何安装PiP
 * 到 [pip官网](https://pip.pypa.io/en/stable/installing/) 下载 get-pip.py
-* 运行 python3 get-pip.py
+* 运行 `python3 get-pip.py`
 
 
-#安装rpm
+# 安装rpm
 * brew install rpm
 
-#安装lxml
+# 安装lxml
 安装lxml 原本应该蛮简单的，但是安装的时候报错
 
 `Failed building wheel for lxml `
