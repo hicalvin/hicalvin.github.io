@@ -39,7 +39,7 @@ pip install lxml`
 
 跑到python 下  `import lxml` 终于没问题了 
 
-#安装Tushare
+# 安装Tushare
 
 终于可以装Tushare了
 
