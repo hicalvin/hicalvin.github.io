@@ -21,7 +21,7 @@ category: tech
 
 `Failed building wheel for lxml `
 
-原因是一些以来包没安装， 其中包括**libxml** 以及 **libxslt**. 于是有用一下命令安装
+原因是一些引用包没安装， 其中包括**libxml** 以及 **libxslt**. 于是有用一下命令安装
 
 ```
 brew install libxml
