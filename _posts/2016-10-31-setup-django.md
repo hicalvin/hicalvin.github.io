@@ -11,7 +11,7 @@ category: tech
 
 今天虽然用了这个海报，但是内容跟它没半毛钱关系， 仅仅只是因为有Django， Python下的Web Framework。 要看电影的观众可以散场了。
 
-#安装
+# 安装
 
 上手第一步，当然是安装了。 Python 提供了easy_install这个组件可以很方便的安装相关的内容， 其中就包括Django。 由于本身机器上已经装了不同的Python，所以还是先要找到对应正确的Python版本， 可以用下面这个命令： 
 
@@ -41,7 +41,7 @@ django-admin --version
 ```
 就可以了。 我的是1.10.2 
 
-#运行
+# 运行
 
 接着我们就可以启动第一个应用了。 
 
@@ -69,11 +69,11 @@ Quit the server with CONTROL-C.
 
 PS: 如果需要指定Python的版本进行安装， 比如安装Python2.6.x + Django 1.5.10, 那就要按照以下来做:
 
-###Step 1
+### Step 1
 
 前往Python官网下载安装包, 就是[这里](https://www.python.org/downloads/mac-osx/)
 
-###Step 2
+### Step 2
 
 安装好需要的Python版本以后， 再去安装对应的Django
 
