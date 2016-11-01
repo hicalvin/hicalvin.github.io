@@ -65,7 +65,7 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
 
-然后访问这个url就可以看到 <font color=#0099ff> **It worked!** </font>的页面，就表示成功了。 恭喜哦！！
+然后访问这个url就可以看到 **It worked!** 的页面，就表示成功了。 恭喜哦！！
 
 PS: 如果需要指定Python的版本进行安装， 比如安装Python2.6.x + Django 1.5.10, 那就要按照以下来做:
 
