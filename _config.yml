@@ -3,7 +3,8 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+#url: "https://panossakkos.github.io"
+url: "https://hicalvin.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -44,7 +45,7 @@ black-favicon: "/img/darth-vader-white.png"
 
 #background-img: "../img/intro-bg.jpg"
 
-background-img: "../img/bg-england-london.jpg"
+background-img: "/img/bg-england-london.jpg"
 
 ##############################
 # Dynamic Text on the Header #
