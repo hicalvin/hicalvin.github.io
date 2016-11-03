@@ -122,7 +122,7 @@ events:
   - image: "/img/timeline/webex.jpg"
     date: "Nov 2004 - Mar 2007"
     description: "忙着立足世界！"
-    - image: "/img/timeline/hz-wsgc.jpg"
+  - image: "/img/timeline/hz-wsgc.jpg"
     date: "Jul 2000 - Nov 2004"
     description: "忙着了解杭州！"
   - image: "/img/timeline/hf-university-of-technology.jpg"
