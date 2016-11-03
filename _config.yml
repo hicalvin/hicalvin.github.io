@@ -59,8 +59,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "当你决定旅行的那一刻， 最困难的一步已经跨出了。"
-  - text: "灵魂和身体， 总有一个在路上。"
+  - text: "Convince by saying LET ME SHOW YOU instead of I THINK."
+  - text: "If everything seems under control, you're just not going fast enough."
+  - text: "If you are thinking big enough it is very hard to fail completely."
+  - text: "It helps to see failure as a road and not a wall."
   - text: "You are confined only by the walls you build yourself."
 
 #me-img: "/img/jetpacktocat.png"
