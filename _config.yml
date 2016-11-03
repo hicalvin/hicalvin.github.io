@@ -60,6 +60,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "当你决定旅行的那一刻， 最困难的一步已经跨出了。"
   - text: "灵魂和身体， 总有一个在路上。"
+  - text: "You are confined only by the walls you build yourself."
 
 #me-img: "/img/jetpacktocat.png"
 me-img: "/img/me-calvin.jpg"
@@ -118,13 +119,15 @@ events:
   - image: "/img/timeline/cisco-logo.png"
     date: "Mar 2007 - Today"
     description: "忙着改变世界!"
-#  - image: "/img/timeline/baracktocat.jpg"
-#    date: "September 2007 - August 2013"
-#    description: "Started coding"
   - image: "/img/timeline/webex.jpg"
     date: "Nov 2004 - Mar 2007"
     description: "忙着立足世界！"
-
+    - image: "/img/timeline/hz-wsgc.jpg"
+    date: "Jul 2000 - Nov 2004"
+    description: "忙着了解杭州！"
+  - image: "/img/timeline/hf-university-of-technology.jpg"
+    date: "Sep 1996 - Jul 2000"
+    description: "忙着研究学问！"
 
 
 # First image of the Timeline
