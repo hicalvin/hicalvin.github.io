@@ -34,7 +34,7 @@ author: "Calvin Yan"
 title: "{ Calvin Yan }"
 description: "Blog and website of Calvin Yan, blogging mainly for tech. Opinions expressed are mine."
 keywords: "calvin, ck, personal, jekyll"
-favicon: "/img/favicon.ico"
+favicon: "/img/darth-vader.png"
 
 ################
 # Header layout #
@@ -148,7 +148,7 @@ email: "1078216421@qq.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Calvin Yan is an awesome person. He is a Web and iOS engineer, experienced on Billing. In his spare time, he likes to travel, espacially on self-driving travel."
+author_blurb: "Calvin Yan is an awesome person. He is a Java, Python and iOS engineer, experienced on Billing. In his spare time, he likes to travel, espacially on self-driving travel."
 author_blurb_image: "/img/author.png"
 
 ##################
