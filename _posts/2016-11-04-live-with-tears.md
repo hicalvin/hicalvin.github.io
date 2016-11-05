@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "含泪活着"
-date:   2016-11-05 22:34:50 +0800
+date:   2016-11-04 22:34:50 +0800
 category: movie
 ---
 
