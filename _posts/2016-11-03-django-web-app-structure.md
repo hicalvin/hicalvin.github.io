@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Django第二篇"
-date:   2016-11-03 23:11:50 +0800
+date:   2016-11-03 09:11:50 +0800
 category: tech
 ---
 
