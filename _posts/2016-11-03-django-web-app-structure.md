@@ -59,7 +59,7 @@ $> python2.7 manage.py shell
 
 ## Step5
 
-实体定义好以后可以定义 **views** 了，views用于处理Http请求和返回，其中少不了 **template** 的使用。 页面上的写法和AngularJS比较像， 都是在html页面上插入 {{}} 和 {%%} 这样的表述语句 
+实体定义好以后可以定义 **views** 了，views用于处理Http请求和返回，其中少不了 **template** 的使用。 页面上的写法和AngularJS比较像， 都是在html页面上插入 \{\{\}\} 和 \{ % %\} 这样的表述语句 
 
 完成以上几步， 基本上就可以实现前后端的数据传递了。 
 
