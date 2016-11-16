@@ -19,6 +19,7 @@ Python 的各种类库为快速处理数据提供了诸多便利， 其中包括
 from matplotlib.finance import quotes_historical_yahoo_ohlc
 from datetime import date
 import pandas as pd
+
 today= date.today()
 start=(today.year-1, today.month, today.day)
 quotes = quotes_historical_yahoo_ohlc('CSCO', start, today)
@@ -81,6 +82,8 @@ from matplotlib.finance import quotes_historical_yahoo_ohlc
 import matplotlib.pyplot as plt
 from datetime import date
 import pandas as pd
+
+
 today= date.today()
 start=(today.year-1, today.month, today.day)
 quotes = quotes_historical_yahoo_ohlc('CSCO', start, today)
@@ -95,7 +98,6 @@ for i in range(0, len(quotes)):
 quotesdf = pd.DataFrame(quotes, columns = fields)
 quotesdf['trade date'] = pd.Series(list1)
 quotesdf = quotesdf.drop(['date'], axis=1)
-
 
 fig = plt.figure(1) # 创建图表1
 ax = fig.add_subplot(111, frameon=False)
