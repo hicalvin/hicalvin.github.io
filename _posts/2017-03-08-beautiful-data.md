@@ -14,7 +14,7 @@ category: tech
 数据可视化的过程应该考虑四点：
 
 * 拥有什么数据？
-* 关于数据你想了解什么？
+* 关于数据你想了解什么？(答案无需复杂深刻， 只要不是太含糊。 回答的越具体，方向就越明确）
 * 应该使用哪些可视化方式？
 * 你看见了什么？有意义吗？
 
@@ -47,3 +47,15 @@ category: tech
 ## [经典的科技企业架构图](http://www.bonkersworld.net/organizational-charts/)
 
 ![知名科技企业的组织架构图](http://www.bonkersworld.net/images/2011.06.27_organizational_charts.png)
+
+
+## [皮尤网络与美国生活项目的调查数据](http://www.pewresearch.org/fact-tank/2017/01/12/evolution-of-technology/)
+
+![美国人民的上网数量](http://assets.pewresearch.org/wp-content/uploads/sites/12/2017/01/11134358/FT_17.01.10_InternetFactSheets.png)
+
+
+其他还有一些有意思的网站，比如：
+
+- [新闻地图](http://newsmap.jp)
+- [本地数字](http://www.trulia.com/local)
+- [将去过的地方做成首饰](http://meshu.io)
