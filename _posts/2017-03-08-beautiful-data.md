@@ -53,9 +53,20 @@ category: tech
 
 ![美国人民的上网数量](http://assets.pewresearch.org/wp-content/uploads/sites/12/2017/01/11134358/FT_17.01.10_InternetFactSheets.png)
 
+## [绘儿乐色彩图](http://www.datapointed.net/visualizations/color/crayola-crayon-chart/)
+
+![色彩图](http://www.datapointed.net/media/2010/07/crayola_crayon_color_chart.jpg)
+
+
 
 其他还有一些有意思的网站，比如：
 
 - [新闻地图](http://newsmap.jp)
 - [本地数字](http://www.trulia.com/local)
 - [将去过的地方做成首饰](http://meshu.io)
+
+另外与数据图形化相关的编程语言和类库有
+
+- [tableau public](https://public.tableau.com)
+- [R语言](http://r-project.org)
+- [D3](https://d3js.org/)
