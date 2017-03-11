@@ -57,6 +57,10 @@ category: tech
 
 ![色彩图](http://www.datapointed.net/media/2010/07/crayola_crayon_color_chart.jpg)
 
+## [世界发展图](http://flowingprints.com/print4.php)
+
+![世界进步](http://flowingprints.com/img/world/world-progress-report.png)
+
 
 
 其他还有一些有意思的网站，比如：
@@ -64,9 +68,14 @@ category: tech
 - [新闻地图](http://newsmap.jp)
 - [本地数字](http://www.trulia.com/local)
 - [将去过的地方做成首饰](http://meshu.io)
+- [Rosling关于世界贫困的TED Talk](http://www.ted.com/talks/hans_rosling_reveals_new_insights_on_poverty#t-289331)
 
 另外与数据图形化相关的编程语言和类库有
 
 - [tableau public](https://public.tableau.com)
 - [R语言](http://r-project.org)
 - [D3](https://d3js.org/)
+- [OpenRefine(Google Refine)](http://openrefine.org/)
+- [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/)
+- [Processing](https://processing.org/)
+- [Protovis](http://mbostock.github.io/protovis/)
