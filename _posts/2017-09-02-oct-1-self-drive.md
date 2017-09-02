@@ -4,6 +4,7 @@ title:  "国庆千里行 2017季 景德镇+武汉+张家界+凤凰+长沙+南昌
 date:   2017-09-02 23:17:50 +0800
 category: travel
 ---
+![路书](https://farm5.staticflickr.com/4387/36794643146_7c30adc9d5_k.jpg)
 
 ### 景德镇 1晚
 [酒店:汉庭景德镇瓷都大道酒店 2星级](	!https://secure.booking.com/myreservations.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaGKIAQGYATK4AQfIAQzYAQHoAQH4AQuSAgF5qAID;sid=bb3acd91fc5a3a1becaf0a0094348245;auth_key=hGx7JTA0r6iWouaH&)
