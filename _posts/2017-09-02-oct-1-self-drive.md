@@ -47,9 +47,9 @@ category: travel
 ### 南昌 1晚
 [酒店： 南昌欢乐颂公寓](https://secure.booking.com/myreservations.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaGKIAQGYATK4AQfIAQzYAQHoAQH4AQuSAgF5qAID;sid=bb3acd91fc5a3a1becaf0a0094348245;auth_key=0JCHgNqyuMvWGEtr&)
 
-价格： 912元
-地址： 红谷滩新区江报路69号唐宁街A座， 东湖区
-电话： **15879179737**
+- 价格： 912元
+- 地址： 红谷滩新区江报路69号唐宁街A座， 东湖区
+- 电话： **15879179737**
 
 
 
