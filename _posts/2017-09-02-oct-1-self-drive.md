@@ -58,10 +58,10 @@ category: travel
 #### - 07:00 ～ 14:00 天目山路留下口上高速 
 
 #### - 14:00 ～ 17:00 景德镇瓷器馆
-```
-免费参观时间：全天9:00-17:00（16:30停止入场）。
-参观者请在前台凭有效证件登记后参观。
-```
+
+- 免费参观时间：全天9:00-17:00（16:30停止入场）。
+- 参观者请在前台凭有效证件登记后参观。
+
 
 #### - 17:00 ~ 20:00 晚餐
 
@@ -101,7 +101,6 @@ category: travel
 
 [携程购票](http://piao.ctrip.com/dest/t17369.html#ctm_ref=gs_ttd_290510_11_tkt_2_988_17369)
 
-![边城 - 实景舞台剧](http://b4-q.mafengwo.net/s10/M00/8E/A6/wKgBZ1j6zBqAadDmAAqeBWEo3EM11.jpeg?imageView2%2F2%2Fw%2F1360%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL3AxLXEubWFmZW5nd28ubmV0L3MxMC9NMDAvMDgvQjkvd0tnQloxaDExQ0tBRjRUeEFBQXYzcVNMWmRvOTA4LnBuZz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGMzYweCUyRnF1YWxpdHklMkY5MA%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F15%2Fdissolve%2F40)
 
 ## 10.06 凤凰 - 长沙 （427公里）
 
