@@ -7,11 +7,11 @@ category: travel
 ![路书](https://farm5.staticflickr.com/4387/36794643146_7c30adc9d5_k.jpg)
 
 ### 景德镇 1晚
-[酒店:汉庭景德镇瓷都大道酒店 2星级](https://secure.booking.com/myreservations.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaGKIAQGYATK4AQfIAQzYAQHoAQH4AQuSAgF5qAID;sid=bb3acd91fc5a3a1becaf0a0094348245;auth_key=hGx7JTA0r6iWouaH&)
+[酒店:维也纳国际店景德镇人民广场店](https://secure.booking.com/myreservations.zh-cn.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaGKIAQGYATK4AQfIAQzYAQHoAQH4AQuSAgF5qAID;sid=0d4c6b0760250989355f3a780ee56e54;auth_key=2ry97SfR9EEx6WNq&)
 
-- 价格： 796元
-- 地址： 昌江区瓷都大道597号  
-- 电话： 798 851 7777 
+- 价格： 1001元
+- 地址： 人民广场南路1号, 333000 景德镇, 中国
+- 电话： 7988235555
 
 ### 武汉 1晚
 [酒店: 全季酒店武汉沌口开发区店](https://secure.booking.com/myreservations.zh-cn.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNiBW5vcmVmaDGIAQGYATK4AQfIAQzYAQPoAQGSAgF5qAID;sid=c5021b38d635cd4b5ce6aeb9933d2baf;auth_key=uDxKG4Iq4HQF6mqg&)
@@ -23,7 +23,7 @@ category: travel
 
 ### 张家界 3晚
 
-民宿 盛夏公寓四居室
+- 地址：盛夏公寓四居室
 
 
 ### 凤凰古城 1晚
@@ -55,7 +55,7 @@ category: travel
 
 ## 09.30 杭州 - 景德镇 (391.2公里) 
 
-#### - 07:00 ～ 14:00 天目山路留下口上高速 
+#### - 07:00 ～ 14:00 天目山路留下口上高速。 德胜快速路文一路下口等。 
 
 #### - 14:00 ～ 17:00 景德镇瓷器馆
 
