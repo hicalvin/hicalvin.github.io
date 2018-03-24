@@ -10,3 +10,5 @@ category: tech
 ###一天紧张的培训课程，在William老师精彩的编排和带领下感受到很大的收获。 利用XMind在课后做了一个整理， 希望对自己和其他人以后在做Presentation的时候有所帮助。 
 
 ![思维导图](/img/posts/HighImpactPresentationSkills.png)
+
+另外在此给XMind点赞， 因为这个图的大部分内容是通过ipad完成的，然后导出到Laptop继续编辑， 实在太方便了。  用了这么多年， 电脑换了N台，但几乎只有这个软件一直跟着我。 
