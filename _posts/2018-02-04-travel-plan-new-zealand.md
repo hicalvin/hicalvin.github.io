@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "新西兰初探"
+date:   2018-02-04 23:17:50 +0800
+category: travel
+---
+
 
 # 新西兰
 
