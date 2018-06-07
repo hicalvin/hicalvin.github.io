@@ -4,7 +4,7 @@ title:  "Touch of Aansible"
 date:   2018-06-07 21:56:50 +0800
 category: tech
 ---
-![Ansible](https://img.colabug.com/2017/06/69420b7f9ad256dc2ffd4d2ba6670f80.png)
+![Ansible](http://static.open-open.com/lib/uploadImg/20161129/20161129150713_902.jpg)
 
 
 之前在和另外的一个团队合作的时候就听说了Ansible，当时就被它简单的批量操作整的心痒痒。 今天遇到一个场景，需要拷贝一个文件到20台Linux机器上。作为一个Engineer，当然不能通过敲20遍相同的Linux命令来解决问题了，所以想到了Ansible。 
