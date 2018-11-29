@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Touch of Aansible"
+title:  "Touch of Ansible"
 date:   2018-06-07 21:56:50 +0800
 category: tech
 ---
