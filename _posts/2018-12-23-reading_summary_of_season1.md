@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading summary of Chengnan Jiushi"
+title:  "Reading summary of [My Memory of Old Beijing] "
 date:   2018-12-23 20:07:50 +0800
 category: season
 ---
