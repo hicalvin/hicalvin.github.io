@@ -11,7 +11,7 @@ category: travel
 ## 线路规划
 
 
-![北岛线路](../img/posts/2018-12-28-nztrip_north_route.png)
+![北岛线路](/img/posts/2018-12-28-nztrip_north_route.png)
 
 ## *北岛*
 
