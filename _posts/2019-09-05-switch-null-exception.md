@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Switch throw NULL exception, why".
+title:  "Switch throw NULL exception, why"
 date:   2019-09-05 09:59:50 +0800
 category: tech
 ---
+
 ```java
 public class SwitchString {
     public static void main(String[] argu) {
