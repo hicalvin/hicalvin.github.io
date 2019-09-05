@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La casa de papel"
+title:  "纸钞屋"
 date:   2019-08-31 18:03:50 +0800
 category: movie
 ---
@@ -20,6 +20,4 @@ category: movie
 
 
 其实剧情和越狱挺像的，随着时间的持续，出现越来越多的意外，
-
-
 
