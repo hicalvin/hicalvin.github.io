@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "纸钞屋"
+title:  "La casa de papel"
 date:   2019-08-31 18:03:50 +0800
 category: movie
 ---
