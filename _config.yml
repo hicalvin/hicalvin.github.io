@@ -100,15 +100,15 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
 pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "panossakkos"
 
