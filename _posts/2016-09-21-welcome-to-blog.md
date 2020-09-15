@@ -2,7 +2,7 @@
 layout: post
 title:  "你只是看起来很努力吗？"
 date:   2016-09-21 22:26:50 +0800
-category: read
+category: reading
 ---
 
 最近看完的一本书， 书名叫 *你只是看起来很努力*， 看完感觉挺有收获。其中有一段话非常喜欢。 <br>

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Bible Story"
 date:   2018-12-11 22:31:50 +0800
-category: religion
+category: reading
 ---
 ![圣经故事](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544548878570&di=d8b11214838ac8c4b2f9c8691bb64ac1&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FG06%2FM00%2FE6%2F50%2Fp4YBAFta31-AOkUZAADNED8pQn0413_b.jpg)
 
@@ -18,7 +18,7 @@ category: religion
 
 **亚伯拉罕(Abraham)** 出现， 受上帝的指引从乌尔前往迦南(Canaan)，并娶了撒拉(Sarah)作为妻子。上帝眷顾亚伯拉罕和撒拉，让他们得到了儿子-以撒(Issac)。 上帝让亚伯拉罕献出以撒祭祀来试探，亚伯拉罕显示了忠诚，答应给亚伯拉罕和以撒以福报。 撒拉去世，以撒找到了利百加，生下来了双胞胎以扫和**雅各(Jacob)**。 雅各用谎言蒙骗以撒自己是长子以扫，从而得到了以撒的祝福，结果以扫知道后暴怒，决定杀雅各，雅各只要远走他乡，并也遭受他人的欺骗， 使他变得感恩，谦卑。上帝赐予他新的名字，**以色列(Israel)**。 之后他和以扫重归于好。
 
-![迦南](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=00809a21ad4bd11310c0bf603bc6cf6a/2f738bd4b31c8701699eccb4277f9e2f0708ffbc.jpg)
+![迦南](https://assets.ldscdn.org/1e/5e/1e5e743af720f8f043415ef9638e315affad3d23/map_exodus_egypt_canaan.png)
 
 
 

@@ -2,9 +2,9 @@
 layout: post
 title:  "Season's 2018"
 date:   2018-12-17 21:02:50 +0800
-category: season
+category: family
 ---
-![2018](http://imgsrc.baidu.com/imgad/pic/item/7acb0a46f21fbe093c6c152860600c338744add8.jpg)
+![2018](http://pic.sc.chinaz.com/files/pic/pic9/201801/zzpic9253.jpg)
 
 今天在回来的车上，爸爸问了你对于自己2018年的总结，原本并没有期望太多，没想到你还是很认真的回顾了自己在过去一年的表现， 并给出了我认为比较客观的分数。 虽然没有我们期望的那么高， 但是这是你基于自己在各方面的表现而打出的，所以我就将它记录在此。 相比于成绩， 我更加看重的是回顾本身，而任何计划，都应该是基于前段时间的总结，所以我觉得你已经为你的2019年开了个好头。 
 

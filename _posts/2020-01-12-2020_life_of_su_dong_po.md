@@ -2,10 +2,10 @@
 layout: post
 title:  "苏东坡传"
 date:   2020-01-12 22:52:50 +0800
-category: read
+category: reading
 ---
 
-![苏东坡传](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579711209440&di=6210a9af384e9cb540613ae8a28738ba&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D1710628268%2C1319653107%26fm%3D214%26gp%3D0.jpg)
+![苏东坡传](https://oss-hz-img-2019.duobiji.com/www/2019-08-08/0etvcevp1j1.jpg)
 
 
 苏轼，唐宋八大家之首，特别对于杭州来说更是熟悉，那句 *欲把西湖比西子， 淡妆浓抹总相宜* 直接就把所有形容西湖的诗句给比了下去。所以那天在杭州图书馆看到 *苏东坡传* 就毫不犹豫的借来了。

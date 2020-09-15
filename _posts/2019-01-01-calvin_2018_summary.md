@@ -2,7 +2,7 @@
 layout: post
 title:  "Calvin's 2018"
 date:   2019-01-01 00:19:50 +0800
-category: summary
+category: life
 ---
 ![2019](http://bpic.ooopic.com/15/82/18/15821850-178a1203ebed812a5ee6fc06ba519567-1.jpg)
 

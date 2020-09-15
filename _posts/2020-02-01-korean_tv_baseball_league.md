@@ -2,8 +2,10 @@
 layout: post
 title:  "棒球大联盟的管理之道"
 date:   2020-02-01 22:14:50 +0800
-category: management
+category: career
 ---
+
+![韩剧-棒球大联盟](http://5b0988e595225.cdn.sohucs.com/images/20200109/17e84a22bc4144a6a20d1295fbdd78a3.jpeg)
 
 好久没有追一本韩剧了。一般说到韩剧，基本套路都是两男两女。男主和女主负责掏心掏肺的相爱却不可得，男二负责死命追女主，而且很多时候素质被男主还要好，女二则负责死命坑女主，追男主。 
 
