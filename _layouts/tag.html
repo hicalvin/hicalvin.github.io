@@ -1,43 +1,25 @@
+---
+layout: page
+# The layout for Tag page
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT Licensed
+---
 
-<!-- Tag Layout Start -->
-
-<!DOCTYPE html>
-<html lang="{{ site.lang }}">
-
-  {% include head.html %}
-
-  <body>
-
-    {% include navigation.html %}
-
-    <section class="container content-section text-center">
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
-
-          {% assign tag = page.title %}
-
-          <h3 id="#{{ tag }}">#{{ tag }}</h3>
-
-          <div>
-            {% for post in site.posts %}
-              {% for t in post.tags %}
-                {% capture tg %}{{ t | downcase }}{% endcapture %}
-                {% if tg == tag %}
-                  {% include post-list.html%}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-    {% include footer.html %}
-
-    {% include js.html %}
-
-  </body>
-</html>
-
-<!-- Tag Layout End -->
+<div id="page-tag">
+  <h1 class="pl-lg-2">
+    <i class="fa fa-tag fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted pl-2">{{ site.tags[page.tag] | size }}</span>
+  </h1>
+  <ul class="post-content pl-0">
+    {% for post in site.tags[page.tag] %}
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small">{{ post.date | date: site.data.date_format.post.long }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

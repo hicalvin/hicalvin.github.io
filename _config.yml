@@ -1,219 +1,202 @@
-
-# Site settings
-
-# NB! Set your site's url, otherwise stuff will break :)
-
-#url: "https://panossakkos.github.io"
-url: "https://hicalvin.github.io"
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-#baseurl: /personal-jekyll-theme
-baseurl: ""
-
-# Google tracking id
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "Calvin Yan"
-title: "{ Calvin Yan }"
-description: "Blog and website of Calvin Yan, blogging mainly for tech. Opinions expressed are mine."
-keywords: "calvin, ck, personal, jekyll"
-favicon: "/img/darth-vader.png"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/darth-vader-white.png"
-
-#background-img: "../img/intro-bg.jpg"
-
-background-img: "/img/bg-england-london.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Convince by saying LET ME SHOW YOU instead of I THINK."
-  - text: "If everything seems under control, you're just not going fast enough."
-  - text: "If you are thinking big enough it is very hard to fail completely."
-  - text: "It helps to see failure as a road and not a wall."
-  - text: "You are confined only by the walls you build yourself."
-
-#me-img: "/img/jetpacktocat.png"
-me-img: "/img/author-calvin.jpg"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: False
-twitter-share: False
-linkedin-share: True
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: True
-pocket-share: False
-vkontakte-share: False
-
-disqus-shortname: "panossakkos"
-
-syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/cisco-logo.png"
-    date: "Mar 2007 - Today"
-    description: "忙着改变世界!"
-  - image: "/img/timeline/webex.jpg"
-    date: "Nov 2004 - Mar 2007"
-    description: "忙着立足世界！"
-  - image: "/img/timeline/hz-westlake.jpg"
-    date: "Jul 2000 - Nov 2004"
-    description: "忙着沉溺杭州！"
-  - image: "/img/timeline/hf-university-of-technology.jpg"
-    date: "Sep 1996 - Jul 2000"
-    description: "忙着研究学问！"
+# The Site Settings
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT licensed
 
 
-# First image of the Timeline
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+#--------------------------
 
-timeline-img: "/img/timeline/me-default.jpg"
+title: Chirpy                          # the main title
 
-###########
-# Contact #
-###########
+tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
-email: "1078216421@qq.com"
+description: >-                        # used by seo meta and the atom feed
+  A minimal, portfolio, sidebar,
+  bootstrap Jekyll theme with responsive web design
+  and focuses on text presentation.
 
-################
-# Author Blurb #
-################
+# Replace with the website url, e.g. 'https://username.github.io'
+url: 'protocol://domain'
 
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
+author: your_full_name                  # change to your full name
 
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Calvin Yan is an awesome person. He is a Java, Python and iOS engineer, experienced on Billing. In his spare time, he likes to travel, espacially on self-driving travel."
-author_blurb_image: "/img/author.png"
+avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
-##################
-# Social Buttons #
-##################
+github:
+  username: github_username             # change to your github username
+
+twitter:
+  username: twitter_username            # change to your twitter username
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+  name: your_full_name                  # it will shows as the copyright owner in Footer
+  email: example@doamin.com             # change to your email address
+  links:
+    # The first element serves as the copyright owner's link
+    - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/username       # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
 
-############
-# 404 page #
-############
+google_site_verification: google_meta_tag_verification # change to your verification string
 
-404-img: "/img/labtocat.png"
+#--------------------------
 
-##################
-# GPG on Keybase #
-##################
 
-keybase-username: calviny
-keybase-in-social: True
-keybase-in-footer: True
+# Only if your site type is GitHub Project sites and doesn't have a custom domain,
+# change below value to '/projectname'.
+baseurl: ''
 
-################################################################################
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone: Asia/Shanghai
 
-# NB! Tread carefully if you want to change the variables below this point!
+google_analytics:
+  id: ''          # Fill with your Google Analytics ID
+  pv:
+    # The Google Analytics pageviews switch.
+    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
+    enabled: false
+    # the next options only valid when `google_analytics.pv` is enabled.
+    proxy_url: ''
+    proxy_endpoint: ''
+    cache: false  # pv data local cache, good for the users from GFW area.
 
-# Sections shown in the index page
+disqus:
+  comments: false  # boolean type, the global switch for posts comments.
+  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
 
-# Exclusion list from the generated _site
+# Prefer color scheme setting, available values:
+#
+#     dual   - Follow the system prefer color by default, and a toggle will display
+#              in the left bottom of Sidebar, which used for switch the theme between dark and light.
+#
+#     light  - Use the light color scheme
+#
+#     dark   - Use the dark color scheme
+#
+theme_mode: dual
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+# boolean type, global switch for ToC in posts.
+toc: true
 
-# Pagination path
+paginate: 10
 
-paginate_path: "blog/page:num/"
+markdown: kramdown
 
-# Enable minification SASS
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# DO NOT change this unless you're a Pro user on Jekyll and Web development,
+# or you think you're smart enough to change other relevant URLs within this template.
+permalink: /posts/:title/
+
+defaults:
+  -
+    scope:
+      path: ""          # An empty string here means all files in the project
+      type: posts
+    values:
+      layout: post
+      comments: true    # Enable comments in posts.
+      toc: true         # Display TOC column in posts.
+      location: Post
+      breadcrumb:
+        -
+          label: Posts
+          url: /
+  -
+    scope:
+      path: _drafts
+    values:
+      comments: false
+  -
+    scope:
+      path: tags
+    values:
+      tab_active: Tags
+      location: Tag
+      breadcrumb:
+        -
+          label: Home
+          url: /
+        -
+          label: Tags
+          url: /tabs/tags/
+  -
+    scope:
+      path: categories
+    values:
+      tab_active: Categories
+      location: Category
+      breadcrumb:
+        -
+          label: Home
+          url: /
+        -
+          label: Categories
+          url: /tabs/categories/
+  -
+    scope:
+      path: tabs
+    values:
+      layout: page
+      dynamic_title: true    # Hide title in mobile screens.
+      breadcrumb:
+        -
+          label: Home
+          url: /
+
 
 sass:
+  sass_dir: /assets/css
   style: compressed
 
-gems:
-  - jekyll-paginate
-  - jemoji
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: [html, head, body, dt, dd, rt, rp,
+            optgroup, option, colgroup, caption,
+            thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 
-theme: "minima"
+exclude:
+  - vendor        # Avoid Jekyll mistakenly read the vendor directory on Travis-CI's VM .
+  - Gemfile.lock
+  - Gemfile
+  - tools
+  - docs
+  - README.md
+  - LICENSE
 
-
-duoshuo_shortname: hicalvin
+sitemap_exclude:  # Sitemap will exclude the following items.
+  fuzzy:
+    - /assets/
+  accurate:
+    - /norobots/
+    - /tabs/
+    - /categories/
+    - /tags/
+    - /posts/
+    - 404.html
+    - feed.xml
+    - sitemap.xml
+    - robots.txt
+    - redirects.json

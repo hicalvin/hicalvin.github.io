@@ -1,40 +1,25 @@
+---
+layout: page
+# The Category layout
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# MIT Licensed
+---
 
-<!-- Category Layout Start -->
+<div id="page-category">
+  <h1 class="pl-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
+  </h1>
 
-<!DOCTYPE html>
-<html lang="{{ site.lang }}">
-
-  {% include head.html %}
-
-  <body>
-
-    {% include navigation.html %}
-
-    <section class="container content-section text-center">
-      <div class="row">
-        <div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
-
-          {% assign category = page.title %}
-
-          <h3 id="#{{ category }}">Category: {{ category }}</h3>
-
-          <div>
-            {% for post in site.posts %}
-              {% if post.category == category %}
-                {% include post-list.html%}
-              {% endif %}
-            {% endfor %}
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-    {% include footer.html %}
-
-    {% include js.html %}
-
-  </body>
-</html>
-
-<!-- Category Layout End -->
+  <ul class="post-content pl-0">
+    {% for post in site.categories[page.category] %}
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small">{{ post.date | date: site.data.date_format.post.long }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
