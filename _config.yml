@@ -10,7 +10,7 @@
 
 title: Calvin Yan                          # the main title
 
-tagline: A software engineer.  # it will display as the sub-title
+tagline: A software engineer in Hangzhou China.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Software development, travel posts, ideas.
@@ -20,7 +20,7 @@ url: 'https://hicalvin.github.io'
 
 author: Calvin Yan                  # change to your full name
 
-avatar: /assets/img/darth-vader.png   # support internet resources
+avatar: /assets/img/me-calvin.jpg   # support internet resources
 
 github:
   username: calviny             # change to your github username

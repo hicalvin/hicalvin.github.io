@@ -2,7 +2,7 @@
 layout: post
 title:  "理解iOS内存管理"
 date:   2016-10-10 21:07:50 +0800
-category: Tech
+category: tech
 ---
 
 这两天看了来自唐巧的《**iOS开发进阶**》， 对一些iOS的关键问题做个笔记， 加深自己的理解。 

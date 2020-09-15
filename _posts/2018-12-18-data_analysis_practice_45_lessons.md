@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Analysis Practice 45 Lessons"
 date:   2018-12-18 23:02:50 +0800
-category: technical
+category: tech
 ---
 ![Data Analysis](http://img.mp.itc.cn/upload/20170531/d3f7e36c1cfd455ab0f98f37ad927671_th.jpg)
 
