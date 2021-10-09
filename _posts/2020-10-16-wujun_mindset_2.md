@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "吴军的见识2"
+title:  "吴军的见识2-管理"
 date:   2020-10-16 21:12:50 +0800
 category: reading
 ---
