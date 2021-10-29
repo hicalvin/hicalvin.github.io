@@ -5,7 +5,7 @@ date:   2021-10-28 15:03:50 +0800
 category: tech
 ---
 
-This is such a [GREAT github repo](https://github.com/jwasham/coding-interview-university) by sharing all the content from John to parepare the interview of programming then successfully became an Engineer of Amazon.
+This is such a [GREAT github repo](https://github.com/jwasham/coding-interview-university) by sharing all the content from [**John Washam**](https://github.com/jwasham) to parepare the interview of programming then successfully became an Engineer of Amazon.
 
 With 196k star, 8.4k watch and 52.7k fork as of now. As he said, this was planed just a to-do list of study topcis, but now it's get such a valuable resource for new software engineers. To do one normal thing in a extreme way will make the whole thing completedly not normal.
 
@@ -19,12 +19,23 @@ For coding, I should start doing something before ending 2021.
 - [x] Big O Natations (general quick tutorial) (video)
   - [Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk). :thumbsup: for this video, explained all the stuffs in math.
     - How to idenify
-            1. find the fastest growing term
-            2. take out the coefficient
+      1. find the fastest growing term
+      2. take out the coefficient
     - Time complexity
       - linear time O(n)
       - constant time O(1)
       - quadratic time O(n^2)
+
+### Data Structures
+
+- [ ] Arrays
+  - [ ] About Arrays
+    - [x] [Arrays(video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF). Great video. Understand benefits of using Arrays
+    - [ ] [CS61B:Data Structures - Iteration and Arrays I by Jonathan Shewchuk from UC-Berkeley](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)
+    - Notes
+      - Array: Contiguous area of memory consisting of equal-size elements indexed by contiguous integers
+      - Constant-time access: array_addr+elem_size*(i - first_index)
+      - Considering the Time Complexity, Array is great for adding/removing in the end with O(1) complexity, but bad for beginning and middle with O(n). Huge benefit is the constant-time access to elements
 
 ### Udemy Courses
 
@@ -35,4 +46,4 @@ For coding, I should start doing something before ending 2021.
 
 ### Resources
 
-[emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation.
+- [emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation, and IF you want to apply into Jekyll like this site, you need to update *_config.yml* to apply by adding *plugins*.
