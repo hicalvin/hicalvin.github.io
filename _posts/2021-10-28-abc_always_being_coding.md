@@ -12,3 +12,23 @@ With 196k star, 8.4k watch and 52.7k fork as of now. As he said, this was planed
 As what wechat mentioned, after visiting John's repo, he turned sleepless that night. I totally agree.
 
 For coding, I should start doing something before ending 2021.
+
+### Start from Algorithm
+
+- [x] Harvard CS50 - Asymptotic Notation(video)
+- [x] Big O Natations (general quick tutorial) (video)
+  - [Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk). :thumbsup: for this video, explained all the stuffs in math.
+        - How to idenify
+            1. find the fastest growing term
+            2. take out the coefficient
+        - Time complexity
+            - linear time O(n)
+            - constant time O(1)
+            - quadratic time O(n^2)
+
+### Udemy Courses
+
+- [ ] Computer Science 101: Master the Theory Behind Programming
+- [ ] Python Programming Bootcamp
+- [ ] Complete Python Developer in 2021: Zero to Mastery
+- [ ] 100 Days of Code - The complete Python Programming
