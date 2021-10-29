@@ -18,13 +18,13 @@ For coding, I should start doing something before ending 2021.
 - [x] Harvard CS50 - Asymptotic Notation(video)
 - [x] Big O Natations (general quick tutorial) (video)
   - [Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk). :thumbsup: for this video, explained all the stuffs in math.
-        - How to idenify
+    - How to idenify
             1. find the fastest growing term
             2. take out the coefficient
-        - Time complexity
-            - linear time O(n)
-            - constant time O(1)
-            - quadratic time O(n^2)
+    - Time complexity
+      - linear time O(n)
+      - constant time O(1)
+      - quadratic time O(n^2)
 
 ### Udemy Courses
 
@@ -34,4 +34,5 @@ For coding, I should start doing something before ending 2021.
 - [ ] 100 Days of Code - The complete Python Programming
 
 ### Resources
+
 [emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation.
