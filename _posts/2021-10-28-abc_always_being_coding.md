@@ -32,3 +32,6 @@ For coding, I should start doing something before ending 2021.
 - [ ] Python Programming Bootcamp
 - [ ] Complete Python Developer in 2021: Zero to Mastery
 - [ ] 100 Days of Code - The complete Python Programming
+
+### Resources
+[emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation.

@@ -78,6 +78,9 @@ disqus:
 #
 theme_mode: dual
 
+plugins:
+  - jemoji
+
 # boolean type, global switch for ToC in posts.
 toc: true
 
