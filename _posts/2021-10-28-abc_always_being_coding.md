@@ -39,18 +39,22 @@ I really should do better job in CODING by the end of 2021.
         - sample code:
           > PushBack(val)  
           > if size = capacity:  
-          >   allocate new_arr[2*capacity]  
-          >   for i from 0 to size - 1:  
-          >     new arr[i] = arr[i]  
-          >   free arr  
-          >   arr = new_arr  
-          >   capacity = 2*capacity  
+          >     allocate new_arr[2*capacity]  
+          >     for i from 0 to size - 1:  
+          >         new arr[i] = arr[i]  
+          >     free arr  
+          >     arr = new_arr  
+          >     capacity = 2*capacity  
           > arr[size] = val  
           > size = size + 1
       - [Jagged Arrays](https://www.youtube.com/watch?v=1jtrQqYpt7g), Aka Array of Arrays like 
         > int[][] mil = new int[4][];  
         > mil[0] = new int[6];  
         > mil[1] = new int[4];  
+
+### Python Basic
+
+- [ ] Python Gramma
 
 ### Udemy Courses
 
@@ -62,3 +66,5 @@ I really should do better job in CODING by the end of 2021.
 ### Resources
 
 - [emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation, and IF you want to apply into Jekyll like this site, you need to update *_config.yml* to apply by adding *plugins*.
+- [HashTable](https://zhuanlan.zhihu.com/p/84327339) is different with Arrays. Arrays can only identify the value with index, but HashTable could use Hash Function with input parameter of *key*. That means, for unsorted Array, the time complexity will be O(n), even for sorted Array, it will be O(log2n). But for HashTable, it's always content time of O(1). That means, almost all the *key-value* containers are using HashTable mindset. Taking product as sample, it's **Redis**.
+- Use [Jupyter Notebook](https://jupyter.org/) to take as notebook since it can either run Python and can also using Markdown to take notes. Github.io is that just for tracking the progress. AMAZING !!
