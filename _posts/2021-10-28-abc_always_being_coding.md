@@ -5,17 +5,16 @@ date:   2021-10-28 15:03:50 +0800
 category: tech
 ---
 
-This is such a [GREAT github repo](https://github.com/jwasham/coding-interview-university) by sharing all the content from [**John Washam**](https://github.com/jwasham) to parepare the interview of programming then successfully became an Engineer of Amazon.
+This is such a [GREAT github repo](https://github.com/jwasham/coding-interview-university) to share all the content from [**John Washam**](https://github.com/jwasham) when he was pareparing the interview of programming, and eventually became an Engineer of Amazon successfully.
 
-With 196k star, 8.4k watch and 52.7k fork as of now. As he said, this was planed just a to-do list of study topcis, but now it's get such a valuable resource for new software engineers. To do one normal thing in a extreme way will make the whole thing completedly not normal.
+With 196k star, 8.4k watch and 52.7k fork as of now. this was planed just a to-do list of study topcis in the beginning, but now it's such a valuable resource for new software engineers. *To do one normal thing in a extreme way will make the whole thing completedly not normal.*
 
-As what wechat mentioned, after visiting John's repo, he turned sleepless that night. I totally agree.
-
-For coding, I should start doing something before ending 2021.
+I really should do better job in CODING by the end of 2021.
 
 ### Start from Algorithm
 
 - [x] Harvard CS50 - Asymptotic Notation(video)
+- [x] Buy the book of **Data structure and Algorithm in Python**
 - [x] Big O Natations (general quick tutorial) (video)
   - [Intro to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk). :thumbsup: for this video, explained all the stuffs in math.
     - How to idenify
@@ -36,6 +35,19 @@ For coding, I should start doing something before ending 2021.
       - Array: Contiguous area of memory consisting of equal-size elements indexed by contiguous integers
       - Constant-time access: array_addr+elem_size*(i - first_index)
       - Considering the Time Complexity, Array is great for adding/removing in the end with O(1) complexity, but bad for beginning and middle with O(n). Huge benefit is the constant-time access to elements
+      - [Dynamic Arrays](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV) is to resolve the problem that might not know max size when allocating an array. Instead of direct store, idea is to store a pointer to a dynamically allocated array and replace it with a newly allocated array as needed. In Python, it's **list** Java is **ArrayList** C++ is **Vector** 
+        - sample code:
+          > PushBack(val)
+          > if size = capacity:
+          >   allocate new_arr[2*capacity]
+          >   for i from 0 to size - 1:
+          >     new arr[i] = arr[i]
+          >   free arr
+          >   arr = new_arr
+          >   capacity = 2*capacity
+          > arr[size] = val
+          > size = size + 1
+      - [Jagged Arrays](https://www.youtube.com/watch?v=1jtrQqYpt7g), Aka Array of Arrays like int[][] mil = new int[4][];
 
 ### Udemy Courses
 
