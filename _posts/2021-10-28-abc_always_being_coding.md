@@ -38,19 +38,19 @@ I really should do better job in CODING by the end of 2021.
       - [Dynamic Arrays](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV) is to resolve the problem that might not know max size when allocating an array. Instead of direct store, idea is to store a pointer to a dynamically allocated array and replace it with a newly allocated array as needed. In Python, it's **list** Java is **ArrayList** C++ is **Vector**
         - sample code:
           > PushBack(val)  
-          > if size = capacity:  
-          >     allocate new_arr[2*capacity]  
-          >     for i from 0 to size - 1:  
-          >         new arr[i] = arr[i]  
-          >     free arr  
-          >     arr = new_arr  
-          >     capacity = 2*capacity  
-          > arr[size] = val  
-          > size = size + 1
+            if size = capacity:  
+                allocate new_arr[2*capacity]  
+                for i from 0 to size - 1:  
+                    new arr[i] = arr[i]  
+                free arr  
+                arr = new_arr  
+                capacity = 2*capacity  
+            arr[size] = val  
+            size = size + 1
       - [Jagged Arrays](https://www.youtube.com/watch?v=1jtrQqYpt7g), Aka Array of Arrays like 
         > int[][] mil = new int[4][];  
-        > mil[0] = new int[6];  
-        > mil[1] = new int[4];  
+          mil[0] = new int[6];  
+          mil[1] = new int[4];  
 
 ### Python Basic
 
