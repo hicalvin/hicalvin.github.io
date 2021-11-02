@@ -63,30 +63,58 @@ I really should do better job in CODING by the end of 2021.
 
       - [HashTable](https://zhuanlan.zhihu.com/p/84327339) is different with Arrays. Arrays can only identify the value with index, but HashTable could use Hash Function with input parameter of *key*. That means, for unsorted Array, the time complexity will be O(n), even for sorted Array, it will be O(log2n). But for HashTable, it's always content time of O(1). That means, almost all the *key-value* containers are using HashTable mindset. Taking product as sample, it's **Redis**.
 
-      
-
-- [] Linked List
+- [x] Linked List
   - [x] [Linked List (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
   - [x] [CS 61B Lecture 7 : Linked List I](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
   - [x] [Using C code to create Single Linked List](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+  - [x] [Core: Lined List vs. Arrays](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9) tells the differences clearly. **Highly recommend**
+
+    ---
+    - Notes
+      - [Singly-Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)'s PushBack(no tail) is pretty expense since have to start from beginning and walk through till the end, so it's O(n). Same for PopBack(no tail). But if there's tail, for PushBack(with tail), the time complexity down to O(1). But for PopBack(with tail), it's still O(n) (*think about why*)
+      **Doubly Linked List** will add *head* along with *tail*. *head* pointer will be used point to previous Node.
+
+        ```java
+        public class ListNode{
+          int item;
+          ListNode next;
+        }
+        ListNode l1 = ListNode();
+        ListNode l2 = ListNode();
+        ListNode l3 = ListNode();
+        l1.item = 7;
+        l2.item = 0;
+        l3.item = 6;
+        l1.next = l2;
+        l2.next = l3;
+        l3.next = null;  // In Java, null has to be lower case 
+        ```
+
+- [ ]Stacks
+  - [ ] [Coursera](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ) tells clearly what Stacks is, just think about a pile of books.
+
+  ---
 
   - Notes
-    - [Singly-Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)'s PushBack(no tail) is pretty expense since have to start from beginning and walk through till the end, so it's O(n). Same for PopBack(no tail). But if there's tail, for PushBack(with tail), the time complexity down to O(1). But for PopBack(with tail), it's still O(n) (*think about why*)
+    - Stack: Abstract data type with the following operations:
+      - Push(Key): add key to collection
+      - Key Top(): return the most recently-added key
+      - Key Pop(): removes and returns most recently-added key
 
-      ```java
-      public class ListNode{
-        int item;
-        ListNode next;
+      ```c++
+      IsBalanced(str) {
+        Stack stack
+        for char in str:
+          if char in ['(', '[']:
+            stack.Push(char)
+          else:
+            if stack.Empty(): return False
+            top <- stack.Pop()
+            if (top = '[' and char != ']') or
+            (top = '(' and char != ')'):
+              return False
+        return stack.Empty()
       }
-      ListNode l1 = ListNode();
-      ListNode l2 = ListNode();
-      ListNode l3 = ListNode();
-      l1.item = 7;
-      l2.item = 0;
-      l3.item = 6;
-      l1.next = l2;
-      l2.next = l3;
-      l3.next = null;  // In Java, null has to be lower case 
       ```
 
 ### Python Basic
@@ -104,3 +132,4 @@ I really should do better job in CODING by the end of 2021.
 
 - [emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation, and IF you want to apply into Jekyll like this site, you need to update *_config.yml* to apply by adding *plugins*.
 - Use [Jupyter Notebook](https://jupyter.org/) to take as notebook since it can either run Python and can also using Markdown to take notes. Github.io is that just for tracking the progress. **AMAZING !!**
+- If want to run jekyll locally, refer to [Jekyll Quickstart](https://jekyllrb.com/docs/). Some issue to run when configured *__plugin* in *_config.yml*, so just use *--safe* to avoid this issue.
