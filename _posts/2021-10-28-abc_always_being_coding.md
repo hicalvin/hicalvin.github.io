@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YYDS:John Washam, Great sample of ABC, Always Being Coding"
+title:  "John Washam, Great sample of ABC, Always Being Coding"
 date:   2021-10-28 15:03:50 +0800
 category: tech
 ---
@@ -27,12 +27,11 @@ I really should do better job in CODING by the end of 2021.
 
 ### Data Structures
 
-- [ ] Arrays
-  - [ ] About Arrays
+- [x] Arrays
+  - [x] About Arrays
     - [x] [Arrays(video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF). Great video. Understand benefits of using Arrays
     - [x] [CS61B:Data Structures - Iteration and Arrays I by Jonathan Shewchuk from UC-Berkeley](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)
-    - [x] [Linked List (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
-    - [ ] [CS 61B Lecture 7 : Linked List I](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+
     ---
     - Notes
       - Array: Contiguous area of memory consisting of equal-size elements indexed by contiguous integers
@@ -64,7 +63,15 @@ I really should do better job in CODING by the end of 2021.
 
       - [HashTable](https://zhuanlan.zhihu.com/p/84327339) is different with Arrays. Arrays can only identify the value with index, but HashTable could use Hash Function with input parameter of *key*. That means, for unsorted Array, the time complexity will be O(n), even for sorted Array, it will be O(log2n). But for HashTable, it's always content time of O(1). That means, almost all the *key-value* containers are using HashTable mindset. Taking product as sample, it's **Redis**.
 
-      - [Singly-Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)'s PushBack(no tail) is pretty expense since have to start from beginning and walk through till the end, so it's O(n). Same for PopBack(no tail). But if there's tail, for PushBack(with tail), the time complexity down to O(1). But for PopBack(with tail), it's still O(n) (*think about why*)
+      
+
+- [] Linked List
+  - [x] [Linked List (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+  - [x] [CS 61B Lecture 7 : Linked List I](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+  - [x] [Using C code to create Single Linked List](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+
+  - Notes
+    - [Singly-Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)'s PushBack(no tail) is pretty expense since have to start from beginning and walk through till the end, so it's O(n). Same for PopBack(no tail). But if there's tail, for PushBack(with tail), the time complexity down to O(1). But for PopBack(with tail), it's still O(n) (*think about why*)
 
       ```java
       public class ListNode{
