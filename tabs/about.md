@@ -8,4 +8,6 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+Located in **Hangzhou, China**. Love Software, Soccer, Cyber Game etc.
+
+> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page

@@ -61,8 +61,6 @@ I really should do better job in CODING by the end of 2021.
           mil[1] = new int[4];
         ```
 
-      - [HashTable](https://zhuanlan.zhihu.com/p/84327339) is different with Arrays. Arrays can only identify the value with index, but HashTable could use Hash Function with input parameter of *key*. That means, for unsorted Array, the time complexity will be O(n), even for sorted Array, it will be O(log2n). But for HashTable, it's always content time of O(1). That means, almost all the *key-value* containers are using HashTable mindset. Taking product as sample, it's **Redis**.
-
 - [x] Linked List
   - [x] [Linked List (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
   - [x] [CS 61B Lecture 7 : Linked List I](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
@@ -90,8 +88,8 @@ I really should do better job in CODING by the end of 2021.
         l3.next = null;  // In Java, null has to be lower case 
         ```
 
-- [ ]Stacks
-  - [ ] [Coursera](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ) tells clearly what Stacks is, just think about a pile of books.
+- [x] Stacks
+  - [x] [Stacks lecture in Coursera](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ) tells clearly what Stacks is and how implemented with Arrays and Linked List.
 
   ---
 
@@ -116,6 +114,46 @@ I really should do better job in CODING by the end of 2021.
         return stack.Empty()
       }
       ```
+
+      - Stacks are ocassionaly know as LIFO queues. Each stack operation is O(1): Push, Pop, Top, Empty
+      - Implementations in Python are below from [geeksforgeeks](https://www.geeksforgeeks.org/stack-in-python/):
+        - list
+        - collections.deque
+        - queue.LifoQueue
+
+- [x] Queue
+  - [x] [Queue lecture in Coursera](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+
+  ---
+
+  - Notes
+    - Queue: Abstract data type with the following operations:
+      - Enqueue(Key): adds key to collection
+      - Key Dequeue(): remove and returns least recently-added key
+      - FIFO
+
+- [ ] Hash table
+  - [x] [Hashing with Chaining video from MIT](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
+  - [x] [Core: Hash Tables](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
+  - [x] [What is Simple Uniform Hashing](https://www.youtube.com/watch?v=Fr7Do5P1Tv8)
+  - [x] The POST of [Hashtable and Hashing](https://www.cnblogs.com/gaochundong/p/hashtable_and_perfect_hashing.html) is using the case of storing Social Number (DDD-DD-DDDD) to a Hashtable, and it covered Hashtable, Hashing, Collision etc.
+
+  ---
+
+  - Notes
+    - Dictionary (in Python): Abstract Data Type, maintain set of items, each with a key.
+      - insert(key): dict[key] = vel
+      - delete(key): del dict[key]
+      - search(key): dict[key]
+
+    - [HashTable](https://zhuanlan.zhihu.com/p/84327339) is different with Arrays. Arrays can only identify the value with index, but HashTable could use Hash Function with input parameter of *key*. That means, for unsorted Array, the time complexity will be O(n), even for sorted Array, it will be O(log2n). But for HashTable, it's always content time of O(1). That means, almost all the *key-value* containers are using HashTable mindset. Taking product as sample, it's **Redis**.
+    - Using **Chaining** or **Open Addressing** to resolve Hash Collision. Expected length of chain for n keys in m slots = n*(1/m) = n/m = $\alpha$. Running time = O(1 + $\alpha$)
+    - Hash Functions
+      1. Division method: ```hash(key) = key mod m```
+      2. Multiplication method: ```hash(key) = floor( m *( A* key mod 1) )```
+      3. Universal hashing: ```hash a,b(key) = ((a*key + b) mod p) mod m```
+      4. Perfect hashing: basicaly using two layer of Universal Hashing.
+    - Interesting stuffs in the [Video of Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=10) is about growing the table. **Cool Stuffs** 
 
 ### Python Basic
 
