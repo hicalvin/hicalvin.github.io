@@ -170,4 +170,3 @@ I really should do better job in CODING by the end of 2021.
 
 - [emoji shortcuts](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) could be well used in Markdown documentation, and IF you want to apply into Jekyll like this site, you need to update *_config.yml* to apply by adding *plugins*.
 - Use [Jupyter Notebook](https://jupyter.org/) to take as notebook since it can either run Python and can also using Markdown to take notes. Github.io is that just for tracking the progress. **AMAZING !!**
-- If want to run jekyll locally, refer to [Jekyll Quickstart](https://jekyllrb.com/docs/). Some issue to run when configured *__plugin* in *_config.yml*, so just use *--safe* to avoid this issue.

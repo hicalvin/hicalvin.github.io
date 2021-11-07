@@ -7,19 +7,11 @@ category: tech
 
 和同事W在培训的时候闲聊，发现彼此都有强烈的吐槽愿望。 我的困扰在于没有合适的平台，但是W推荐的GitHub Pages让我觉得似乎困难没有想象的那么大。 用GitHub Pages作为博客站点的好处有那么几个。 首先， 如果你要沾点工程师气质的话， GitHub作为工程师的Facebook， 简直没有第二个可以与它相比。 既然要做个带点工程师气质的博客站点， 我都快舍不得去用自己的域名来替代 github.io 了。 其次， 网站无限流量， 而且长城内外都可以访问， 当初光这两点基本上就已经打动我了。 另外还有， 就是丰富的资源， GitHub上各种主题模版， 框架都随你使用，操作也是如此简单， 只要通用的Git命令就可以快速上传你要发布的内容。 早知如此， 怎么这么久才动呢。 之前自己发布的内容包括了各种论坛， 博客， 微博， 但也导致了自己的分享碎片化。 有个集中的， 自由度又极高的， 又是可以访问的地方实在是不可多得。 **再次感谢W(韦斯特)的推荐！！**
 
-另外说个小插曲。 开始时候在选择Jekyll和Hexo之间又犯难了， 但是在咨询Google Trend 以后就果断选择了Jekyll。 看图可能就很快明白了
+另外说个小插曲。 开始时候在选择Jekyll和Hexo之间又犯难了， 但是在咨询[Google Trend](https://trends.google.com/trends/explore?date=today%205-y&q=jekyll,hexo) 以后就果断选择了Jekyll。
 
-![比较图一](/img/timeline/screenshot-jekyll-hexo-1.png)
+选好了平台和核心组件， 接下来就是 -- **STOP TALK SHOW ME THE CODE**
 
-![比较图二](/img/timeline/screenshot-jekyll-hexo-2.png)
-
-
-
-选好了平台和核心组件， 接下来就是 
-
-<code>STOP TALK SHOW ME THE CODE</code>
-
-网上有很多手把手一步步建站的文章，我就不重复写了。 
+网上有很多手把手一步步建站的文章，我就不重复写了。
 
 [痞子达分享的*Jekyll本地搭建开发环境以及Github部署流程*](https://www.jianshu.com/p/f37a96f83d51)
 
@@ -28,12 +20,17 @@ category: tech
 几乎就这么多， 剩下的就是去熟悉MarkDown的语法， 然后就是
 
 <pre><code>
-$>git add . 
+$>git add .
 $>git commit -m "blablabla.."
 $>git push
 </code></pre>
 
-
 好了， 开始写吧， 动手比任何方式都学得快！！
 
+---
 
+- If want to run jekyll locally, refer to [Jekyll Quickstart](https://jekyllrb.com/docs/). Some issue to run when configured *__plugin* in *_config.yml*, so just use *--safe* to avoid this issue.
+- **Be cautious to upgrade MacOS, unless you think it's REALLY, REALLY NEEDED** After upgrading MacOS, Jekyll environment got crashed again coz all the Ruby installing is messed. Have to few things to make it recovered.
+  1. xcode-select --install    # this is to install the Command Line Tool of Xcode
+  2. After installation, make sure you can run *git*
+  3. Install *bundler* again based on [guidance](https://bundler.io/)
