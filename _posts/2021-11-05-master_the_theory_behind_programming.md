@@ -162,62 +162,63 @@ category: tech
   - Example
     - Web page history in web browser
 
-- Section 5: Stacks and Queues
-  - Stacks
-    - Think about trays in the cafeteria
-    - Using **Pop()** to get the top element, and use **Push()** to put elements. This is called LIFO(Last In First Out, or Most Recent IN, First Out)
-    - Trying to Pop from an empty stack will cause an error
-    - Examples
+### Section 5: Stacks and Queues
 
-      ```python
-      def createStack():
-        stack = []
-        return stack
-      
-      def isEmpty(stack):
-        return len(stack) == 0
-      
-      def push(stack, item):
-        stack.append(item)
-        print(item + " pushed to stack")
-
-      def pop(stack):
-        if(isEmpty(stack)):
-          return str("Null")
-        
-        return stack.pop()
-
-      stack = createStack()
-      push(stack, str(10))
-      print(pop(stack) + " from stack")
-      print(pop(stack))
-      ```
-
-      ```python
-      stacks = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
-      print(stacks)
-      stacks.pop()
-      stacks.pop()
-      stacks.append('coconut')
-      print(stacks)
-      print(type(stacks))
-      ```
-
-  - Queues
-    - FIFO (First In, First Out).
-    - Using a Circular Array or Doubly Linked List with Tail Pointer to implement
-    - E.g. How cpu process the tasks.
-
-    - *Code Snippet*
+- Stacks
+  - Think about trays in the cafeteria
+  - Using **Pop()** to get the top element, and use **Push()** to put elements. This is called LIFO(Last In First Out, or Most Recent IN, First Out)
+  - Trying to Pop from an empty stack will cause an error
+  - Examples
 
     ```python
-    from collections import deque
-    queue = deque(["Eric", "John", "Michael"])
-    queue.append("Smith")
-    queue.append("Tony")
-    print(queue)
-    queue.pop()
-    print(queue)
-    queue.popleft()
-    print(queue)
+    def createStack():
+      stack = []
+      return stack
+    
+    def isEmpty(stack):
+      return len(stack) == 0
+    
+    def push(stack, item):
+      stack.append(item)
+      print(item + " pushed to stack")
+
+    def pop(stack):
+      if(isEmpty(stack)):
+        return str("Null")
+      
+      return stack.pop()
+
+    stack = createStack()
+    push(stack, str(10))
+    print(pop(stack) + " from stack")
+    print(pop(stack))
     ```
+
+    ```python
+    stacks = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+    print(stacks)
+    stacks.pop()
+    stacks.pop()
+    stacks.append('coconut')
+    print(stacks)
+    print(type(stacks))
+    ```
+
+- Queues
+  - FIFO (First In, First Out).
+  - Using a Circular Array or Doubly Linked List with Tail Pointer to implement
+  - E.g. How cpu process the tasks.
+
+  - *Code Snippet*
+
+  ```python
+  from collections import deque
+  queue = deque(["Eric", "John", "Michael"])
+  queue.append("Smith")
+  queue.append("Tony")
+  print(queue)
+  queue.pop()
+  print(queue)
+  queue.popleft()
+  print(queue)
+  ```
