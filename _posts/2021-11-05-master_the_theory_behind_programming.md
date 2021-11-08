@@ -98,7 +98,7 @@ category: tech
 ### Section 4: Linked Lists
 
 - Nodes
-  - Composed by 3 parts: Data itself of address, Prev pointer, and Next pointer. 
+  - Composed by 3 parts: Data itself of address, Prev pointer, and Next pointer.
 
 - Linked List
   - A bunch of Nodes
@@ -221,4 +221,107 @@ category: tech
   print(queue)
   queue.popleft()
   print(queue)
+  ```
+
+  ```python
+  class Queue:
+    def __init__(self, capacity):
+      self.front = self.size = 0
+      self.rear = capacity -1
+      self.Q = [None] * capacity
+      self.capacity = capacity
+
+    def isFull(self):
+      return self.size == self.capacity
+
+    def enQueue(self, item):
+      if self.isFull():
+        print("Full)
+        return
+      self.rear = (self.rear + 1) % (self.capacity)
+      self.Q[self.rear] = item
+      self.size = self.size + 1
+      pritn("%s enqueued to queue" % str(item))
+  ```
+
+- Stack and Queue Real World Example
+  - Undo and Redo
+  - Maze
+  - Case learning
+
+    ```python
+    We have a stack and queue, [-, -, 4, 3] and [-, -, 2, 1] respectively. When you pop off of the stack, it enqueue on to the queue, implemented as a circular array.(So pop(x) => both pop off the stack and enqueue(x)).
+
+    (Front of the queue is currently on 2, and back on 1. We queue on to the front, and remove from the back. Note: )
+
+    What will the stack and queue look like after: *pop(), push(4), pop(), dequeue(), push(5), push(6), pop(), dequeue(), push(4), pop(), dequeue()
+    a. Stack: [-,-,5,3] Queue: [4,-,4,6]
+    b. Stack: [-,-,5,3] Queue: [-,-,4,6]
+    c. Stack: [-,-,-,5] Queue: [4,-,-,6]
+    d. Stack: [-,-,-,-] Queue: [4,-,4,6]
+    ```
+
+### Sorting Algorithm
+
+[Visualgo.net](https://visualgo.net/en/sorting) shows all the sorting algorithm with visualized motional graphs. Very useful resoruce.
+
+- Bubble Sort (冒泡排序)
+  - Easy to implement, but **bad algorithm**
+  - Run Time:
+    - O(n^2)
+
+    ```c
+    do
+      swapped = false
+      for i = 1 to idnexOfLastUnsortedElement - 1
+        if leftElement > rightElement
+          swap(leftElement, rightElement)
+          swapped = true
+    while swapped
+    ```
+
+    - *Code Sample*
+
+    ```python
+    def bubbleSort(arr):
+    n = len(arr)
+
+    for i in range(0, n-1):
+      for j in range(0, n-i-1):
+        if arr[j] > arr[j+1]:
+          arr[j], arr[j+1] = arr[j+1], arr[j]
+    ```
+
+- Selection Sort (选择排序)
+  - Run Time: O(n^2). Even the best run time is also n^2
+  - The **most inefficient** sort algorithm
+  - Code Sample
+
+    ```python
+    def selectionSort(arr):
+      n = len(arr)
+      for i in range(0, n-1):
+        min_index = i
+        for j in range(i+1, n-1):
+          if arr[min_index] > arr[j]
+            min_index = j
+
+        arr[i], arr[min_index] = arr[min_index], arr[i]
+    ```
+
+- Insertion Sort (插入排序法)
+  - Run time: O(n^2) (identical to bubble sort)
+  
+- Recursion
+  *Sample*
+
+  ```java
+  int sumBy3(int n, int x)
+  {
+    print("We are at: " + n)
+    if(n < = 1) // base case
+      return x;
+    else
+      return sumBy3(n-3, x+n)
+  }
   ```
