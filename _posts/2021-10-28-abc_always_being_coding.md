@@ -142,7 +142,7 @@ I really should do better job in CODING by the end of 2021.
 
   - Notes
     - Dictionary (in Python): Abstract Data Type, maintain set of items, each with a key.
-      - insert(key): dict[key] = vel
+      - insert(key): dict[key] = val
       - delete(key): del dict[key]
       - search(key): dict[key]
 

@@ -266,6 +266,7 @@ category: tech
 [Visualgo.net](https://visualgo.net/en/sorting) shows all the sorting algorithm with visualized motional graphs. Very useful resoruce.
 
 - Bubble Sort (冒泡排序)
+  - Bubble Sort is arguably the simplest sorting algorithm. It works by repeatedly swapping adjacent elements that are in the wrong order.
   - Easy to implement, but **bad algorithm**
   - Run Time:
     - O(n^2)
@@ -310,6 +311,7 @@ category: tech
     ```
 
 - Insertion Sort (插入排序法)
+  - The selection sort is very similar to that of bubble sort. Instead of finding a max however, It repeatedly finds the minimum element from the unsorted portion, and puts it into a "sorted portion".
   - Run time: O(n^2) (identical to bubble sort)
   
 - Recursion
@@ -325,3 +327,229 @@ category: tech
       return sumBy3(n-3, x+n)
   }
   ```
+
+- Quick Sort
+  - Quick Sort works off picking a “pivot” point. All numbers less than the pivot point go to the left, and all numbers greater than the pivot point go to the right. It then reapplies this algorithm to each side of the pivot
+  - Run time: average case is O(nlogn)
+  - [A Complete Overview of Quicksort](https://www.youtube.com/watch?v=0SkOjNaO1XY) worth to figure out, which can clearly explained the source codes.
+  - Example
+
+    ```python
+    def quicksort(arr, low, high):
+      if low < high:  # base case to exit from recursion
+
+        #create our pivot array
+        partitionIndex = partition(arr, low, high)
+
+        quickSort(arr, low, partitionIndex -1 )
+        quickSort(arr, partitionIndex + 1, high)
+    
+    def partition(arr, low, high):
+      i = (low - 1)  # index of smaller elelment
+      pivot = arr[high]  # pivot
+      for j in range(low, high):
+
+        # If curent elelment is smaller than the pivot
+        if arr[j] < pivot:
+
+          # increment index of smaller element
+          i = i + 1
+          arr[i], arr[j] = arr[j], arr[i]
+      
+      arr[i+1], arr[high] = arr[high], arr[i+1]
+      return (i+1)
+
+    arr = [55, 44, 10, 30, 15, 35]
+    quickSort(arr, 0, len(arr)-1)
+    ```
+
+- Merge Sort (归并排序)
+  - Merge Sort is the fastest algorithm we are going to be analyzing. (Fastest on average, quicksort is technically faster, but has the problem of the n^2 worst case).  It has a way of dividing the data up like in quick sort, except that it doesn’t require selecting a pivot point to get the nlogn run times
+  - Kind of the fastest algorithm. Recommend [Merge Sort - Data Structure & algorithms Tutorial Python](https://www.youtube.com/watch?v=nCNfu_zNhyI) which tell the merge sort with Python clearly. 
+  - Run Time: O(nlogn)
+
+    ```pseudocode
+    MergeSort(arr[], l, r)
+    if r > 1
+      1. Find the pivot. We are choosing the array.:
+         1. middle m = (1+r)/2
+      2. Call mergeSort recursively for first half:
+         1. Call mergeSort(arr, 1, m)
+      3. Call mergeSort recursively for second half:
+         1. Call mergeSorge(arr, m+1, r)
+      4. Merge the two halves sorted in step 2 and 3:
+         1. Call merge(arr, 1, m, r)
+    ```
+
+    *Code Sample*
+    ```python
+    def merge_sort(arr):
+      if len(arr) <= 1:
+        return arr
+      
+      mid = len(arr)//2
+
+      left = arr[:mid]
+      right = arr[mid:]
+
+      left = merge_sort(left)
+      right = merge_sort(right)
+
+      return merge_two_sorted_lists(left, right)
+    
+    def merge_two_sorted_lists(a, b):
+      sorted_list = []
+      len_a = len(a)
+      len_b = len(b)
+      i = j = 0  # i is the index of a, j is the index of b
+
+      while i < len_a and j < len_b:
+        if a[i] <= b[j]:
+          sorted_list.append(a[i])
+          i+ = 1
+        else:
+          sorted_list.append(b[j])
+          j+ = 1
+      
+      while i < len_a:
+        sorted_list.append(a[i])
+        i+ = 1
+
+      while j < len_b:
+        sorted_list.append(b[j])
+        j+ = 1
+
+      return sorted_list
+
+    if __name__ == '__main__':
+      arr = [5, 8, 23, 56, 89, 100, 7, 9, 52, 45]
+      sorted_arr = merge_sort(arr)
+
+      print(sorted_arr)
+    ```
+
+    *Optimized Code Sample by saving memory*
+    ```python
+    def merge_sort(arr):
+      if len(arr) <= 1:
+        return
+      
+      mid = len(arr)//2
+
+      left = arr[:mid]
+      right = arr[mid:]
+
+      left = merge_sort(left)
+      right = merge_sort(right)
+
+      merge_two_sorted_lists(left, right, arr)
+    
+    def merge_two_sorted_lists(a, b, arr):
+
+      len_a = len(a)
+      len_b = len(b)
+      i = j = k = 0  # i is the index of a, j is the index of b, k point to the postion of new sorted array
+
+      while i < len_a and j < len_b:
+        if a[i] <= b[j]:
+          arr[k] = a[i]
+          i+ = 1
+        else:
+          arr[k] = b[j]
+          j+ = 1
+        k+ = 1
+
+      while i < len_a:
+        arr[k] = a[i]
+        i+ = 1
+        k+ = 1
+
+      while j < len_b:
+        arr[k] = b[j]
+        j+ = 1
+        k+ = 1
+
+    if __name__ == '__main__':
+      arr = [5, 8, 23, 56, 89, 100, 7, 9, 52, 45]
+      merge_sort(arr)
+
+      print(arr)
+    ```
+
+- Stable and Non-Stable
+  - Sometimes the order of data within data structures is important. Certain sorting algorithms adhere to this importance, while others don’t. If a data structure takes order in to account, we call it stable, if it doesn’t, we call it not stable or non-stable.  
+  - Selection Sort and Quick Sort is NOT stable (Quick Sort happens when picking the pivot. Selection Sort happends when it swap)
+  - Bubble, Insertion and Merge Sort is stable
+
+- Trees
+  - Binary Search Tree (BST)
+    - Each node can only have at most two children  
+    - All right children must be greater than  
+    - All left children must be less than or equal to. (You can put the equal to on the right or left)  
+  - Trees are some of the most used data structures in computer science. They link information together in a relational way. You can use them to sort, to store information, to make inferences, and so much more. They are even used in databases to help index (find) the data in the database.  
+  - Parents are the nodes that are directly above another node, while children are ones that are directly below
+
+  ```python
+  class Node:
+    def __init__(self, key):
+      self.left = None
+      self.right = None
+      self.val = key
+
+    def insert(root, key):
+      if root is None:
+        return Node(key)
+      else 
+        if root.val == key:
+          return root
+        elif root.val < key:
+          root.right = insert(root.right, key)
+        else:
+          root.left = insert(root.left, key)
+      return root
+    
+    def search(root, key):
+      if root is None or root.val = key:
+        return root
+      
+      if root.val < key:
+        return search(root.right, key)
+      
+      return search(root.left, key)
+  ```
+
+  - Tree Traversals
+    - InOrder: Left, Root, Right
+    - PreOrder: Root, Left, Right
+    - PostOrder: Left, Right Root
+    - Tree Example:
+      <img src='https://g.gravizo.com/svg?
+ digraph G {
+   20 -> 10;
+   20 -> 25;
+   10 -> 5 -> 7;
+   10 -> 13;
+   7 -> 6
+   7 -> 8;
+   25 -> 23 -> 24;
+ }
+'/>
+      - InOrder: L, Ro, R:  5, 6, 7, 8, 10, 13 20, 23, 24, 25
+
+      - PreOrder: Ro, L, R: 20, 10, 5, 7, 6, 8, 13, 25, 23, 24
+
+      - PostOrder: L, R, Ro: 6, 8, 7, 5, 13, 10, 24, 23, 25, 20
+
+      - LevelOrder: 20, 10, 25, 5, 13, 23, 7, 24, 6, 8
+
+  - Tree Real World Examples
+    - Tree Directory
+    - Database Indexing
+    - Decision Trees
+
+- Heap
+  - Sub-devision of Tree
+  - Heap property is sort of Level Property, and the parent nodes has relationship (either **Greater(max)** or **Less Than(min)**)
+  - Run Time:
+    - Insert: O(logn)
+    - Remove
