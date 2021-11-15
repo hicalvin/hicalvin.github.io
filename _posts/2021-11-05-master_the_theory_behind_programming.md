@@ -365,7 +365,7 @@ category: tech
 
 - Merge Sort (归并排序)
   - Merge Sort is the fastest algorithm we are going to be analyzing. (Fastest on average, quicksort is technically faster, but has the problem of the n^2 worst case).  It has a way of dividing the data up like in quick sort, except that it doesn’t require selecting a pivot point to get the nlogn run times
-  - Kind of the fastest algorithm. Recommend [Merge Sort - Data Structure & algorithms Tutorial Python](https://www.youtube.com/watch?v=nCNfu_zNhyI) which tell the merge sort with Python clearly. 
+  - Kind of the fastest algorithm. Recommend [Merge Sort - Data Structure & algorithms Tutorial Python](https://www.youtube.com/watch?v=nCNfu_zNhyI) which tell the merge sort with Python clearly.
   - Run Time: O(nlogn)
 
     ```pseudocode
@@ -382,6 +382,7 @@ category: tech
     ```
 
     *Code Sample*
+
     ```python
     def merge_sort(arr):
       if len(arr) <= 1:
@@ -429,6 +430,7 @@ category: tech
     ```
 
     *Optimized Code Sample by saving memory*
+
     ```python
     def merge_sort(arr):
       if len(arr) <= 1:
@@ -488,6 +490,11 @@ category: tech
     - All left children must be less than or equal to. (You can put the equal to on the right or left)  
   - Trees are some of the most used data structures in computer science. They link information together in a relational way. You can use them to sort, to store information, to make inferences, and so much more. They are even used in databases to help index (find) the data in the database.  
   - Parents are the nodes that are directly above another node, while children are ones that are directly below
+    - Root
+    - Children
+    - Parent
+    - Sibling (have same parent)
+    - Leaf (has no child)
 
   ```python
   class Node:
@@ -548,8 +555,41 @@ category: tech
     - Decision Trees
 
 - Heap
-  - Sub-devision of Tree
+  - Sub-devision of Tree with a few "Heap Property" rules. The heap property is a rule which gives a relationship between the parent adn child nodes within a tree. It states that the parent node must alwasys be either greater, or less than its children. If it has to be greater, then it is a max heap, if less, a min heap.
   - Heap property is sort of Level Property, and the parent nodes has relationship (either **Greater(max)** or **Less Than(min)**)
+  - A *complete tree* is a tree which every level, expect the last, is filled, and all nodes are **as far left as possible**.
   - Run Time:
     - Insert: O(logn)
-    - Remove
+    - Check Max: O(1)
+    - Remove Max: O(logn)  (swap with root first, then check if root is the max)
+  - Heap Real World Example
+    - Priority queue
+
+- Graphs
+  - Directed Graph: The Graph has an order or direction. e.g. Twitter
+  - Undirected Graph: No direction
+  - Weighted Graph: Maybe the shortest path is not shortest segment
+  - Graph Terminology
+    - **Vertex(vertices)** A point on the graph. set = {A, B, C, D, E} *All the elements in the graph*
+    - **Edge** A connection between to vertices. set = {(A,B), (A,C), (B,C), (C,D), (A,E)}
+    - **Cyclic Graph**: A directed graph which has at least one cycle. *Take extra work for loop*
+    - **Acyclic Graph**: A directed graph which doesn’t have any cycles.
+    - **Connected Graph**: A graph in which each vertex is connected together by some path.
+    - **Disconnected Graph**: one or more Vertex missing Edge
+    - **Adjacency** – When two vertices are connected to one another.
+
+  - Depth First Search
+  - Breadth First Search
+
+- Useful Resource
+  - [B Trees and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8) tells from disk structure (Tracks, Sectors, Blocks and Offsets) to Trees by [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw). **Highly Recommended**
+    - M-way Search Tree. 2 keys, 3 children, that it's 3-way ST, a extention of Binary ST.
+    - B Tree is just M-way Search Tree with **Some Rules**. In database, it's multilevel indexing
+      - at least m/2 children must be there before adding new node
+      - Root can have minimum 2 children
+      - All leaf at same level
+      - Bottom up
+    - B+ Tree
+      - All the keys are presented at leaf nodes
+      - In non-leaf nodes, might duplicate nodes be presented
+      - Record pointer in at leaf nodes
