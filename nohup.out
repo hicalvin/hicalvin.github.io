@@ -1,0 +1,66 @@
+Configuration file: /Users/calviny/Documents/02_personal/09_personalsite/blog/_config.yml
+            Source: /Users/calviny/Documents/02_personal/09_personalsite/blog
+       Destination: /Users/calviny/Documents/02_personal/09_personalsite/blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 3.577 seconds.
+ Auto-regeneration: enabled for '/Users/calviny/Documents/02_personal/09_personalsite/blog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2021-12-31 10:25:30
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+[2021-12-31 10:25:33] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `eof?'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/webrick/httpserver.rb:82:in `run'
+	/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/webrick/server.rb:307:in `block in start_thread'
+                    ...done in 3.234954 seconds.
+                    
+[2021-12-31 10:25:40] ERROR `/posts/book_list_of_Dec_2021/!https:/img2.doubanio.com/view/subject/s/public/s33849733.jpg' not found.
+      Regenerating: 1 file(s) changed at 2021-12-31 10:26:27
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.658248 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 10:30:08
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.473989 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 10:49:17
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.922906 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 10:56:29
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.456342 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:05:37
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.664473 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:06:09
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.88835 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:07:19
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 3.005482 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:07:57
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.928124 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:08:35
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.755196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:08:38
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.78813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:11:14
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.740391 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2021-12-31 11:14:16
+                    _posts/2021-12-30-book_list_of_Dec_2021.md
+                    ...done in 2.7818 seconds.
+                    
