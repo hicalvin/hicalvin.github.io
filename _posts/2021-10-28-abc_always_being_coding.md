@@ -132,7 +132,7 @@ I really should do better job in CODING by the end of 2021.
       - Key Dequeue(): remove and returns least recently-added key
       - FIFO
 
-- [ ] Hash table
+- [x] Hash table
   - [x] [Hashing with Chaining video from MIT](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
   - [x] [Core: Hash Tables](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
   - [x] [What is Simple Uniform Hashing](https://www.youtube.com/watch?v=Fr7Do5P1Tv8)
@@ -153,16 +153,16 @@ I really should do better job in CODING by the end of 2021.
       2. Multiplication method: ```hash(key) = floor( m *( A* key mod 1) )```
       3. Universal hashing: ```hash a,b(key) = ((a*key + b) mod p) mod m```
       4. Perfect hashing: basicaly using two layer of Universal Hashing.
-    - Interesting stuffs in the [Video of Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=10) is about growing the table. **Cool Stuffs** 
+    - Interesting stuffs in the [Video of Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=10) is about growing the table. **Cool Stuffs**
 
-### Python Basic
-
-- [ ] Python Gramma
+- [ ] Graphs
+  - [ ] [Breath-Fist Search (BFS)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+  - [ ] [Detch-Fist Search(DFS)](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 ### Udemy Courses
 
-- [ ] Computer Science 101: Master the Theory Behind Programming
-- [ ] Python Programming Bootcamp
+- [x] Computer Science 101: Master the Theory Behind Programming
+- [x] Python Programming Bootcamp
 - [ ] Complete Python Developer in 2021: Zero to Mastery
 - [ ] 100 Days of Code - The complete Python Programming
 

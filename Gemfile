@@ -5,6 +5,7 @@ gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
 gem 'rspec'
 
+
 # Official Plugins
 group :jekyll_plugins do
   gem "jekyll-paginate"
