@@ -53,7 +53,19 @@ This is not a good way. You'd better use [*with*](https://blog.csdn.net/u0126095
   
   - [How to use regular expression](https://docs.python.org/3/library/re.html)
 
+- How to use [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) in Web Scraping
+  
+  ```python
+  from bs4 import BeautifulSoup
+
+  with open("index.html", "r") as f:
+    doc = BeautifulSoup(f, "html.parser")
+  
+  print(doc.prettify())
+  ```
+
 ### Resource
 
 - [Python进阶](https://py.eastlakeside.cn/)
 - [用 jupytertheme 美化Jupyter Notebook, 眼睛轻松多了](https://zhuanlan.zhihu.com/p/46242116)
+- [Beautiful Soup 4 Tutorial](https://www.youtube.com/watch?v=gRLHr664tXA)
