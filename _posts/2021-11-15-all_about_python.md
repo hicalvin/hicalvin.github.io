@@ -42,7 +42,7 @@ This is not a good way. You'd better use [*with*](https://blog.csdn.net/u0126095
 
   - **kwargs is used for keywords arguments
 
-    ```python 
+    ```python
     def greet_me(**kwargs):
     for key, value in kwargs.items():
         print("{0} = {1}".format(key, value))
