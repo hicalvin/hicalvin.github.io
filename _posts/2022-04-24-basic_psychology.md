@@ -113,10 +113,6 @@ category: psychology
 
 - 硬科学
 
-## 小结
-
-![总结](/Users/calviny/Documents/02_personal/01_document/02_Calvin/01_learn/03_extra/psychology/基础心理学/心理学发展简史及流派.png)
-
 ## 心理活动的生理基础
 
 ### 神经系统的基本结构
