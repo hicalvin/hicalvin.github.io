@@ -15,3 +15,8 @@ Just work as a cheatsheet.
 6. 让本地分支与远程分支建立关联：git branch --set-upstream-to=origin/分支名
 7. 删除本地分支：git branch -d 分支名
 8. 删除远程分支：git push origin:分支名 或 git push origin --delete 分支名
+
+### Reference
+
+1. [Know basic knowledge of Git](https://www.bilibili.com/video/BV1FE411P7B3?p=1)
+2. [Practice on how to use Git](https://www.bilibili.com/video/BV1i44y1e7hv)
