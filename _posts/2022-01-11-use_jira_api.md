@@ -14,7 +14,7 @@ category: tech
 [Jira REST API](https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/) 提供了Jira相关的API列表，
 
 - 要获得当前活动的sprint，需要通过[Get all boards](https://docs.atlassian.com/jira-software/REST/7.3.1/#agile/1.0/board-getAllBoards)获得相关的board列表，查询参数可以用name来模糊匹配。
-- 之后根据获得的boardID，传给 [Get All Sprints](https://jira-eng-gpk2.cisco.com/jira/rest/agile/1.0/board/{{jira_boardid}}/sprint?state=active)，带上参数*state=active* 获得当前active的sprint. 
+- 之后根据获得的boardID，传给 [Get All Sprints](https://jira-eng-gpk2.cisco.com/jira/rest/agile/1.0/board/{{jira_boardid}}/sprint?state=active)，带上参数*state=active* 获得当前active的sprint.
 - 最后通过[Get issues for sprint](https://docs.atlassian.com/jira-software/REST/7.3.1/#agile/1.0/sprint-getIssuesForSprint) 来拿到当前sprint的所有issue。
 
 ```python
@@ -66,7 +66,6 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-
 
 ## Reference
 
