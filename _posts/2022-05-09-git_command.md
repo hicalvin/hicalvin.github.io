@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Often Used Git Command"
-date:   2022-05-09 21:23:50 +0800
+date:   2022-05-09 19:23:50 +0800
 category: tech
 ---
 
