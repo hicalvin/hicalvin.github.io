@@ -20,3 +20,5 @@ Just work as a cheatsheet.
 
 1. [Know basic knowledge of Git](https://www.bilibili.com/video/BV1FE411P7B3?p=1)
 2. [Practice on how to use Git](https://www.bilibili.com/video/BV1i44y1e7hv)
+3. [All about Git](https://gitee.com/all-about-git)
+4. [Learn Git Game](https://oschina.gitee.io/learn-git-branching/)
