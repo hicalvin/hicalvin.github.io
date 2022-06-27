@@ -15,6 +15,7 @@ Just work as a cheatsheet.
 6. 让本地分支与远程分支建立关联：git branch --set-upstream-to=origin/分支名
 7. 删除本地分支：git branch -d 分支名
 8. 删除远程分支：git push origin:分支名 或 git push origin --delete 分支名
+9. 将本地未push的分叉提交历史整理成直线，使查看历史提交更容易. git rebase
 
 ### Reference
 
@@ -22,3 +23,4 @@ Just work as a cheatsheet.
 2. [Practice on how to use Git](https://www.bilibili.com/video/BV1i44y1e7hv)
 3. [All about Git](https://gitee.com/all-about-git)
 4. [Learn Git Game](https://oschina.gitee.io/learn-git-branching/)
+5. [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
