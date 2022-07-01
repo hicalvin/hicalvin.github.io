@@ -87,11 +87,11 @@ category: finance
 
 开源是要争取的，但毕竟是不确定因素，节流是可以实行的。 节流的关键是如何做取舍，而记账是解决这个难题的基础。
 
-![家庭月度收支表](/img/posts/2018-09-17-let-money-talk-001.jpeg)
+![家庭月度收支表](/assets/doc_img/2018-09-17-let-money-talk-001.jpeg)
 
-![家庭资产负债表](/img/posts/2018-09-17-let-money-talk-002.jpeg)
+![家庭资产负债表](/assets/doc_img/2018-09-17-let-money-talk-002.jpeg)
 
-![家庭资产负债表](/img/posts/2018-09-17-let-money-talk-003.jpeg)
+![家庭资产负债表](/assets/doc_img/2018-09-17-let-money-talk-003.jpeg)
 
 
 #### 第二节 控制支出是关键
@@ -112,7 +112,7 @@ category: finance
 - 不可控预算
 	- 房租、公用事业费用、房贷利息
 
-![家庭预算收支表](/img/posts/2018-09-17-let-money-talk-004.jpeg)
+![家庭预算收支表](/assets/doc_img/2018-09-17-let-money-talk-004.jpeg)
 
 ## Chapter 4 无财可理得开源
 

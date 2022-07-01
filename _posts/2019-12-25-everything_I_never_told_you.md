@@ -7,5 +7,5 @@ category: reading
 
 
 
-![无声告白的思维导图](./img/20191225-Everything_I_Never_Told_You.png)
+![无声告白的思维导图](/assets/doc_img/20191225-Everything_I_Never_Told_You.png)
 

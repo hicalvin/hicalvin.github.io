@@ -17,9 +17,9 @@ category: travel
 
 趁着热情还在，特地用 *xmind* 做了一篇游记总结， 便于以后翻阅。 
 
-![总结图](./img/20161009-self-driving-summary.png)
+![总结图](/assets/doc_img/20161009-self-driving-summary.png)
 
 到目前为止， 我到过的国内省份城市足迹图就是一下的这些了。 
 
-![足迹图](/img/posts/travel-footprint.png)
+![足迹图](/assets/doc_img/travel-footprint.png)
 
