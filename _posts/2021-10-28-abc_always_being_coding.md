@@ -94,7 +94,7 @@ I really should do better job in CODING by the end of 2021.
   ---
 
   - Notes
-    - Stack: Abstract data type with the following operations:
+    - Stack: [Abstract data type](https://www.scaler.com/topics/abstract-data-type-in-data-structure/) with the following operations:
       - Push(Key): add key to collection
       - Key Top(): return the most recently-added key
       - Key Pop(): removes and returns most recently-added key
