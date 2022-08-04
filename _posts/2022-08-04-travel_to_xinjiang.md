@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "新疆自驾攻略"
+title:  "北疆自驾17天全攻略"
 date:   2022-08-04 16:05:50 +0800
 category: travel
 ---
 
-# 北疆自驾17天攻略
 
 ![行政图](http://p1-q.mafengwo.net/s10/M00/B1/6D/wKgBZ1jaAJOAfNs5AACgsRAE3v8068.png?imageView2%2F2%2Fw%2F1360%2Fq%2F90)
 
