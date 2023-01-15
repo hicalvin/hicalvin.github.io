@@ -271,7 +271,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 
 ## Thanks To
 
-- [Amazing tutorial for git | Even Monkey can learn Git](https://backlog.com/git-tutorial/cn/)
+- [Even Monkey can learn Git](https://backlog.com/git-tutorial/cn/)  :thumbsup:
 - [Bilibili: Key points of learning Git/Github](https://www.bilibili.com/video/BV1KZ4y1e7cG/)
 - [Game: Learn to branching](https://learngitbranching.js.org/)
 
