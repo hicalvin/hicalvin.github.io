@@ -5,7 +5,7 @@ date:   2016-11-04 22:34:50 +0800
 category: movie
 ---
 
-![含泪活着](https://img9.doubanio.com/view/photo/m/public/p2233218756.webp)
+[pic: 含泪活着](https://img9.doubanio.com/view/photo/m/public/p2233218756.webp)
 
 *---含泪活着*
 

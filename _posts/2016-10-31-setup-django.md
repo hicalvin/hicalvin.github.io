@@ -5,7 +5,7 @@ date:   2016-10-31 13:29:50 +0800
 category: tech
 ---
 
-![被解救的姜戈](https://img1.doubanio.com/view/photo/m/public/p1959232369.webp)
+[pic:被解救的姜戈](https://img1.doubanio.com/view/photo/m/public/p1959232369.webp)
 
 *---被解救的姜戈*
 
