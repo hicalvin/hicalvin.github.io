@@ -4,6 +4,7 @@ gem "jekyll", ">=3.8.6"
 gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
 gem 'rspec'
+gem 'jekyll-webp', '~> 1.0'
 
 
 # Official Plugins
