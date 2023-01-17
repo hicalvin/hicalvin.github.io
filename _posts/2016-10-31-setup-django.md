@@ -5,7 +5,7 @@ date:   2016-10-31 13:29:50 +0800
 category: tech
 ---
 
-![被解救的姜戈](http://brainjunkfood.com/wp-content/uploads/2015/09/pic_1561903.jpg)
+![被解救的姜戈](https://img1.doubanio.com/view/photo/m/public/p1959232369.webp)
 
 *---被解救的姜戈*
 
@@ -85,7 +85,6 @@ sudo pip install 'https://www.djangoproject.com/download/1.5.10/tarball/'
 这样就可以了 
 
 ***不过看到个帖子，Python2.6顶多只能装1.4的Django， 如果要装跟高版本的Django就只能升级Python到2.7.*** 尝试了一下， 的确在2.6下面没法 ```import django```。   
-
 
 
 

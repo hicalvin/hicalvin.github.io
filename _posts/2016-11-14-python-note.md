@@ -5,7 +5,7 @@ date:   2016-11-14 23:45:50 +0800
 category: tech
 ---
 
-![Python](https://realpython.com/learn/python-first-steps/images/pythonlogo.jpg)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 
 *---Python*
 

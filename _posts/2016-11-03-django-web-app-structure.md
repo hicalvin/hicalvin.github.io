@@ -5,7 +5,7 @@ date:   2016-11-03 09:11:50 +0800
 category: tech
 ---
 
-![被解救的姜戈](http://pic.77ds.net:878/down/wg7777file2/pic/2013040868905137.jpg)
+![被解救的姜戈](https://img1.doubanio.com/view/photo/m/public/p1959232369.webp)
 
 *---被解救的姜戈*
 
