@@ -45,7 +45,7 @@ type: categories
       {% else %}
         <i class="far fa-folder fa-fw"></i>
       {% endif %}
-        <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}/"
+        <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}"
           class="ml-1 mr-2">
           {{ category_name }}
         </a>
