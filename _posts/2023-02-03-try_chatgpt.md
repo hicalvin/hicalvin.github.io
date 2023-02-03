@@ -126,4 +126,65 @@ This is just a glimpse into the life of a coder on a chilly, cloudy day. Every d
 
 还是不错的，比我自己写干巴巴的文章要好得多。
 
+最后，是时候展示它的提高生产力（帮人们偷懒）的功力了 -- 写代码
+
+~~~markdown
+Q: write golang code to get city weather
+A: Here's an example of how you could retrieve the weather data for a city using Go, with the help of a weather API. You could use a free API service such as OpenWeatherMap to get the weather data in JSON format. Here's an example of how to make an HTTP GET request to the API in Go:
+
+package main
+
+import (
+"encoding/json"
+"fmt"
+"io/ioutil"
+"net/http"
+)
+
+type Weather struct {
+Main struct {
+Temp float64 `json:"temp"`
+FeelsLike float64 `json:"feels_like"`
+TempMin float64 `json:"temp_min"`
+TempMax float64 `json:"temp_max"`
+Pressure int `json:"pressure"`
+Humidity int `json:"humidity"`
+} `json:"main"`
+}
+
+func main() {
+city := "London"
+apiKey := "your_api_key_here"
+url := fmt.Sprintf("http://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s", city, apiKey)
+
+	res, err := http.Get(url)
+	if err != nil {
+		panic(err)
+	}
+	defer res.Body.Close()
+
+	body, err := ioutil.ReadAll(res.Body)
+	if err != nil {
+		panic(err)
+	}
+
+	var weatherData Weather
+	err = json.Unmarshal(body, &weatherData)
+	if err != nil {
+		panic(err)
+	}
+
+	fmt.Printf("Temperature in %s: %.2f°C\n", city, weatherData.Main.Temp-273.15)
+	fmt.Printf("Feels like: %.2f°C\n", weatherData.Main.FeelsLike-273.15)
+	fmt.Printf("Minimum temperature: %.2f°C\n", weatherData.Main.TempMin-273.15)
+	fmt.Printf("Maximum temperature: %.2f°C\n", weatherData.Main.TempMax-273.15)
+	fmt.Printf("Pressure: %d hPa\n", weatherData.Main.Pressure)
+	fmt.Printf("Humidity: %d%%\n", weatherData.Main.Humidity)
+}
+
+Note: You'll need to replace "your_api_key_here" with your own API key obtained from OpenWeatherMap.
+~~~
+
+Not bad. 
+
 总的来说，ChatGPT的文字流畅程度以及内容生成已经非常成熟，可以说到了惊艳的程度，但是也许是数据训练的涉猎面不够的缘故，导致一些信息并不太准确，所以目前来说还是无法替代谷歌和Wikipedia，但假以时日就很难说了，因为它的交互性太好了，如同身边坐了一个上知天文、下知地理的助手，到时候就再也不用打开谷歌搜索，有什么问题，他应该就可以直接把结果告诉你。
