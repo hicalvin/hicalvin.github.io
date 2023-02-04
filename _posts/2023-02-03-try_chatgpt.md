@@ -188,3 +188,9 @@ Note: You'll need to replace "your_api_key_here" with your own API key obtained 
 Not bad. 
 
 总的来说，ChatGPT的文字流畅程度以及内容生成已经非常成熟，可以说到了惊艳的程度，但是也许是数据训练的涉猎面不够的缘故，导致一些信息并不太准确，所以目前来说还是无法替代谷歌和Wikipedia，但假以时日就很难说了，因为它的交互性太好了，如同身边坐了一个上知天文、下知地理的助手，到时候就再也不用打开谷歌搜索，有什么问题，他应该就可以直接把结果告诉你。
+
+### 参考信息
+
+- [GPT，GPT-2，GPT-3 论文精读](https://www.youtube.com/watch?v=t70Bl3w7bxY)
+- [ChatGPT 详解系列之一](https://www.youtube.com/watch?v=S3xgoFFwlpM)
+- [OpenAI CEO Sam Altman | AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0)
