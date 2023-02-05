@@ -227,6 +227,81 @@ These are just a few of the many restaurants near Marienplatz that you can visit
 
 看了下图片，觉得还是比较靠谱的。
 
+于是我再偷个懒，让他给出慕尼黑一天的全部安排，包括午餐晚餐，于是出现了下面的行程。
+~~~markdown
+Prompt: If I only have one full day in Munich, what will be the suggestion to play around including lunch and dinner arrangement?
+
+ChatGPT: If you only have one full day in Munich, here's a suggested itinerary to make the most of your time:
+
+Morning:
+
+Start your day by visiting Marienplatz, the central square of the city, to admire the historic buildings such as the New Town Hall and the Old Town Hall
+Walk through the Viktualienmarkt, one of the largest and most popular markets in Munich, and sample some of the local food and products
+Visit the Nymphenburg Palace, a beautiful baroque palace surrounded by scenic gardens and parks
+Head to the Englischer Garten, a large public park in the city that features scenic walking paths, a Japanese teahouse, and a man-made lake
+Lunch:
+
+Head back to Marienplatz and enjoy a traditional German lunch at a restaurant such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+Afternoon:
+
+Visit the Deutsches Museum, the largest science and technology museum in the world, located on an island in the River Isar
+Walk through the city center and admire the historic buildings and monuments
+Visit the famous Hofbräuhaus beer hall, one of the oldest beer halls in Munich and a popular spot for a beer and some traditional German cuisine
+Dinner:
+
+Enjoy a traditional Bavarian dinner at a restaurant such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+This one-day itinerary allows you to experience the best of what Munich has to offer, including its rich history, beautiful parks, and modern attractions. You can also modify the activities based on your interests and time availability.
+~~~
+
+感觉还不错, 但是一天好像紧张了点，于是最后问一下两天的行程。
+
+~~~markdown
+Prompt: Can you replan the itinerary for 2 days in Munich only? including scenery, lunch and dinner. 
+
+ChatGPT: ure, here's a revised itinerary for two days in Munich:
+
+Day 1:
+
+Morning:
+
+Visit Marienplatz, the central square of Munich and home to the famous Glockenspiel, a clock tower with animated figures that perform twice daily
+Take a walking tour of the city center and admire the historic buildings and monuments, such as the New Town Hall and the Old Town Hall
+Lunch:
+
+Enjoy a traditional German lunch at a restaurant in the city, such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+Afternoon:
+
+Visit the Nymphenburg Palace, a beautiful baroque palace surrounded by scenic gardens and parks
+Walk through the Englischer Garten, a large public park in the city that features scenic walking paths, a Japanese teahouse, and a man-made lake
+Evening:
+
+Enjoy a traditional German dinner at a restaurant in the city, such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+Visit the famous Hofbräuhaus beer hall, one of the oldest beer halls in Munich and a popular spot for a beer and some traditional German cuisine
+Take in a concert or show at one of Munich's many theaters or concert halls
+Day 2:
+
+Morning:
+
+Visit the Deutsches Museum, the largest science and technology museum in the world, located on an island in the River Isar
+Explore Viktualienmarkt, a large daily food and goods market in the city center, famous for its diverse selection of goods, including food, flowers, and souvenirs
+Lunch:
+
+Enjoy a traditional German lunch at a restaurant in the city, such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+Afternoon:
+
+Take a scenic walk through the city's numerous parks and gardens, such as the Englischer Garten, or the Nymphenburg Palace Park
+Visit the Jewish Museum Munich, which documents the history of Jewish life in the city from the medieval period to the present day
+Evening:
+
+Enjoy a traditional German dinner at a restaurant in the city, such as Augustiner Keller, Weißes Bräuhaus, or Zum Franziskaner
+Visit a traditional Bavarian beer hall, such as Hofbräuhaus, to experience the famous Munich beer culture
+Take in a concert or show at one of Munich's many theaters or concert halls
+This itinerary provides a well-rounded experience of Munich, including its rich history, beautiful parks and gardens, modern attractions, and famous Bavarian culture. You can modify the activities based on your interests and time availability.
+~~~
+
+
+如果不限定只在慕尼黑，它又开始把周边城市给规划进来了，所以加个 **Only** 。
+
 整个使用下来，我觉得ChatGPT对于文字的理解和结果的呈现都相对还是比较合理的，目前来看作为一个规划助手勉强算是够用，不过对于结果还是要增加二次验证才能确保真正能用。 
 
 有了这次试用，基本上可以认定ChatGPT在日常使用中能承担查询、文字组织的工作，已经可以很好的增加生产力了。
