@@ -195,6 +195,9 @@ nothing to commit, working tree clean
 ➜  tutorial1 (master) git reset --hard HEAD~
 HEAD is now at 613b380 添加add and commit Comments
 ➜  tutorial1 (master) git log
+➜  tutorial1 (master) git push --force
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+ + 0707ca7...cf98351 master -> master (forced update)
 ```
 
 ### cherry-pick
