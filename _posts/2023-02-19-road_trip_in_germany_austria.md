@@ -7,7 +7,7 @@ category: travel
 
 ## 行程
 
-![Road trip route map](../assets/doc_img/2023-02-19-road_trip_map.png)
+![Road trip route map](/assets/doc_img/2023-02-19-road_trip_map.png)
 
 ### 慕尼黑
 
