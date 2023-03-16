@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", ">=3.8.6"
 gem 'nokogiri', ">= 1.13.9"
-gem 'rack', '~> 2.1.4'
+gem 'rack', '~> 2.2.6'
 gem 'rspec'
 gem 'jekyll-webp', '~> 1.0'
 
