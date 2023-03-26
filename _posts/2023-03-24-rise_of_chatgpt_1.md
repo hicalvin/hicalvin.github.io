@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ChatGPT的崛起：人工智能正在改变我们的生活方式01"
+title:  "ChatGPT的崛起01：ChatGPT 插件最新特性发布"
 date:   2023-03-24 23:03:50 +0800
 category: tech
 ---
@@ -21,5 +21,6 @@ Overall, the new plugin feature from ChatGPT is a significant development that o
 
 ### Reference
 
+- [How to register a ChatGPT account](https://www.myfreax.com/how-to-register-a-chatgpt-account/)
 - [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
 - [A Massive Upgrade To ChatGPT! (This is Crazy)](https://www.youtube.com/watch?v=ZSfwgKDcGKY)
