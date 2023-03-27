@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ChatGPT的崛起03：ChatGPT API 入门指南：技巧与窍门"
-date:   2023-03-25 00:52:50 +0800
+date:   2023-03-26 00:52:50 +0800
 category: tech
 ---
 
