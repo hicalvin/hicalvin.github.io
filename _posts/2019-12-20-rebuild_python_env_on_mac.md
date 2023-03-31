@@ -78,4 +78,5 @@ brew update
 对于需要设计API的开发人员，可以参照 [OpenaPI Specification](!We need to always keep in mind that the API design should be full proof and fool proof.)
 
 - [brew install python3 报错](!Mac-brew报错error: could not lock config file .git/config: Permission denied)
+- [Module Not Found](https://jonathansoma.com/course/foundations-2021/jupyter-module-not-found/)
 

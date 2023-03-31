@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ChatGPT的崛起01：ChatGPT 插件最新特性发布"
+title:  "生成式AI的崛起01：ChatGPT 插件最新特性发布"
 date:   2023-03-24 23:03:50 +0800
 category: tech
 ---
