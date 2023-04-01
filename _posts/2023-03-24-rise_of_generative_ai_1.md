@@ -19,6 +19,10 @@ This new feature has been compared to the Apple Store in terms of its evolution,
 
 Overall, the new plugin feature from ChatGPT is a significant development that opens up a world of possibilities for users and developers alike. By enabling the latest data to be fed into ChatGPT, it ensures that the answers provided are always up-to-date and relevant. It's clear that this new feature has the potential to revolutionize the way we interact with artificial intelligence and natural language processing.
 
+> ChatGPT推出了插件功能，允许开发者开发不同的插件并将最新数据提供给ChatGPT。这个新功能被认为是一个具有突破性的发展，可以改变游戏规则。现在可以通过加入等待列表来使用插件功能。插件功能包括浏览器插件和代码解释器等，还允许第三方开发者创建自己的插件，为ChatGPT开启了无限的可能性。ChatGPT的插件功能被认为是一个重大的发展，为用户和开发者开启了无限的可能性。
+
+
+
 ### Reference
 
 - [How to register a ChatGPT account](https://www.myfreax.com/how-to-register-a-chatgpt-account/)
