@@ -20,7 +20,7 @@ url: 'https://hicalvin.github.io'
 
 author: Calvin Yan                  # change to your full name
 
-avatar: /assets/img/me-calvin.jpg   # support internet resources
+avatar: /assets/img/me-calvin.png   # support internet resources
 
 github:
   username: calviny             # change to your github username
@@ -30,7 +30,7 @@ twitter:
 
 social:
   name: Calvin Yan                  # it will shows as the copyright owner in Footer
-  email: calvinyan@doamin.com             # change to your email address
+  email: skywalker_zj@aliyun.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/calviny      # change to your twitter homepage
