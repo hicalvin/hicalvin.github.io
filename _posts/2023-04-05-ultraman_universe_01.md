@@ -2,7 +2,7 @@
 layout: post
 title:  "奥特曼宇宙系列01"
 date:   2023-04-05 19:57:50 +0800
-category: fun
+category: family
 ---
 
 ## 泽塔奥特曼

@@ -15,10 +15,12 @@ The approach of designing optimal prompts to instruct the model to perform a tas
 
 A standard prompt is a QA format: 
 
+~~~shell
 > <Question> ? 
 > <Answer>
 > <Question> ?
 > <Answer> 
+~~~
 
 Besides that, there's another option called *few-shot prompt* by provide exemplars (i.e., demonstrations). Few-shot prompts enable in-context learning which is the ability of language models to learn tasks given a few demonstrations. 
 
