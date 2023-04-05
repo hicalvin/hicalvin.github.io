@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading Simplify"
+title:  "After Reading <Simplify>"
 date:   2023-04-04 10:10:50 +0800
 category: reading
 ---
