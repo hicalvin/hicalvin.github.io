@@ -41,6 +41,21 @@ Some tips when using the ChatGPT API:
 - Use the `max_tokens` parameter to control the length of the generated text.
 - Be mindful of the API usage limits to avoid unexpected charges.
 
+在使用OpenAI API的时候，需要传的参数里面有两个关键参数：`model`, `messages`. 
+
+`model`比较简单，是可以指定你想要实用的LLM模型的类型，比如`gpt-3.5-turbo`, `gpt-4`, `gpt-4-0314`等。 注意使用不同的`model`，价格是不一样的。 
+
+另外一个参数是`messages`，是一对`message`对象的列表，而每个对象又有两个必须的属性：
+- `role`： 是指这条消息的角色，包含`system`， `user`和`assistant`  
+- `content`： 消息的内容。 
+
+关于`role`， 区分`system`和`assistant`还稍微花点时间。根据OpenAI的官方文档， `system`像是一个定位整个对话的引导员，通常会是高速chatgpt它的角色是什么，比如：
+
+`{'role': 'system', 'content': 'You are an assistant that speaks like Shakespeare. ''`
+
+而 `assistant`就可以看成是chatgpt这个人化的角色。 
+
+详细解释和例子可以在[ChatGPT API Transition Guide](https://help.openai.com/en/articles/7042661-chatgpt-api-transition-guide) 找到。 
 
 
 ### Reference
