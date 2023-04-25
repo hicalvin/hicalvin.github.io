@@ -2,7 +2,7 @@
 layout: post
 title:  "为何庆祝星舰发射的爆炸解体？"
 date:   2023-04-23 13:53:50 +0800
-category: reading
+category: tech
 ---
 
 打开SpaceX的首页，来到Starship的页面，中心位置写着一句话：
