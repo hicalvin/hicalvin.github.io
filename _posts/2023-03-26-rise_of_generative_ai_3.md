@@ -55,6 +55,26 @@ Some tips when using the ChatGPT API:
 
 而 `assistant`就可以看成是chatgpt这个人化的角色。 
 
+> System: Sets behavior of assistant
+> Assistant: Chat model
+> User: You 
+
+~~~python
+messages =  [  
+{'role':'system', 'content':'You are friendly chatbot.'},
+{'role':'user', 'content':'Hi, my name is Isa'},
+{'role':'assistant', 'content': "Hi Isa! It's nice to meet you. \
+Is there anything I can help you with today?"},
+{'role':'user', 'content':'Yes, you can remind me, What is my name?'}  ]
+response = get_completion_from_messages(messages, temperature=1)
+print(response)
+~~~
+
+~~~mermaid
+flowchart LR
+    system[] --> assistant <--> user
+~~~
+
 详细解释和例子可以在[ChatGPT API Transition Guide](https://help.openai.com/en/articles/7042661-chatgpt-api-transition-guide) 找到。 
 
 
