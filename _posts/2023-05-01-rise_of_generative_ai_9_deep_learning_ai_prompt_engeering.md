@@ -13,13 +13,13 @@ category: tech
 
 ## 介绍
 
-大语言模型，也就是LLM(Large Language Models) 有分为两种类型，一种叫 Base LLM，另外一种叫 Instruction Tuned LLM. 
+大语言模型，也就是LLM(Large Language Models) 又分为两种类型，一种叫 Base LLM，另外一种叫 Instruction Tuned LLM. 
 
-Base LLM 是基于预训练的数据，给出下个词的提示。如：
+Base LLM 是基于预训练的数据给出下个词的提示。如：
 
 > ME: Once upon a time, there was a unicorn (很久很久以前，曾经有一直独角兽...)
 
-那么基于Base LLM，也许会接上：
+那么基于Base LLM，对于上述的提示词也许会接上：
 
 > Base LLM: that lived in a magical forest with all her unicorn friends. (...和他的其他独角兽朋友生活在一片有魔法的森林里。)
 
@@ -33,9 +33,9 @@ Base LLM的回复会是如下结果：
 > What is France's population?              (法国的人口是多少？)
 > What is the currency of France?           (法国的货币是什么？)
 
-原因训练语料来自网上，而网上很可能是把关于法国相关的问题作为列表放在一起形成了上下文。 
+原因可能因为它的训练预料都来自网上，而网上很可能是把关于法国相关的问题作为列表放在一起形成了上下文。 
 
-在这种场景下， Instruction Tuned LLM 就会给出更好地答案，也是让整个LLM往前发展的技术节点，因为它会很好的调优，并且会很好的尝试去遵循指令。 
+在这种场景下， Instruction Tuned LLM 就会给出更好地答案，也是让整个LLM往前发展的重要技术环节，因为它会很好的调优并且去遵循指令。 
 
 所以如果是上面同样一个问题：
 
@@ -49,7 +49,7 @@ Base LLM的回复会是如下结果：
 
 ## 指南
 
-ChatGPT就像一个无所不知的智者，与它交流，必须要明确，不能模棱两可。 比如如果你想知道阿兰.图灵，你不能只是简单问 "请告诉我关于图灵的事"， 而最好是明确你到底想知道的是他的学术成就，还是个人生活，甚至有可能是他的历史作用。
+ChatGPT就像一个无所不知的智者，与它交流，必须要明确，不能模棱两可。 比如说如果你想知道阿兰.图灵，你不能只是简单问 "请告诉我关于图灵的事"， 而最好是明确你到底想知道的是他的学术成就，还是个人生活，甚至有可能是他的历史作用。
 
 所以如果要和ChatGPT聊天，一定要 **清晰、具体**。 
 
@@ -286,7 +286,7 @@ In the second column include the measurements in inches only.
 
 ## 总结内容 (Summarizing)
 
-可以给出限定要求，让ChatGPT按指定总结。
+可以给出限定要求，让ChatGPT按指定要求进行总结。
 
 ### 技巧1: 给出词数、字数、句数
 

@@ -41,3 +41,4 @@ The core idea of the library is that we can “chain” together different compo
 - [LLAMA-Index vs LangChain](https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/)
 - [Langchain Introduction](https://www.pinecone.io/learn/langchain-intro/)
 - [Huggingface - AI Community](https://huggingface.co/)
+- [Getting Started with LangChain](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)

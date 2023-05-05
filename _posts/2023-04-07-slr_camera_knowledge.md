@@ -5,6 +5,8 @@ date:   2023-04-07 11:20:50 +0800
 category: life
 ---
 
+![slr-camera](/assets/doc_img/2023-04-07-slr_camera_unsplash.jpg)
+
 想起来，单反都快有近10年没有摸了。这次因为同学会拍照的任务，却成了我重拾单反的契机。之前对相机的一些基础知识，也许要重温和积累。
 
 
