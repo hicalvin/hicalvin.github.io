@@ -5,12 +5,10 @@ date:   2023-05-07 21:16:50 +0800
 category: tech
 ---
 
-![Business Lady](https://unsplash.com/photos/TXxiFuQLBKQ)
+![Business Lady](/assets/doc_img/2023-05-07-ai_11_header_bard.jpg)
 
 
-自从ChatGPT去年面世引爆人工智能领域以来，这个领域就开始了疯狂的变革和创新。OpenAI自己也是频频出招，包括推出Plugin和GPT4等产品，一直在抢占市场份额。而最近，微软和谷歌也加入了这场疯狂的竞赛，纷纷推出自己的AI产品。
-
-其中，基于Edge的New Bing已经可以免费使用，而谷歌的Bard则在经历过首次出场滑铁卢之后，近期又宣布将正式融入到Google Workpalce套件里面。
+自从ChatGPT在去年面世引爆人工智能领域以来，这个领域就开始了疯狂的迭代、变革和创新，各种形式的人工智能应用层出不穷。OpenAI自己也是频频出招，包括推出Plugin和GPT4等产品，一直在抢占市场份额。而最近，微软和谷歌也加入了这场疯狂的竞赛，近期纷纷推出自己的AI产品。 其中，基于Edge的New Bing已经可以免费使用，而谷歌的Bard则在经历过首次出场滑铁卢之后，近期又宣布将正式融入到Google Workplace套件里面。
 
 > 2023.05.05
 Access for Google Workspace accounts
@@ -18,7 +16,7 @@ Access for Google Workspace accounts
 > What: Google Workspace admins can now enable Bard for their domains, allowing their users to access Bard using their Workspace accounts.
 > Why: You can now use Bard to help with work, research, or other business needs, when signed into your administrator-enabled Google Workspace account.
 
-我在5.5再次申请了Bard的账号，终于在第二天获得了使用机会。
+我在5.5再次申请了Bard的账号，很快在第二天就获得了使用机会。(我的API帐号申请，却还在Waitlist中焦急的等待)
 
 现在，我已经拥有ChatGPT、New Bing和Bard这三大神器，有一种灭霸集齐六颗无限宝石的感觉！
 
@@ -26,9 +24,9 @@ Access for Google Workspace accounts
 
 ## 什么是Bard， New Bing 和 ChatGPT？
 
-首先先来认识一下这三位重量级选手。最近最火的，当然是ChatGPT了，它的火爆程度可谓前无古人，达到2亿使用者的速度只用了两个月。 ChatGPT是来自OpenAI开发的基于大语言模型开发的聊天机器人。凭借其简单地界面，丰富自然的语言输出，一下子就抓住了眼球。它死后通过大规模的文本数据集和代码库，能帮助我们生成文本，翻译语言，写不同类型的各种创意文案，并且能和人类对答如流。对话内容的自然和丰富程度，超过了之前的各种AI机器人。 
+开场先来认识一下这三位重量级选手。最近最火的，当然是ChatGPT了，它的火爆程度可谓前无古人，达到2亿使用者只花了两个月，从来没有一个应用能有如此疯狂的扩散速度。 ChatGPT是来自OpenAI开发的基于大语言模型开发的聊天机器人。凭借其简单地界面，丰富自然的语言输出，一下子就抓住了眼球。凭借大规模的文本数据集和代码库训练，它能帮助我们生成文本，翻译语言，写不同类型的各种创意文案，并且能和人类对答如流。对话内容的自然和丰富程度，超过了之前的各种AI机器人。 
 
-第二位选手，就是来自名门谷歌的Bard. 和ChatGPT一样，Bard也是一个基于大语言模型的聊天机器人，不过已经能完成很多不同的任务，包括生成文本，回答问题，以及生成各种有创意的文本内容，包括诗歌、代码、脚本、邮件等等。 
+第二位选手，就是来自大厂谷歌的Bard。和ChatGPT一样，Bard也是一个基于大语言模型的聊天机器人，能完成很多不同的任务，包括回答问题，生成各种有创意的文本内容，包括诗歌、代码、脚本、邮件等等。 
 
 第三位选手，来自微软的Bing，借助OpenAI助力，华丽转身成为牛*。 New Bing 严格的说是一个搜索引擎，只不过有了OpenAI的加持。它可以理解人类的自然语言，从而提供各种传统搜索引擎所无法做到的优秀的用户交互感觉。
 
@@ -36,15 +34,15 @@ Access for Google Workspace accounts
 
 既然现在有了三大神器，那么到底每一个工具的强项和弱项到底是什么呢？
 
-| AI Chatbot | Strengths                                                                        | Weaknesses                                        |
-|---|----------------------------------------------------------------------------------|---------------------------------------------------|
+| 机器人 | 强项                                                                       | 弱项                                        |
+|--|----------------------------------------------------------------------------------|---------------------------------------------------|
 | Bard | * 虽然还不算正式发布，但已经能够执行各种任务；数据集来自各种文本和代码，具备非常高的知识量；通过谷歌搜索能触及和分析现实网络的各种真实数据； 内容产生的速度快 | * 无法支持中文， 无法生成图片                                  |
 | ChatGPT | * 生成创意文本，自然交互； 支持中文                                                              | * 目前数据集只到2021年；无法生成图片；中文输出文本的准确性还有待提高             |
 | New Bing | * 能生成图片;                                                                         | * 文本对答能力和其他两个相比还是差一些，比如目前还回答不了像"杭州是哪个国家的城市？"这样的问题 |
 
 ## 实际表现
 
-这里我问三大AI同样的问题，就是让他们给我一些名人定期阅读的例子。 第一个是Bard 
+这里我问三大AI同样的问题，让他们给我一些名人定期阅读的例子。 第一个回答来自Bard 
 
 ![Bard](/assets/doc_img/2023-05-07-ai_11_bard.png)
 
@@ -72,7 +70,7 @@ ChatGPT的应用场景也还不错，特别是针对翻译和内容提取的工�
 
 对于基于文本处理的工作，New Bing可能是我的最后考虑，基本上还是只会考虑它的搜索。但是它的图片生成功能还是非常让人意外的。 如果你的Midjourney开销过大，可以考虑用New Bing生成的图片。 
 
-![New Bing Picture](/assets/doc_img/2023-05-07-ai_11_chatgpt_wrong_answer.png)
+![New Bing Picture](/assets/doc_img/2023-05-07-ai_11_new_bing_pic.jpg)
 
 最终，最适合您的AI聊天机器人将取决于您个人的需求和偏好。如果您还不确定该选择哪个，我建议尝试使用这三款机器人，看看您最喜欢哪一个。
 
