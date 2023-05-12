@@ -5,7 +5,7 @@ date:   2023-05-07 21:16:50 +0800
 category: tech
 ---
 
-![Business Lady](/assets/doc_img/2023-05-07-ai_11_header_bard.jpg)
+![header](/assets/doc_img/2023-05-07-ai_11_header_bard.jpg)
 
 
 自从ChatGPT在去年面世引爆人工智能领域以来，这个领域就开始了疯狂的迭代、变革和创新，各种形式的人工智能应用层出不穷。OpenAI自己也是频频出招，包括推出Plugin和GPT4等产品，一直在抢占市场份额。而最近，微软和谷歌也加入了这场疯狂的竞赛，近期纷纷推出自己的AI产品。 其中，基于Edge的New Bing已经可以免费使用，而谷歌的Bard则在经历过首次出场滑铁卢之后，近期又宣布将正式融入到Google Workplace套件里面。
