@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "生成式AI的崛起10：ChatGPT, Bard, New Bing 是骡子是马，拉出来溜溜"
+title:  "生成式AI的崛起11：ChatGPT, Bard, New Bing 是骡子是马，拉出来溜溜"
 date:   2023-05-07 21:16:50 +0800
 category: tech
 ---
