@@ -10,4 +10,3 @@ category: tech
 ## 原文
 
 - [How to Accelerate Your Career with 7 ChatGPT Powerful Prompts](2023-05-01-rise_of_generative_ai_9_deep_learning_ai_prompt_engeering.md)
-

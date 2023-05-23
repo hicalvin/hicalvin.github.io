@@ -36,6 +36,33 @@ The core idea of the library is that we can “chain” together different compo
 
 > (AI)对每个人都将产生深远和系统性影响。我们的假设是每个人很快将有副驾驶员，不光是1个，可能是5个、6个。 有些副驾驶员足够强，变成正驾驶员，他自动可以去帮你做事。更长期，我们每个人都有一个驾驶员团队服务。未来的人类组织是真人，加上他的副驾驶员和真驾驶员一起协同。  -- 陆奇
 
+### Key concepts
+
+#### Chain of Thoughts
+
+`Chain of Thoughts (CoT)` is a prompting technique used to encourage the model to generate a series of intermediate reasoning steps. A less formal way to induce this behavior is to include “Let’s think step-by-step” in the prompt.
+
+> Here is a sample of CoT
+> Here is a sample of how to use chain of thoughts to solve a problem:
+> 
+> I am hungry.
+I need to eat something.
+I could make a sandwich.
+I need bread, meat, and cheese.
+I have bread in the fridge.
+I need to go to the store for meat and cheese.
+I will go to the store after I finish this work.
+
+#### Action Plan Generation
+
+`Action Plan Generation` is a prompting technique that uses a language model to generate actions to take. The results of these actions can then be fed back into the language model to generate a subsequent action.
+
+行动计划生成是指创建一个实现特定目标的行动计划的过程。它涉及识别需要采取的步骤、所需资源和完成的时间表。
+
+#### ReAct
+
+`ReAct` is a prompting technique that combines Chain-of-Thought prompting with action plan generation. This induces the to model to think about what action to take, then take it.
+
 ### Reference
 
 - [LLAMA-Index vs LangChain](https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/)

@@ -7,11 +7,10 @@ category: tech
 
 ![header](/assets/doc_img/2023-05-07-ai_11_header_bard.jpg)
 
-
 自从ChatGPT在去年面世引爆人工智能领域以来，这个领域就开始了疯狂的迭代、变革和创新，各种形式的人工智能应用层出不穷。OpenAI自己也是频频出招，包括推出Plugin和GPT4等产品，一直在抢占市场份额。而最近，微软和谷歌也加入了这场疯狂的竞赛，近期纷纷推出自己的AI产品。 其中，基于Edge的New Bing已经可以免费使用，而谷歌的Bard则在经历过首次出场滑铁卢之后，近期又宣布将正式融入到Google Workplace套件里面。
 
 > 2023.05.05
-Access for Google Workspace accounts
+> Access for Google Workspace accounts
 > 
 > What: Google Workspace admins can now enable Bard for their domains, allowing their users to access Bard using their Workspace accounts.
 > Why: You can now use Bard to help with work, research, or other business needs, when signed into your administrator-enabled Google Workspace account.
@@ -34,10 +33,10 @@ Access for Google Workspace accounts
 
 既然现在有了三大神器，那么到底每一个工具的强项和弱项到底是什么呢？
 
-| 机器人 | 强项                                                                       | 弱项                                        |
-|--|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Bard | * 虽然还不算正式发布，但已经能够执行各种任务；数据集来自各种文本和代码，具备非常高的知识量；通过谷歌搜索能触及和分析现实网络的各种真实数据； 内容产生的速度快 | * 无法支持中文， 无法生成图片                                  |
-| ChatGPT | * 生成创意文本，自然交互； 支持中文                                                              | * 目前数据集只到2021年；无法生成图片；中文输出文本的准确性还有待提高             |
+| 机器人      | 强项                                                                               | 弱项                                                |
+| -------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Bard     | * 虽然还不算正式发布，但已经能够执行各种任务；数据集来自各种文本和代码，具备非常高的知识量；通过谷歌搜索能触及和分析现实网络的各种真实数据； 内容产生的速度快 | * 无法支持中文， 无法生成图片                                  |
+| ChatGPT  | * 生成创意文本，自然交互； 支持中文                                                              | * 目前数据集只到2021年；无法生成图片；中文输出文本的准确性还有待提高             |
 | New Bing | * 能生成图片;                                                                         | * 文本对答能力和其他两个相比还是差一些，比如目前还回答不了像"杭州是哪个国家的城市？"这样的问题 |
 
 ## 实际表现
@@ -73,5 +72,3 @@ ChatGPT的应用场景也还不错，特别是针对翻译和内容提取的工�
 ![New Bing Picture](/assets/doc_img/2023-05-07-ai_11_new_bing_pic.jpg)
 
 总之，最适合你的AI聊天机器人将取决于你个人的需求和偏好。如果您还不确定该选择哪个，我建议尝试使用这三款机器人，看看你最喜欢哪一个。
-
-
