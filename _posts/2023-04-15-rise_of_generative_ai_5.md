@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "生成式AI的崛起04：LlamaIndex 和 LangChain 两把AI利刃"
+title:  "生成式AI的崛起05：LlamaIndex 和 LangChain 两把AI利刃"
 date:   2023-04-15 22:33:50 +0800
 category: tech
 ---
