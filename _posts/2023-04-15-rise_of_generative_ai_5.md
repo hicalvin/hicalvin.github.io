@@ -25,14 +25,34 @@ LlamaIndex 还为各种接口提供了[Hub](https://llamahub.ai/)，所以如果
 
 ## LangChain
 
+这个是相对更加偏模型侧的项目，通过引入`Agents`, `Prompts`, `Chains` 等把`prompt`分解成更细的`prompt`和行为。和LlamaIndex一样，LangChain 也提供了一个 [Hub站点](https://blog.langchain.dev/langchainhub/)，供其他人去找优质的Prompt。 
+
 The core idea of the library is that we can “chain” together different components to create more advanced use cases around LLMs. Chains may consist of multiple components from several modules:
 
 - Prompt templates: Prompt templates are templates for different types of prompts. Like “chatbot” style templates, ELI5 question-answering, etc
 - LLMs: Large language models like GPT-3, BLOOM, etc
 - Agents: Agents use LLMs to decide what actions should be taken. Tools like web search or calculators can be used, and all are packaged into a logical loop of operations.
 - Memory: Short-term memory, long-term memory.
+- Chain: Chain allow us to combine multiple components together to create a single, coherent application. For 
+  example, `LLMChain` is a simple chain that takes in a prompt template, formats it with the user input and 
+  returns the response from an LLM.
 
-这个是相对更加偏模型侧的项目，通过引入`Agents`, `Prompts`, `Chains` 等把`prompt`分解成更细的`prompt`和行为。和LlamaIndex一样，LangChain 也提供了一个 [Hub站点](https://blog.langchain.dev/langchainhub/)，供其他人去找优质的Prompt。 
+```python
+from langchain.prompts import PromptTemplate
+from langchain.llms import OpenAI
+from langchain.chains import LLMChain
+
+
+llm = OpenAI(temperature=0.9)
+prompt = PromptTemplate(
+    input_variables=["product"],
+    template="What is a good name for a company that makes {product}?",
+)
+chain = LLMChain(llm=llm, prompt=prompt)
+
+# Run the chain only specifying the input variable.
+print(chain.run("colorful socks"))
+```
 
 > (AI)对每个人都将产生深远和系统性影响。我们的假设是每个人很快将有副驾驶员，不光是1个，可能是5个、6个。 有些副驾驶员足够强，变成正驾驶员，他自动可以去帮你做事。更长期，我们每个人都有一个驾驶员团队服务。未来的人类组织是真人，加上他的副驾驶员和真驾驶员一起协同。  -- 陆奇
 
@@ -41,6 +61,14 @@ The core idea of the library is that we can “chain” together different compo
 #### Chain of Thoughts
 
 `Chain of Thoughts (CoT)` is a prompting technique used to encourage the model to generate a series of intermediate reasoning steps. A less formal way to induce this behavior is to include “Let’s think step-by-step” in the prompt.
+
+简单来说，就是由你来告诉大模型一个问题的中间推理步骤，一步步引导得出问题的最终答案。 它其实是`Few-Shot Prompt`的一种形式。 
+
+这里需要解释一下什么叫`Few-Shot Prompt`，它是相对于`Zero-Shot Prompt`来说的。 `Zero-Shot Prompt` 就是那种针对问题直接给答案的提示语，没有任何辅助信息的提问。 
+这种提问基本上就是基于模型的预训练数据，所以有时候得到的准确性偏低。 
+
+为了提高答案的准确性，比较推荐的是 `Few-Shot Prompt`，就是在提问中给模型一些例子，比如想让他给你任何一个词的反义词，那么你可以先给它几个例子比如说高的反义词是矮， 
+内的反义词是外等等，之后再把你想要问的词输给它，那么它的答复准确性能提高很多。 
 
 > Here is a sample of CoT
 > Here is a sample of how to use chain of thoughts to solve a problem:
