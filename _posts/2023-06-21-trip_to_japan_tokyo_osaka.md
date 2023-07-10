@@ -143,7 +143,7 @@ category: travel
 
 ### Day 10 - Jul.27 - Thu - 东京新宿 - 原宿 - 涉谷 - 东京爱情故事
 
-![东京爱情故事 - 东京篇](../assets/doc_img/2023-06-21-tokyo_love_story.png)
+![东京爱情故事 - 东京篇](/assets/doc_img/2023-06-21-tokyo_love_story.png)
 
 - 上午: 出发去代代木公园,途中经过[表参道](https://goo.gl/maps/HnMMyckrLVdV6rRp9)(35.666095, 139.710270). 表参道A1出口.这里是分手后完治和莉香相遇的地方. 
 - 之后前往[代代木公园]
