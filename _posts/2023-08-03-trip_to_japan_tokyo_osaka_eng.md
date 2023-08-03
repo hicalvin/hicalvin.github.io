@@ -1,64 +1,64 @@
 ---
 layout: post
-title:  "自由行：从柯南的白滨, 到莉香的东京"
-date:   2023-06-21 12:10:50 +0800
+title:  "DIY Trip: From Conan's Shirahama to Akanarika's Tokyo"
+date:   2023-08-03 13:03:50 +0800
 category: travel
 ---
 
 ![header picture](/assets/doc_img/20230621-japan_top_01.jpg)
 
-## 计划
+## Plan
 
-### 出行准备
+### Travel Preparation
 
-- 电话卡, 15天10G流量, 价格70元左右, Joytel电信公司, 看评论能满足绝大部分的场合, 在日本的整过过程没掉过线,非常稳定. 推荐淘宝店: 上海乾心旅游专营店 的15天10G流量4G网络旅游卡. 
-- 关西广域5天周游卡的电子票, 价格512元, 儿童票半价. 到了日本机场或者大的JR站可以换成纸质票, 指定开始日期就可以用了
-- 环球影城门票
-- 兑换日元. 在日本消费, 使用现金的场合比较多, 所以可以多准备一点. 我们这个11天的行程, 准备个15w日元能满足基本的消费, 而且是在能用手机或信用卡支付就尽量用的前提下
-- App: 谷歌地图, 换乘案内
+- SIM Card: Get a Joytel telecom SIM card with 10GB data for 15 days, priced around 70 yuan. Based on reviews, it should be reliable and stable throughout your trip in Japan. Recommended Taobao store: "Shanghai Qianxin Travel Exclusive Store" offers a 15-day 10GB 4G network travel SIM card.
+- Kansai Wide Area 5-Day JR Pass: Purchase the electronic ticket for 512 yuan, with children's tickets at half price. You can exchange it for a physical ticket with a specified start date at the Japan airport or major JR stations, and then start using it.
+- Universal Studios Japan tickets
+- Exchange Japanese Yen: Since cash is widely used in Japan for payments, it's recommended to have some Japanese yen on hand. For an 11-day trip, preparing around 150,000 yen should cover your basic expenses, while trying to use mobile payments or credit cards whenever possible.
+- Apps: Download Google Maps and a transit guide app for your convenience.
 
-### 知识储备
+### Knowledge Preparation
 
-- **弥生时代**：相当于我们的西汉时期，在这个时期，日本开始种植水稻，据推测是受我国影响，同时分为许多小国，总称为"倭"。
-  
-- **古坟时代**：持续到我们隋朝，日本开始使用中国汉字，并接受儒教和佛教的影响。圣德太子仿效中国，着手建立以天皇为中心的中央集权国家。
+- **Yayoi Period**: Equivalent to our Western Han Dynasty, during this period, Japan began to cultivate rice and was divided into many small states collectively known as "Wa".
 
-- **飞鸟时代**：以奈良南部的飞鸟地区为中心，其中的"大化改新"奠定了日本封建土地所有制，进入封建社会。从这个时期开始，日本派遣学生和僧人到中国学习政治、法律、文化和佛学。702年，日本向中国唐朝告知国号"日本"，君主为"天皇"。
-  
-- **奈良时代**：于710年定都平城京，仿造中国唐朝都城长安建造。794年迁都平安京，即现在的京都。894年，日本不再大量摄取中国文化，创造了平假名和片假名，并诞生了《源氏物语》等文学作品。
-  
-- **镰仓时代**：于1192年开始，源赖朝受封征夷大将军，在镰仓建立了第一个幕府政权。
-  
-- **安土时代**：由织田信长带领，自1573年开始，织田信长于本能寺之变中自杀，丰臣秀吉于1590年统一日本，统治30年，被称为**桃山时代**。
-  
-- **江户时代**：于1603年开始，由德川家康建立幕府政权，统治了260年，成为日本封建社会的巅峰时期。
-  
-- **明治时代**：于1868年开始，明治维新推翻了德川幕府，成立了天皇为中心的新政府，进入资本主义社会。1869年，明治天皇迁都江户，改名"东京"，实施"脱亚入欧"政策。1894年，日本与中国发生中日甲午战争，战争以1895年签订《中日马关条约》结束。
-  
-- **大正时代**：于1912年开始，大正天皇在任，这个时期包含了一战和《凡尔赛合约》，日本从德国手中夺取了中国山东，直接导致了我们的"五四运动"。
-  
-- **昭和时代**：于1926年开始，昭和天皇在位，这个时期包括了二战，给亚洲人民带来了深重的灾难和巨大的痛苦。战后，日本改为君主立宪制，并于1978年与中国缔结《中日和平友好条约》。
-  
-- **平成时代**：于1989年开始，这是日本失去的三十年，国际地位下降，经济增长几乎为零。2010年，中国GDP规模超越日本成为世界第二大经济体，日本进入了"低欲望社会"。
-  
-- **令和时代**：于2019年开始，目前已经是令和第五年（2023年）。
+- **Kofun Period**: Lasting until our Sui Dynasty, Japan started using Chinese characters and was influenced by Confucianism and Buddhism. Prince Shōtoku followed China's example and established a centralized state centered around the emperor.
+
+- **Asuka Period**: Centered around the Asuka region in southern Nara, the "Taika Reforms" laid the foundation for Japan's feudal landownership system, leading to a feudal society. From this period, Japan sent students and monks to China to study politics, law, culture, and Buddhism. In 702 AD, Japan notified China's Tang Dynasty of its country name "Nihon" and its ruler as "Tenno" (Emperor).
+
+- **Nara Period**: In 710 AD, Japan's capital was established in Heijō-kyō, modeled after China's Tang Dynasty capital Chang'an. In 794 AD, the capital was moved to Heian-kyō, now known as Kyoto. In 894 AD, Japan stopped heavily absorbing Chinese culture, and developed hiragana and katakana scripts, giving birth to literary works like "The Tale of Genji".
+
+- **Kamakura Period**: Starting in 1192, Minamoto no Yoritomo was appointed as the shogun and established the first shogunate in Kamakura.
+
+- **Azuchi-Momoyama Period**: Starting in 1573 and led by Oda Nobunaga, this period ended with his death in the Honnō-ji Incident. Toyotomi Hideyoshi unified Japan in 1590 and ruled for 30 years, known as the **Azuchi-Momoyama Period**.
+
+- **Edo Period**: Starting in 1603, the Tokugawa shogunate was established by Tokugawa Ieyasu, ruling for 260 years and reaching the pinnacle of Japan's feudal society.
+
+- **Meiji Era**: Beginning in 1868, the Meiji Restoration overthrew the Tokugawa shogunate and established a new government centered around the emperor, entering a capitalist society. In 1869, Emperor Meiji moved the capital to Tokyo, implementing the "Datsu-A Ron" policy of "leaving Asia and joining Europe". In 1894, Japan fought the First Sino-Japanese War with China, which ended with the signing of the Treaty of Shimonoseki in 1895.
+
+- **Taisho Era**: Starting in 1912, during Emperor Taisho's reign, this period includes World War I and the Treaty of Versailles. Japan obtained Shandong from Germany, directly leading to China's "May Fourth Movement".
+
+- **Showa Era**: Beginning in 1926, during Emperor Showa's reign, this period includes World War II, bringing great disaster and suffering to Asian people. After the war, Japan adopted a constitutional monarchy and signed the Treaty of Peace and Friendship with China in 1978.
+
+- **Heisei Era**: Starting in 1989, this was Japan's "Lost 30 Years" with a decline in international status and almost zero economic growth. In 2010, Japan's GDP surpassed Japan to become the world's second-largest economy, entering a "low-growth society". However, during this period, the Treaty of Peace and Friendship with China was signed.
+
+- **Reiwa Era**: Beginning in 2019, it is currently the fifth year of the Reiwa era (2023).
 
 
-### Day 1 - Jul.18 - Tue - 杭州 - 大阪 - 和歌山 (纪三井寺 - 黑潮市场 - 欧罗巴港)
+### Day 1 - Jul. 18 - Tue - Hangzhou - Osaka - Wakayama 
 
-- 8:15的飞机, 所以前一天要先约好车, 机场至少留出两小时用来 Check In. 今天的航班人数不算多, 所以航空公司临时换成了小飞机, 这给了我们一个错觉, 以为到了日本就不会碰到太多中国人. 
-- 飞机落地后，排队去JR Ticket Service购买Icoca卡以及兑换**第二天的广域五日周游券**, 之所以兑换第二天是因为第一天只去和歌山, 距离比较近, 所以用五日券来覆盖第六天到京都的车票, 事后证明是个非常明智的选择, 因为在京都使用JR的场合比去和歌山多多了, 毕竟和歌山只是用来暂住一晚, 而且从和歌山到白滨的来回黑潮特急指定席才是我们购买五日周游券的根本原因, 并不用在第一日开卡. 
-- 原打算按照8年前的攻略在机场的 Tourist Information 购买海游馆折扣票, 结果到了窗口才知道6月底这个服务已经停了....就差了半个多月. 门票可以在线上和窗口购买, 到时候注意一下小孩半价票的年龄限制, 可以覆盖高中生. 
-- 机场的事情办完了, 就可以前往临空镇(Rinku Town りんくうタウン)奥特莱斯购物去了. 这里有棕榈树、蓝天与名牌折扣商店。临空镇与关西国际机场仅一站相隔，最适合作为抵达大阪的第一站或长途飞行前的最后一个景点。 此处最具吸引力的是零售商店，有各式各样名牌的折扣商店，包括 Adidas、Kate Spade 与 The North Face 等。露天海边也是在搭机前（或下飞机后）消磨时间的绝佳地点。 临空镇的导览图可以在[这里](https://www.seacle.jp/floor/floorguide_ch.pdf)获取. 基本上每一班从关西机场出来的电车都是经过临空镇的, 所以刷Icoca进去看下就可以了。 
-- 临空镇的店还是挺多的, 挺像美国的奥特莱斯风格, 几块区域分布在四岔路的不同方位, 人也比较多, 而且天气也实在是太热了... 本来在购物至于去海边看看风景是不错的选择, 但事实证明我们只想在有空调的地方待着. 
-- 一逛逛到四五点钟, 然后去JR站赶下一班电车去和歌山. 路上看到了很小的小朋友背个书包和同学们一起上学, 完全没看到爷爷奶奶或者爸爸妈妈陪伴左右的景象, 还真有点不习惯. 他们的父母, 心怎么就这么大呢? 
-- 到和歌山已经挺晚了, 酒店离车站1.7公里, 公交车其实挺多的, 不过因为是第一天, 还没找到乘坐日本公共交通的感觉, 所以索性就走到酒店, 经历了这次拖着行李的酸爽步行以后, 这种距离的交通都改成了Taxi. 
-- 
-拉面是和歌山常见的面点美食，当地居民称之为中华面，从二次世界大战以前就开始广受人们喜爱，当时的人们在户外的摊档享用，如今则是在室内的餐厅供应，并且整个城市随处可见。和歌山拉面主要使用两种汤底，一种是酱油汤底，另一种豚骨酱油汤底，由于和歌山是日本酱油的诞生地，所以不难预期汤底以酱油为主。然而许多的现代餐厅也有它们各自独到原创汤底的和歌山拉面，多试试几间并找到你的最爱：若不尝一碗此地的灵魂面点，这趟和歌山之旅就不算完整。
-- 既然是来和歌山, 那就一定要品尝拉面. 我还特意点了一碗上面铺满葱的豚骨拉面, 吃的非常享受, 虽然有点不那么清淡, 但是味道非常鲜美. 
+- We took a flight at 8:15 am, so the day before, we arranged for a car since we needed to reach the airport at least two hours before Check-In. Today's flight didn't have too many passengers, so the airline changed to a smaller aircraft, which gave us the illusion that there wouldn't be many Chinese people in Japan. 
+- After landing, we queued up to buy an Icoca card and exchange for the **Wide Area 5-Day JR Pass**, useing next day as the start date. We planned to use the pass from the second day because the first day was just for visiting Wakayama, which is relatively close. So, we wanted to use the 5-day pass to cover the tickets to Kyoto on the sixth day, which turned out to be a wise choice since we had more occasions to use JR in Kyoto compared to Wakayama. The main reason we got the pass was for the round trip to Shirahama from Wakayama using the Kuroshio limited express reserved seat, so we didn't need to activate the card on the first day.
+- Initially, we planned to follow our previous travel experience to buy discounted tickets for the Kaiyukan Aquarium at the Tourist Information in the airport. However, when we reached the window, we found out that this service had been suspended since the end of June, which was just a little over half a month ago. Anyway, tickets can be purchased online or at the ticket counter, so not a big deal. 
+> When purchasing the Kaiyukan Aquarium ticket, make sure to check the age restrictions for children's half-price tickets, as they may include high school students.
+- With airport matters settled, we headed to Rinku Town Outlets. Here, you can find palm trees, blue skies, and various brand discount stores. Rinku Town is just one stop away from Kansai International Airport, making it an ideal first stop upon arriving in Osaka or the last attraction before a long flight. The most attractive feature of this place is its retail shops, offering a wide variety of brand outlets, including Adidas, Kate Spade, The North Face, and more. The outdoor beach is also a great place to spend time before or after a flight. You can find the guide map of Rinku Town [here](https://www.seacle.jp/floor/floorguide_ch.pdf). Almost every train leaving Kansai Airport passes through Rinku Town, so you can simply swipe your Icoca card to check it out.
+- There were plenty of shops in Rinku Town, resembling the style of American outlets. The areas were distributed in different directions at the intersection, and it was quite crowded, especially considering the scorching weather. We initially thought about shopping and then enjoying the scenery by the seaside, but in reality, we just wanted to stay in places with air conditioning.
+- After strolling around until four or five in the evening, we headed to the JR station to catch the next train to Wakayama. On the way, we saw very young kids carrying school bags and heading to school with their classmates, without any grandparents or parents accompanying them. Hm...
+- By the time we arrived in Wakayama, it was already quite late. The hotel was 1.7 kilometers away from the station, and though there were many buses, it was our first day, and we hadn't quite gotten used to using public transportation in Japan yet. So, we decided to walk to the hotel. After experiencing this refreshing walk while dragging our luggage, we decided to opt for a taxi for transportation over such distances in the rest journey.
+- Wakayama ramen is a common and beloved local delicacy. Residents refer to it as "Chinese noodles," and it has been popular since before World War II when people used to enjoy it at outdoor stalls. Nowadays, it is served in indoor restaurants, and you can find it all over the city. Wakayama ramen mainly uses two types of broth: soy sauce-based and pork bone soy sauce-based. Since Wakayama is the birthplace of Japanese soy sauce, it's no surprise that the broth is mainly soy sauce-based. However, many modern restaurants also offer their own unique broths for Wakayama ramen. Try a few and find your favorite! Your trip to Wakayama won't be complete without tasting a bowl of this soulful local delicacy.
+- As we were in Wakayama, it was a must to try their ramen. I specially ordered a bowl of tonkotsu ramen topped with lots of green onions, and I thoroughly enjoyed it. Though it was a bit heavier than expected, the flavor was incredibly delicious.
 
-> 推荐餐厅: [Ramen Marui](https://goo.gl/maps/ARio9gQ8yuqiqs1G9) 这可以说是家苍蝇小馆, 店里就两个年轻人, 但是生意不错, 我们到的时间挺晚的, 但是在吃的过程中一直有本地客人进来
-> 推荐酒店: 和歌山大和鲁内酒店, 房间不大, 但是自助服务比较顺畅, 经济型, 适合落脚
+> Recommended Restaurant: [Ramen Marui](https://goo.gl/maps/ARio9gQ8yuqiqs1G9) - This is a small eatery with only two young staff members, but the business was quite good. We arrived late, but during our meal, several local customers came in.
+> Recommended Hotel: Wakayama Daiwa Roynet Hotel - The rooms were not large, but the self-service system was smooth, and it was an economical choice, suitable for a short stay.
 
 
 #### 机器购买Icoka
