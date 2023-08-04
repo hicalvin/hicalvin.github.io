@@ -61,277 +61,298 @@ category: travel
 > Recommended Hotel: Wakayama Daiwa Roynet Hotel - The rooms were not large, but the self-service system was smooth, and it was an economical choice, suitable for a short stay.
 
 
-#### 机器购买Icoka
+#### Purchasing ICOCA Card from the Vending Machine
 
-如果不想去JR售票处排长队, 可以选择绿色自动贩卖机上购买, 而且不一定每个JR都有的卖, 所以还是建议在关西机场买好
-- Step 1. 點選左上角「ICOCAを買う」，購買ICOCA
-- Step 2. 一張卡JPY 2,000，只有這個選項可以選。內含押金JPY500及儲值金JPY 1,500
-- Step 3. 放入JPY 2,000 (其實可以兩張紙鈔同時放入，不用一張一張放)
-- Step 4. 他會問你需不需要收據。右下角兩個選項，左邊是需要收據，右邊是不用收據。
-- Step 5. ICOCA購買完成！
+If you don't want to stand in long queues at the JR ticket counter, you can choose to buy an ICOCA card from the green automated vending machines. 
 
-> :bulb: 如果要买小孩的Icoca, 那就只能去人工窗口了
+Follow these steps to purchase an ICOCA card:
 
-#### 交通
+Step 1. Click on the option "ICOCAを買う" (Buy ICOCA) at the top left corner to initiate the purchase.
 
-- 线路：JR关西机场线 到 日根野，换乘 Kuroshio 黑潮白滨方向，到白滨下
-- 车费: 谷歌查询单程 5450，往返就已经抵了关西五日周游券的价格，而且后面行程还包括奈良、京都，所以可以考虑购买五日周游券。
-- [关西北陆地区JR周游券](https://www.westjr.co.jp/global/tc/ticket/pass/kansai_hokuriku/)
-- 关西机场 - JR关西机场线 - 日根野 - JR坂和线 - 和歌山 (1.5h)
+Step 2. You'll be presented with only one option for a JPY 2,000 card, which includes a JPY 500 deposit and JPY 1,500 in stored value.
 
-- 特别提醒：特快列车“KUROSHIO”、“KOUNOTORI”、“KINOSAKI”、“HASHIDATE”、“MAIZURU”所有车厢均为对号入座（指定席）。未设不指定座位（自由席）。请务必在乘车前预约对号入座（指定席）。若未在乘车前预约对号入座（指定席），将另行收取对号入座（指定席）特快费用。
+Step 3. Insert JPY 2,000 (you can actually insert two banknotes simultaneously, no need to insert them one by one).
 
-#### 景点推荐(*由于到达时间比较晚, 所以这次就没能完成*)
+Step 4. The machine will ask if you need a receipt. The options are located at the bottom right corner. Choose the left option for a receipt or the right option to skip it.
 
-- 位於日本和歌山遊艇城內的黑潮市場，是當地市民常去採購新鮮海鮮的地方。和歌山游艇城是占地49公顷的人工填海岛屿, 
-  市场里有大量的本地清酒和纪念品可以选择. 黑潮市场也有**鲔鱼之国**的昵称, 向此处捕获的太平洋蓝鳍金枪鱼致敬. 金槍魚又名鮪(wei3)魚，即是港人常稱的吞拿魚，當中出售吞拿魚刺身、原塊、壽司等！ 
-  近年也多了旅行社帶隊前往，除了為購得新鮮運抵的魚食材外，更為一睹每天三場的金槍魚解體秀。每日的表演時間表為：11am | 12:30 pm | 3pm, 每日解體的金槍魚重達45-50kg
-- 一出市場，對街就可以看到歐洲港 (Porto Europa)。這是個地中海風格的購物區，不僅有遊樂園、飲食、紀念品，還完美複製義大利漁村、法國小鎮和西班牙城堡。孩子們絕對會興奮地跳上各種雲霄飛車與娛樂設施。這裡入場免費，所以可以在充滿古老歐洲風情的環境下，寧靜地在海邊漫步。
+Step 5. Congratulations! You've successfully purchased an ICOCA card!
 
 
-### Day 2 - Jul.19 - Wed - 和歌山 - 白滨
+> Not all JR stations have these vending machines, so it's recommended to purchase one in advance at Kansai Airport.
+> :bulb: If you need to buy an ICOCA card for a child, you will have to visit a staffed counter as this option is not available at the vending machines.
+
+
+#### Transportation
+
+- Route: Take the JR Kansai Airport Line to Hineno, then transfer to the Kuroshio train in the direction of Shirahama and get off at Shirahama station.
+- Fare: According to Google search, the one-way fare is 5450 yen. If you plan to visit Nara and Kyoto later in your itinerary, it might be worth considering purchasing the Kansai-Hokuriku Area JR Pass, which covers five days and is already equivalent to the round-trip fare. 
+- [Kansai-Hokuriku Area JR Pass](https://www.westjr.co.jp/global/en/ticket/pass/kansai_hokuriku/)
+- Kansai Airport - JR Kansai Airport Line - Hineno - JR Sakurajima Line - Wakayama (approximately 1.5 hours)
+
+> :bulb: The limited express trains "KUROSHIO," "KOUNOTORI," "KINOSAKI," "HASHIDATE," and "MAIZURU" all have reserved seating (designated seats) only. There are no unreserved seats (free seating) available. Be sure to make a reservation for a designated seat before boarding. If you haven't reserved a designated seat before boarding, an additional fee for the designated seat on the limited express will be charged.
+
+#### Recommended Attractions (Due to the late arrival, these attractions couldn't be visited this time.)
+
+- Kuroshio Market: Located within the Wakayama Marina City in Japan, Kuroshio Market is a popular place for locals to buy fresh seafood. The Wakayama Marina City is a 49-hectare artificial island, and the market offers a wide selection of local sake and souvenirs. Kuroshio Market is also known as the "Tuna Capital" as it pays tribute to the Pacific bluefin tuna caught in the area. Visitors can enjoy various tuna dishes, including sashimi, whole cuts, and sushi. In recent years, more travel agencies have been organizing tours to the market, allowing visitors not only to purchase fresh fish but also to witness the daily tuna dissection shows held at 11 am, 12:30 pm, and 3 pm. The dissected tunas typically weigh between 45-50kg.
+
+- Porto Europa: Just across the street from the market, you'll find Porto Europa, a Mediterranean-style shopping area. It features an amusement park, dining options, souvenirs, and beautifully replicated Italian fishing villages, French towns, and Spanish castles. Children will be thrilled to ride various roller coasters and enjoy entertainment facilities. The best part is that admission to Porto Europa is free, allowing visitors to peacefully stroll by the seaside in an environment filled with the charm of old Europe.
+
+### Day 2 - Jul. 19 - Wed - Wakayama - Shirahama
 
 ![Unsplash](/assets/doc_img/20230621-japan_post_02.jpg)
 
-*picture by Kentaro Toma in Unsplash*
+*Picture by Kentaro Toma on Unsplash*
 
-- 从和歌山到白滨最快的方式是乘坐黑潮 Kuroshio 特快, 选择指定席. 广域周游五日券每张都包含了六次指定席, 基本上也就在黑潮特快上用了. 后面的一些电车大多都是自由席, 没什么使用的必要.
-- 到了白浜, 现在JR站口买了白滨交通一日券, 这样整个一天坐车就不用再备零钱了, 下车给司机看下就行. 我们选择从远到近的路线, 先去三段壁, 和新西兰的海崖比还是小了点. 
-- 继续坐车去千层叠, 这里总算让我们享受了一段不错的海景, 而且整个千层叠也算开阔, 能在上面吹吹海风, 还在对着太平洋的的餐厅吃了顿海景餐, 虽然味道一般, 但秀色可餐
-- 千层叠玩的差不多了, 酒店的 Check In 时间也差不多到了. 进了房间, 被整个房间的布置种草, 但更喜欢的当然是白良滨浴场, 从酒店步行50米就能到. 沙子又细又白, 还是也非常清澈. 小朋友在这里成功尝试了在太平洋里游泳, 更是享受了很久的海浪
-- 下一站是 Toretore 海鲜市场, 我们算到了市场开始时间, 却没想到外面的烧烤预约结束时间比海鲜市场的关门时间整整早了两个小时, 也就是说如果买生鲜, 就只能自己带回家做或者另外找地方. 没办法, 只能换了一家烤肉店补补了, 还好第二天还有大阪的黑门市场等着我们. 
-- 烤肉店就在酒店旁边, 基本上在吃的都是中国游客了, 里里外外感觉就一个老太太在忙碌, 好在烤肉反正都是自助, 也不麻烦. 吃完在对面全家买点东西就回酒店泡汤咯
+- The fastest way to get from Wakayama to Shirahama is by taking the Kuroshio Limited Express, choosing reserved seats. Each Wide Area Pass for five days includes six reserved seat coupons, which we mostly used for the Kuroshio Limited Express. Most of the other trains later on were unreserved, so no need for reservations.
+- Upon arriving in Shirahama, we purchased the Shirahama One-Day Pass from the JR station, which allowed us to ride all day with few saving(not much). It's quite convenient by just showing the pass to the bus driver when getting off. We decided to take the routes from far to near, starting with Sandanbeki, though it's not as grand as the cliffs in New Zealand.
+- Next, we took a bus to Senjojiki, and finally, we got to enjoy some nice coastal views here. The area was open, and we could feel the sea breeze. We had a delightful meal with a view of the Pacific Ocean in a restaurant on the cliff. The food was average, but the scenery made up for it.
+- After enjoying Senjojiki, it was almost time for hotel check-in. Once we got to the hotel, the room decoration impressed us, but what we loved more was Shirahama Beach just 50 meters away. The sand was fine and white, and the water was crystal clear. The kids had a successful swim in the Pacific Ocean and played with the waves for a long time.
+- The next stop was the Toretore Seafood Market. We arrived at the market's opening time, but to our surprise, the reservation for the BBQ outside ended two hours earlier than the seafood market's closing time. This meant that if we bought fresh seafood, we would have to cook it ourselves or find another place. We had no choice but to switch to a nearby BBQ restaurant, as we still had the famous Kuromon Market in Osaka waiting for us the next day.
+- The BBQ restaurant was right next to the hotel, and it seemed like the majority of the customers were Chinese tourists. It felt like only one elderly lady was busy serving to everyone, but since BBQ was self-service, it wasn't too much of a hassle. After dinner, we bought some items from the nearby convenience store, FamilyMart, and returned to the hotel to relax in the onsen.
 
-> :bulb: 推荐酒店: 武藏 (Musashi). 真的是全程跪式服务, 进门不问别的, 先告诉你饮料在哪, 让你先喝两杯. 跟你确定订单的时候直接端出四个龙舌兰酒杯, 装了混合果汁给你喝, 搞得我们以为是来买房子的. 房间其实不大, 全和式, 但服务太好了. 晚上还去了他们的最基本大池子泡汤, 也非常不错, 有时间可以预约其他的各种不同的汤池. 
+> :bulb: Recommended hotel: Musashi. The service was top-notch from the moment we entered. Instead of asking anything else, they immediately told us where the drinks were and served us two glasses. When confirming our order, they even brought out four tequila shot glasses filled with mixed juice for us to drink. It felt like we were there to buy a house. The rooms were not large, but they were all traditional Japanese style, and the service was excellent. At night, we also tried their basic large onsen, which was quite good. If you have time, you can reserve various other types of onsen pools.
 
-#### 白滨
+#### Shirahama
 
-白滨町是位于日本和歌山县南部沿海的行政区划。辖内的白滨温泉为日本三古汤之一，是和歌山县内著名的温泉区。为了区分其他地方同名的白滨町，这里通常称为南纪白滨。该地气候温暖，夏季可在白滨海中展望塔或白滨海底观光船内观赏海中的热带鱼。此外，附近还有白滨温泉区，包括南纪白滨温泉和白滨温泉奥座敷的椿温泉。白滨町还以其石英砂的白色海滩而著名的白良滨，以及被列为国家名胜的圆月岛、千叠敷和三段壁等海蚀海岸地形。此外，游客还可以参观冒险大世界，这是一个结合了野生动物园、水族馆和游乐园的综合性景区。还有以科学教育为主题的白滨能量乐园和京都大学白滨水族馆等景点，吸引了许多游客，其中包括来自近畿地方的游客。
+Shirahama Town is an administrative division located along the southern coast of Wakayama Prefecture, Japan. Within its boundaries lies Shirahama Onsen, one of Japan's three ancient hot springs and a famous hot spring area in Wakayama Prefecture. To distinguish it from other places with the same name, it is usually referred to as Nanki Shirahama. The area has a warm climate, and during the summer, visitors can enjoy views of tropical fish in the sea from the Shirahama Sea Tower or aboard a Shirahama Underwater Sightseeing Boat. Additionally, the nearby Shirahama Onsen area includes the Tsubaki Onsen in Nanki Shirahama Onsen and Shirahama Onsen Okuyunoshima. Shirahama Town is also famous for its white sandy beach, Shirarahama, as well as scenic coastal features such as Engetsu Island, Senjojiki, and Sandanbeki, which have been designated as national scenic spots. Visitors can also explore Adventure World, a comprehensive amusement park that combines a wildlife park, aquarium, and amusement facilities. Other attractions include the Shirahama Energy Land, a science and education-themed park, and the Kyoto University Shirahama Aquarium, which attract many tourists, including those from the Kinki region.
 
-#### 参考
+#### References
 
-- [白滨 Meiko Bus 明光巴士线路图](https://ticket.jorudan.co.jp/meikobus/ja/file/routemap_tokutoku_mobile.pdf?20210408)
-- [柯南255集 - 南纪白滨神秘之旅](http://www.iqiyi.com/a_19rrhc0gyd.html)
+- [Shirahama Meiko Bus Route Map](https://ticket.jorudan.co.jp/meikobus/ja/file/routemap_tokutoku_mobile.pdf?20210408)
+- [Conan Episode 255 - Mysterious Journey in Nanki Shirahama](http://www.iqiyi.com/a_19rrhc0gyd.html)
+
 
 ![](/assets/doc_img/20230621-japan_post_04_tom-chen.jpg)
 
 *picture by Tom Chen in Unsplash*
 
-### Day 3 - Jul.20 - Thu - 白滨 - 黑门市场 - 大阪海游馆
+### Day 3 - Jul. 20 - Thu - Shirahama - Kuromon Market - Osaka Aquarium Kaiyukan
 
-- 从酒店打车到JR白滨站只要700日元, 到了让工作人员帮忙定了去大阪的指定席就可以等着上车了. 日本电车的线路非常复杂, 可以单开一集讲, 总之只要仔细观察, 配合谷歌地图, 基本上不会搞错. 所有信息不是在屏幕上, 就是在地上. 一趟下来, 小朋友已经对日本的交通系统略知一二了. 
-- 到了大阪, 先去酒店把行李放下. 酒店属于大阪的守口市, 地铁和私铁能到. 如果一天内去的地方比较多, 推荐买大阪地铁一日券, 就不用每次去机器买票了, 买票都只能用现金. 忘了能不能用信用卡, 反正我的磁条卡是肯定不行. 
-- 因为黑门市场的营业时间是 8:00-17:00, 关门还是挺早的, 而海游馆一直到到晚上8点关门, 所以从白滨回来就直奔黑门市场. 地铁出来很快就到了, 非常热闹, 是吃货的天堂. 
-- 进门第一家, 先来一杯高桥食品豆浆, 排队的人实在太多, 轮到我们都拿不到库存的了, 只能来一杯新鲜的豆浆, 口感非常细腻柔滑, 的确名不虚传. 如果平时喜欢喝豆浆, 那这家应该不要错过
-- 前一天没能满足的海鲜大餐, 终于在小红书上被频频点名的[黑门三平](https://kuromon.com/zh/sanpei/)给满足了. 他家的生意也是非常好, 各种口音的客人都有, 有台湾腔的, 有讲粤语的, 上海话的, 四川滴...等等等等. 
-- 黑门市场主打就是海鲜, 各种类型的寿司店、点心店、烧烤这里都有, 另外也有一些零星的的药妆店, 反正是个挺能花时间的地方, 不过我们因为还要去海游馆, 所以这里吃完就撤了
-- 海游馆, 八年前来过, 特别是在游玩最后可以亲手触摸魔鬼鱼至今印象深刻. 你会乘坐扶梯到8楼, 然后组层盘旋而下, 你在中间, 动物在外圈, 让你感受到在海洋的不同层面于不同的生物进行不同的接触, 包括镇店之宝 -- 鲸鲨. 
-- 这里汇聚了环太平洋地区（从大堡礁到北极）的大量海洋生物，是您感受海洋奇景的理想之地。海游馆共有 620 种 30,000 只生物，每个大型观赏区都真实还原了太平洋不同的栖息地和海底生态。旁边还会标注出所展生物的生活海域
-- 每个生物区域都有盖章留念, 好处是让孩子兴趣高涨, 坏处是到哪就先找盖章, 忘了生物具体的样子... 
+- Taking a taxi from the hotel to JR Shirahama Station costs only 700 yen. At the station, the staff helped us reserve reserved seats for our trip to Osaka. Japan's train lines are very complex, but as long as you carefully observe and use Google Maps, you won't go wrong. All the information is either on screens or on the ground. By the end of the trip, my kids had already grasped the basics of Japan's transportation system.
+- Once we arrived in Osaka, we first went to the hotel to drop off our luggage. The hotel is located in Moriguchi City, and both the subway and private railways are accessible. If you plan to visit several places in one day, I recommend getting the **Osaka Subway One-Day Pass** to save money. Please note that ticket machines only accept cash, and I'm not sure if credit cards are accepted, but my magnetic stripe card didn't work.
+- Since Kuromon Market closes at 5:00 PM, and Osaka Aquarium Kaiyukan is open until 8:00 PM, we went directly to Kuromon Market after returning from Shirahama. The subway took us there quickly, and it was bustling, a paradise for foodies.
+- As soon as we entered, we lined up for a cup of Takahashi Shokuhin's soy milk. There were too many people in line, and by the time it was our turn, they had run out of stock for the day. We settled for a fresh cup of soy milk instead, and it was indeed smooth and creamy, living up to its reputation. If you enjoy drinking soy milk, this place is a must-visit.
+- The seafood feast that we couldn't have the previous day was finally fulfilled at [Kuromon Sanpei](https://kuromon.com/zh/sanpei/). The restaurant was packed with customers speaking various accents, including Taiwanese, Cantonese, Shanghainese, Sichuanese, and more.
+- Kuromon Market is known for its seafood, with various sushi shops, dessert stalls, and barbecue options available. There are also some scattered drugstores. It's a place where you can spend a lot of time, but since we were going to Osaka Aquarium Kaiyukan, we had to leave after eating.
+- The Osaka Aquarium Kaiyukan, which I visited eight years ago, left a deep impression on me, especially the opportunity to touch the devil fish with my own hands. You'll take an escalator to the 8th floor and then go down in a spiral, with you in the middle and the fishes on the outer circle. It gives you a sense of interacting with different creatures at different levels of the ocean, including the flagship species - whale sharks.
+- The aquarium houses a wide variety of marine life from the Pacific Rim region (from the Great Barrier Reef to the Arctic). It's an ideal place to experience the wonders of the ocean. The aquarium has 620 species and 30,000 creatures, and each large viewing area accurately recreates different Pacific habitats and underwater ecologies. Information about the natural habitats of the exhibited creatures is also displayed.
+- Each animal zone has a stamp for visitors to collect as souvenirs. The advantage is that it piques the children's interest, but the downside is that they are more focused on finding stamps and forget about the specific appearance of the creatures.
 
-**第二天因为要早起前往环球影城, 所以要提前准备第二天的早饭** 
+**Since we need to get up early tomorrow to go to Universal Studios, we have to prepare breakfast for the next day in advance.**
+
+#### References
+
+> ⛩ Kuromon Market is located in Nipponbashi, bustling in Osaka's Chuo Ward. At the end of the Meiji period, there was a temple called Enmyoji in Nipponbashi 2-chome, so it was called "Enmyoji Market." Later, because of the black gate (Kuromon) located to the north and east of Enmyoji, it was named "Kuromon Market." However, Enmyoji was destroyed by a fire in Meiji 45 (1912), so it no longer exists, but the name "Kuromon Market" has been passed down to this day. *[Little Red Book](https://www.xiaohongshu.com/explore/64716e1c000000001301088d)*
+
+- Recommended Stores
+  - **Takahashi Shokuhin Soy Milk**: Established in 93 years, known as the "Number One Soy Milk in Kansai." Cup: 100 yen 💴, Bottle: 300 yen 💴. The soy milk has a rich flavor, not overly sweet, leaving a lingering taste of richness. Highly recommended! 👍👍
+  - **Kuromon Sanpei**: Offers various specialty snacks. Even after eating ramen, you'll still feel satisfied. Next time, make sure to save some space for Kuromon Sanpei. The sea urchin is fresh and sweet, melting in your mouth instantly. Grilled prawns are crispy and fragrant.
+  - **Ishibashi**: This store sells "Oden" 🍢 and is considered one of the delicious delicacies in Kuromon Market. Established for 44 years, they have maintained traditional brewing techniques, and the broth is delicious, making the ingredients flavorful. The best part is the friendly prices. We recommend trying the 10-yen "Oden" to get a taste!
+  - **Kurogane**: If you want to eat "Sashimi" 🍣, you must visit this store! Their must-try dish is the blackfin tuna belly. The texture is smooth, with rich oil, and has a delightful sweet taste.
+  - **Uofuku**: Grilled scallops are a must-try delicacy in Kuromon Market. After trying them, I fell in love with this place. They display many scallops at the storefront, and you can choose and have them grilled on the spot. The freshly grilled large scallops are juicy and succulent, bursting with satisfaction upon the first bite.
+  - **Genpin**: Known for serving fugu (blowfish) meat 🐡🐡. They have 88 branches in Japan, and over 900,000 visitors come annually. Whether it's fugu sashimi, hotpot 🍲, or deep-fried fugu, they are all delicious!
 
 
-#### 参考
+### Day 4 - Jul. 21 - Fri - Universal Studios Osaka
 
-> ⛩「黑门市场」位于热闹的大阪中央区的日本桥，在明治末期因日本桥二丁目有圆明寺这间寺庙，而称为「圆明寺市场」，而后因圆明寺北东方有着黑色的山门，称为「黑门市场」。不过圆明寺在明治45年（西元1912年）时因一场大火烧毁而未重建，所以已不存在，但黑门深植人心，所以「黑门市场」的名称一直流传至今。*[小红书](https://www.xiaohongshu.com/explore/64716e1c000000001301088d)*
+- There's not much to say, from the moment we got out of the subway, I knew it was going to be an exhausting day. The overwhelming crowd guaranteed it would be a leg-breaking day.
+- However, no matter what, we first went to experience the Flying Dinosaur ride, which saved us quite a bit of time. Also, I have to say the street parade was fantastic, with lively interactions with the audience. You can find the parade route online, but if all else fails, just look for crowds gathering along the roadside; that means the parade is coming.
+- Mario's merchandising ability is incredibly strong; the wristbands cost 2400 yen each. If you don't buy it, there are almost no rides left to enjoy. Watching other kids with the wristbands bump into the gold coins box and hearing the sound they make, you'd feel quite out of place if you try to do it without a wristband.
+- Anyway, we spent the whole day from morning till the park's closing time, playing and having fun.
 
-- 推荐门店
-  - **开业93年的高桥食品豆浆** ，有着【关西第一豆浆】的称号。杯装100日元💴，瓶装300日元💴。豆浆的口味非常浓厚，不是那么甜，一口喝下去，口内还留有一丝香醇，很赞👍👍哦~
-  - **黑门三平**: 各種不同種類的特色小食，吃完拉麵肚子還是很飽。下次一定要留多點空間給黑門三平。海膽很鮮甜，真正的入口即溶。燒大蝦很香脆。
-  - **石桥**: 这家店是卖关东煮🍢的，在黑门市场算是非常好吃的美食之一。开业至今44年，一直维持着传统的调制手法，料汁很鲜美，食材更是入味。关键价格很亲民，建议买上10块钱的尝尝味哦！
-  - **黑银**: 如果想吃生鱼片🍣的话，这家店一定要来！必点黑鲔鱼前腹肉，肉质鲜滑，油脂丰富，入口有一种香甜的味道～
-  - **鱼福**: 黑门市场中，烤扇贝也是必吃的美食之一。本人吃完就爱上它了。这间店门口摆了很多扇贝，挑选之后现场就可以烤。刚烤出来的大扇贝肉质饱满多汁，入口之后，汁液和肉交替在一起，满足感爆棚。
-  - **玄品**: 主打河豚肉🐡🐡，在日本拥有88间分店，每年超过90万人到访。不论是河豚刺身、火锅🍲还是炸河豚，都很好吃！
 
-### Day 4 - Jul.21 - Fri - 大阪环球影城
+#### Universal Studios Osaka Guide
 
-- 没啥好说的, 从出地铁那一刻, 我就知道这一天完了. 这人潮汹涌的态势, 注定了这是断腿的一天
-- 不过无论如何, 先去把飞天翼龙玩了还是节约了不少时间, 另外不得不说花街游行非常精彩, 和观众互动非常热烈. 线路网上应该都有, 实在不行, 只要看路边开始坐人了, 就表示游行要来了.
-- 马里奥的吸金能力实在太强了, 手环2400一个, 如果不买, 那么几乎就没什么项目可玩的了. 进去看着别的戴着手环的小朋友撞出金币大的声音, 你如果没戴手环去撞会显得非常突兀. 
-- 反正这一天从早上玩到闭馆
+- [Plan A] --- First, draw a ticket (if you get 2-3 PM slot) --- Jurassic Park --- Minions --- Spider-Man --- Parade (lunch) --- Waterworld --- Mario --- Harry Potter --- Doraemon (dinner) --- Hollywood
+- [Plan B] --- First, draw a ticket (if you get 10-11 AM slot) --- Hollywood --- Harry Potter --- Mario --- Parade (lunch) --- Spider-Man --- Minions --- Jurassic Park --- Waterworld --- Doraemon (dinner)
 
-#### 环球影城攻略
+> 08:00 - Enter the park and bind the tickets. It's best to draw a Mario timed entry ticket for 2-3 PM.
 
-- [PlanA] ---先抽券(如果抽到14-15点)--侏罗纪公园----小黄人---蜘蛛侠---花车巡游(中餐)---水世界--马里奥---哈利波特---哆啦A梦(晚餐)---好莱坞
-- [PlanB]---先抽券(如果抽到10-11点)---好莱坞---哈利波特--马里奥---花车巡游(中餐)---蜘蛛侠---小黄人--侏罗纪公园---水世界----哆啦A梦(晚餐)
- 
-> 08:00 入园后先绑定门票，最好抽马里奥整理券下午2-3点。
-
-- NO LIMIT! 花车遊行11:00  **非常热闹，互动性也很好，强烈推荐**
-- 未来水世界表演秀，三个时间段，日语实在听不懂。如果想要近距离感受水桶喷射，那就往前坐，特别是蓝色作为，保证你起身离场时浑身湿透
+- NO LIMIT! Parade at 11:00 **Very lively and highly interactive; strongly recommended**
+- Future Waterworld show with three time slots. If you want to get close to the water splash, sit in the front, especially the blue zone, and you'll end up soaking wet when you leave.
   - 12:00
   - 13:30
   - 15:00
-- 哆啦A梦欢迎会 (*没玩，不发表评论*)
-  - 12:40 
-  - 14:20 
-  - 15:20 
-  - 17:00 
-  - 18:00 
- 
-- 哈利波特4D禁忌之旅。真实的裸眼3D，现实还原电影里的魔法场景，坐上矿车俯冲在整个霍格沃兹，感受魁地奇的魅力。（下午比较空无需抽券。 **大宝看的非常过瘾** ）
+- Doraemon's welcome party (*didn't experience, no comment*)
+  - 12:40
+  - 14:20
+  - 15:20
+  - 17:00
+  - 18:00
 
-- 小黄人乐园，小黄人冰冻激光乘车游，让你一秒找回童年，乘坐飞车闯荡怪盗格鲁的宅邸和研究室，感觉自己也变成了小黄人中的一员！（*排队太长，没玩*）
- 
-- 马里奥地区，switch的主角，欢迎你来到任天堂的世界！各种顶砖块、布景互动、搜集硬币… 体验感拉满。（**小宝的最爱，排各种队伍，但是必须先买个2400日元的手表才能享受各种游戏**）
+- Harry Potter 4D Forbidden Journey. Realistic naked-eye 3D, bringing magical scenes from the movies to life, riding on a mine cart and experiencing the magic of Quidditch. (*Afternoon is less crowded and no need for a timed entry ticket. Big hit with our kids!*)
 
-- 侏罗纪公园有两个项目：1、乘船游(激流勇进） 要穿雨衣，玩家们搭乘探险船进入“复活恐龙”项目组的实验禁区，荒废实验室特别逼真，有几个瞬间真的有被吓到！突然发现自己成为霸王龙的“猎物”！从25.9米高处急坠冲入水中的前一秒是霸王龙向你扑过来！实际比预期刺激！（*傍晚去玩，20分钟搞定*）
-  
-- 飞天翼龙：据说是世界上最长最高的垂直过山车项目：38米第一下坠和最长的1124米轨道。飞天翼龙是USJ侏罗纪公园主题区的扩建项目，翼龙造型的车厢带领游客以飞行姿态环游侏罗纪公园，拥有倒立翻转/眼镜蛇翻转/心形翻转等众多刺激元素combo，让其成为整个USJ尖叫声最大的项目！
- 
-- 好莱坞 美梦乘车游（过山车）非常有失重的感觉。（*就在门口，进场排队的时候这个项目贡献不断的尖叫声*）
- 
-**游玩攻略**
+- Minion Park, Minion Freeze Ray Sliders ride. Takes you back to your childhood, riding a roller coaster through Gru's mansion and laboratory, feeling like one of the Minions! (*The queue was too long; we didn't play.*)
 
-1. 环球影城不能带饮料和食物入内，入园每人可以带一瓶500毫升水，自备水壶；
-2. 建议开园时间前1小时抵达，排在长龙的最前面，第一时间入园冲刺；
-3. 下载USJ APP，把手机地区改成台湾，APP日文可以转换为中文，同时要允许APP定位你的位置，这样实时查看地图和游戏设施等待时间，非常实用！
-4. 一定要抽取Mario、HarryPotter的整理券，因为没有预约，这2个项目是无法入内的；
-5. 终极玩法--Single Rider！单人入内走的快，如果可以接受，这个办法绝对可以让你玩遍影城；
+- Mario Land, the world of Nintendo Switch. Various interactive brick blocks, scenery, and collecting coins... Full of fun experiences. (*Our kids' favorite, waited in various queues, but you need to buy a 2400 yen wristband to enjoy the games.*)
+
+- Jurassic Park has two attractions: 1. Ride the Rapids (River Adventure). Wear a raincoat, and you'll be on an adventure boat entering the experimental zone of the "resurrected dinosaurs." The abandoned lab looks incredibly real, and you'll be scared at some moments! Suddenly finding yourself a "prey" of the Tyrannosaurus rex! The drop from 25.9 meters into the water is thrilling! (*We played close to evening and it only took 20 minutes.*)
+
+- Flying Dinosaur: Reportedly the world's longest and highest vertical roller coaster: 38 meters for the first drop and a 1124-meter-long track. The Flying Dinosaur is an expansion project in the Jurassic Park themed area of USJ. The coaster, shaped like a pterosaur, takes visitors on a flight around Jurassic Park, with elements like inverted flips, cobra rolls, heartline rolls, and more, making it the most thrilling ride at USJ with constant screams! (*Thrilling ride!*)
+
+- Hollywood Dream - The Ride. Roller coaster with a great sense of weightlessness. (*Just at the entrance, constant screams from the queue.*)
+
+**Tips for visiting:**
+
+1. You cannot bring food or drinks into Universal Studios; each person is allowed one 500ml water bottle, so bring your own water bottle.
+2. It is recommended to arrive one hour before the park opens to be at the front of the line and enter the park early.
+3. Download the USJ APP and change your phone's region to Taiwan. The APP can be converted to Chinese, and it can show real-time maps and wait times for attractions, very useful!
+4. Be sure to draw timed entry tickets for Mario and Harry Potter, as you won't be able to enter these two attractions without a reservation.
+5. Ultimate strategy - Single Rider! Entering as a single rider allows you to move quickly. If you can accept it, this method will help you experience the whole park!
+
+#### References
+
+> Summary of blood and tears experience at Universal Studios Osaka: Don't buy Express Pass or early entry tickets. How to ride most of the popular attractions. Wake up early. The official opening time is 9 AM, but they started letting people in around 8:15 AM. If you can wake up early, definitely do so. At around 8:15 AM, you don't need a timed entry ticket for the Mario area. - *Xiaohongshu*
+> 1. On that Friday, the park opened at 8:15 AM, but the official time was 9:00 AM. They open the park early. 
+> 2. Don't bother queuing; bring a cushion or paper and have breakfast while sitting on the ground. It is recommended to buy some food at the convenience store the night before because you cannot eat on public transport in Japan, and you cannot bring food or drinks into Universal Studios. Each person can bring one 500ml water bottle into the park. Have breakfast outside to solve all the food issues. 
+> 3. Choose a queue with a security gate for faster machine inspection. Others are manual inspections. 
+> 4. When you arrive in the morning, take a picture of the globe; there are not many people there, and it only takes a few minutes. Don't rush during those few minutes. At night, it will be dark, and you won't be able to take a picture of the globe, and there are many people. - *[Xiaohongshu](https://www.xiaohongshu.com/explore/648c3ceb0000000014026d45)*
+> Recommended attractions: Mario Kart (didn't play, waiting time 120 minutes, which exceeded the waiting limit), Spider-Man 4D movie, Harry Potter 4D movie, Flying Dinosaur roller coaster.
+
+> [Official Website](https://www.usj.co.jp/web/zh/cn)
 
 
-#### 参考
+### Day 5 - Jul.22 - Sat - Osaka - Nara Todai-ji Temple - Kasuga Grand Shrine - Wakakusayama
 
-- > 大阪环球影城 血泪经验总结, 不买快通，不买早入园的票，如何坐大部分热门项目,早起. 官方的入园时间是9点，我们8点到已经开始放人了，能早起的同学一定要早起。 8点15左右入园的时候，马里奥园区不需要预约入园券 - *小红书*
-- > 1.我那天周五是8:15开门 官方9:00 会提前开门 2.排队不用动 带个垫子或者纸吧 坐地上吃早饭 建议前一天晚上便利店买点儿 日本车上路上都不能吃东西 环球影城不能带饮料和食物入内  入园每人可以带一瓶500毫升水 在外面吃早饭就全部解决吧 3. 入园排队选择有安检门的排机器安检更快 其他都是人工  4. 早上到了先去拍大球 没人 耽误几分钟而已不着急那几分钟 晚上出来就天黑了 就拍不到大球了 而且人很多 - *[小红书](https://www.xiaohongshu.com/explore/648c3ceb0000000014026d45)*
-- > 推荐项目:马里奥卡丁车(没玩, 等待时间120分钟, 实在超出了等待的极限) 蜘蛛侠4D电影 哈利波特4D电影 飞天翼龙过山车
+- In the morning, we used the Kansai Wide Area 5-day pass to take the JR train from Osaka to Nara. After getting off at the station, we took a bus to Todai-ji Temple. As soon as we entered the Nara Park area, we could see deer everywhere. They were so numerous and could be found everywhere. We got off at the south gate of Todai-ji Temple and bought some deer crackers for 200 yen to interact with the native deer. However, don't let them see you take the crackers out of your pocket, as they might chase after you or even bump into you (*I experienced this personally*). But the deer are quite gentle when eating the crackers, so there's no need to worry too much.
 
-- [官网](https://www.usj.co.jp/web/zh/cn)
+- Todai-ji Temple is designated as a National Treasure of Japan and is also the world's largest wooden structure. Nara was once the capital of Japan, and now it is a popular tourist city. Todai-ji Temple was originally built during the Nara period (710-784). This temple, along with other important cultural and historical assets in the city, has been designated as a UNESCO World Heritage site under the title "Historic Monuments of Ancient Nara."
 
-### Day 5 - Jul.22 - Sat - 大阪 - 奈良东大寺 - 春日大社 - 若草山
+- At Todai-ji Temple, you can see the prosperous spread of Buddhism worldwide, each region developing its own unique characteristics. As soon as you enter the main hall, you are greeted by the majestic Great Buddha statue. The official name of the Great Buddha is "Rushana Buddha," revered as the main deity of the Avatamsaka Sutra, meaning the illuminating Buddha or the shining Buddha. The Great Buddha is 15 meters high and its face is 5 meters long. It is said that approximately 2 out of every 1 people in the nation at that time, totaling about 2.6 million people, participated in the construction of the statue. Despite undergoing multiple repairs over the years, the lotus pedestal and abdomen still retain the appearance of the Nara period. From the front, left side, and right side, you can clearly admire and pay respects to the Great Buddha.
 
-- 上午使用广域五日周游券乘坐JR从大阪前往奈良, 出站坐个公交车先去东大寺, 已进入奈良公园区域就可以陆陆续续的看到了奈良的鹿了, 真是多到随处可见. 在东大寺南门下车, 就可以来个200日元的鹿饼来逗这里的原住民了. 不过千万不要让它们看到你从口袋里拿鹿饼, 因为财不外露. 一旦被它们发现, 可是会追着你跑, 甚至被它们顶(*这可是亲身体验过的*)着跑的. 不过鹿吃起鹿饼来还是很温顺的, 不用太担心. 
-- 东大寺是日本指定国宝级文化財產，也是全世界最大的木造結構體。 奈良原為日本首都，現在則是熱門的觀光城市，其中東大寺最初於奈良時代 (710－784)興建。這座寺院和全市其他重要文化與歷史文物，都是聯合國教科文組織世界遺產公約指定的古都奈良文化财富。
-- 从东大寺可以看到佛教在全世界范围的推广之盛, 同时又各自发展出不同的特色. 一进入殿内充满威严和魄力的大佛坐像马上映入眼帘。大佛的正式名称为「卢舍那佛」，被遵奉为华严经的教主，意思是照亮世界的佛祖、闪耀光芒的佛祖。大佛高达15公尺，脸长5公尺。据说建造当时国民之中每2人就有1人，共约260万人参与了建造工程。虽然大佛历经过多次的修复，不过莲花座的花瓣、腹部仍保留着奈良时代当时的模样。进到大佛店后，无论从正面、左侧面、右侧面都能清楚地参拜、欣赏大佛。
-- 在大佛寺内, 我最喜欢的还是这里的四天王像, 从大佛殿入口旁边穿过去，沿着西侧参道来到「戒坛堂」。这个由鉴真和尚所建立的堂内四角安置着奈良时代所创作、号称是最高杰作的四天王像，分别为守护东边的持国天、守护南边的增长天、守护西边的广目天，以及守护北边的多闻天。每尊天王都站在恶鬼身上，凝视着远方。丰富的表情、壮硕的肌肉、衣服的皱褶全都做得非常细致入微，一般木造雕刻是很难呈现出这些细节的。而在四尊天王像之中尤以容貌端正的广天目最受游客欢迎。
-- 说到东大寺, 就不得不提到行基. 如果走到近铁奈良站, 也会看到一尊喷泉中伫立的僧人, 他就是行基. 行基（ぎょうき／ぎょうぎ、天智天皇7年（668年）－天平21年2月2日（749年2月23日））是日本奈良时代之僧。也有677年4月生之说。在朝廷规定佛教是国家佛教，禁止僧侣向一般民众布教的时代，突破禁令，以畿内为中心向民众、豪族层广布佛法而受到崇敬。另外，除了建立许多道场、寺，也在各地设立溜池15洼、沟和堀9筋、架桥6所、困穷者的布施屋9所等，从事社会事业。遭到朝廷数度弹压，但是，受到民众压倒性的支持，所以之后由圣武天皇招聘为大僧正负责奈良大佛（东大寺等）的建立。由此功绩成为东大寺的“四圣”之一。尊称行基大德、行基菩萨。
-- 从东大寺出来, 沿着旁边的岔路, 就可以进入春日大社的参道. 东大寺这边也有鹿在悠闲的闲逛, 比起东大寺那边的"社牛"鹿, 这里的鹿相对来说就社恐了很多. 参道两边的常夜灯, 使得整个神社显得非常肃穆. 这里本事全日本最神圣的宗教场所之一, 大社内供奉着多尊神灵, 只不过众多的游客以及嬉闹的场面, 让整个神社更像个轻松的游乐场
-- 从大社出来, 就要去赏鹿的最佳地点 -- 若草山了. 走上去不远, 算是个小山坡, 不过从这里可以看到奈良的全景, 加上翠绿的草地, 悠闲的鹿, 真是一道美丽的风景. 
+- Inside Todai-ji Temple, my favorite part is the Four Heavenly Kings statues. Passing through the entrance of the Great Buddha Hall and walking along the west side approach, you will reach the "Kaidanin." This hall, established by the monk Ganjin, houses the Four Heavenly Kings statues, considered the greatest masterpieces created during the Nara period. The Four Heavenly Kings are the guardian deities positioned at the four corners of the hall, protecting the east, south, west, and north. Each deity stands on a demon and gazes into the distance. The rich expressions, muscular bodies, and folds of the garments are all meticulously carved, which is usually difficult to achieve in wooden sculptures. Among the four statues, the handsome face of the Guardian of the West (Broad-Eyed Heavenly King) is particularly popular among visitors.
+
+- Speaking of Todai-ji Temple, I must mention Gyoki. If you walk to Nara Station on the Kintetsu Line, you will also see a statue of a monk standing in a fountain; that's Gyoki. Gyoki (668-749 AD) was a monk during the Nara period. In an era when the government prohibited monks from preaching to the general public, Gyoki defied the ban and widely spread Buddhism to the common people and aristocrats, gaining great respect. In addition to establishing many temples and monasteries, he also engaged in various social activities, such as building ponds (15), ditches and moats (9), bridges (6), and providing alms houses (9) for the poor. He was appointed as the head of Todai-ji Temple and was considered one of the "Four Saints" of the temple. He is revered as the "Great Monk Gyoki" or "Bodhisattva Gyoki."
+
+- After leaving Todai-ji Temple, we followed the side road to enter the approach to Kasuga Grand Shrine. There are also deer leisurely wandering around here, but compared to the "Sociable" deer near Todai-ji Temple, the deer here are relatively more reserved. The constant night lanterns on both sides of the approach make the whole shrine appear very solemn. It is one of the most sacred religious places in Japan. The shrine enshrines multiple deities, but due to the large number of tourists and lively scenes, the whole shrine feels more like a relaxed amusement park.
+
+- After leaving the shrine, we headed to the best spot to view the deer, Mount Wakakusa(Wakakusayama). It's not far, just a small hill, but from here, you can get a panoramic view of Nara. Along with the lush green grass and the leisurely deer, it's truly a beautiful scene.
+
+
 
 ![Unsplash](/assets/doc_img/20230621-japan_post_03_sorasak.jpg)
 
 *picture from Sarasak in Unsplash*
 
-### Day 6 - Jul.23 - Sun - 奈良 - 京都伏见稻荷 - 二年坂 - 法观寺
+### Day 6 - Jul.23 - Sun - Nara - Fushimi Inari Taisha Shrine - Sannenzaka - Hogonji Temple
 
-- 今天是周游卡的最后一天, 今天从奈良前往京都. 回忆2015年去往京都,至今还留有印象的除了花间的能剧观赏之外, 就是拥有千鸟居的伏见稻荷大社. 虽然交通算不上方便, 但是走在千鸟居之中的时候, 还和有一种别样的庄重. 但是那时候的伏见稻荷大社人数不多, 非常适合安安静静的欣赏, 而这次的大社, 可以用人山人海来形容. 这8年, 到底发生了什么, 让我连拍一张没有人的千鸟居都觉得很难. 
-- 伏见稻荷大社是遍布日本全国3万余座稻荷神社的总社本宫。也是京都市内最古老的神社之一。日本伏见稻荷大社建于8世纪，主要是祀奉以宇迦之御魂神为首的诸位稻荷神。稻荷神是农业与商业的神明，香客前来祭拜求取农作丰收、生意兴隆、交通安全。它是京都地区香火最盛的神社之一。
-- 伏见稻荷大社的入口，矗立着由丰臣秀吉于1589年捐赠的大鸟居，后面便是神社的主殿及其他建筑物。在神社里，还能见到各式各样的狐狸石像，这是因为狐狸被视为神明稻荷的使者。狐狸脸形的绘马是这里的一个特色。 这里最出名的要数神社主殿后面密集的朱红色“千本鸟居”，是京都最具代表性的景观之一，在电影《艺伎回忆录》中也曾出现过。成百上千座的朱红色鸟居构成了一条通往稻荷山山顶的通道，其间还有几十尊狐狸石像。
-- 上次大朋友还小, 所以没有去爬后面的稻荷山, 这次顶着烈日走了一段, 也算是补了上一次的缺憾. 从稻荷山上看下去, 能看到整个京都, 只不过天气实在太热, 单程到山顶要40分钟. 只能打个折, 走到20分钟的高点鸟瞰京都就下来了. 
-- 热的不行了, 加上人流太大影响了观赏体验, 所以也就早早的回京都. 门口就有JR稻荷站, 非常方便. 回到京都还早, 就去**二年坂**转转, 那里有很多古色古香的建筑和商店, 正好走到法观寺的时候看到夕阳, 好好欣赏了一番. 门店贴了各种御酒神的门贴, 因为整个7月, 京都都沉浸在祇园祭之中. 这也是我们这次行程之所以把24号放在京都的原因. 事实证明, 这是非常值得的. 
+- Today is the last day of the travel pass, and we traveled from Nara to Kyoto. Looking back on my visit to Kyoto in 2015, besides enjoying the Noh performance at Hana no Mai, another unforgettable experience was visiting Fushimi Inari Taisha Shrine with its thousands of vermilion torii gates. Although it's a little far from the city center, walking among the torii gates gives a unique sense of solemnity. However, this time, the shrine was crowded to the point where it can be described as "a sea of people." It's been 8 years, and I wonder what has happened to make it so challenging to capture a photo without any people in the torii gates.
+
+- Fushimi Inari Taisha Shrine is the main shrine of over 30,000 Inari shrines scattered throughout Japan. It is also one of the oldest shrines in Kyoto. The shrine was built in the 8th century and mainly enshrines various Inari gods, with Ukanomitama-no-kami as the head. Inari gods are deities of agriculture and business, and visitors come here to pray for bountiful crops, prosperous businesses, and safe travels. It is one of the most popular shrines in the Kyoto area.
+
+- At the entrance of Fushimi Inari Taisha Shrine stands the Otorii gate, donated by Toyotomi Hideyoshi in 1589. Behind it are the main hall and other buildings of the shrine. Inside the shrine, you can find various fox stone statues, as foxes are considered messengers of the deity Inari. The fox-faced Ema is a unique feature here. One of the most famous attractions is the dense row of vermillion "Senbon Torii" gates behind the main hall, which is one of Kyoto's most representative sights and has appeared in the movie "Memoirs of a Geisha." Hundreds of vermilion torii gates form a path leading to the top of Mount Inari, with dozens of fox stone statues scattered along the way.
+
+- Last time, I didn't climb Mount Inari. This time, I braved the scorching sun and walked for a while to make up for the regret. From the top of Mount Inari, you can see the entire Kyoto, but the weather was extremely hot, and the one-way trip to the mountaintop takes about 40 minutes. I had to make a compromise and only walked to a 20-minute high point to overlook Kyoto.
+
+- Feeling quite hot and crowded, which affected the viewing experience, we decided to head back to Kyoto early. The JR Inari Station is right at the entrance of the shrine, which is very convenient. As we returned to Kyoto early, we decided to stroll around **Sannenzaka**, where there are many quaint buildings and shops. When we arrived at Hogonji Temple, we saw the sunset, and we enjoyed the beautiful view. The shops displayed various Omamori charms as this whole July, Kyoto was immersed in the Gion Matsuri festival. This is also why we chose July 24th for Kyoto in our itinerary, and it proved to be well worth it.
+
+### Day 7 - Jul.24 - Mon - Kyoto Gion Matsuri - Tokyo
+
+- This is the first Gion Matsuri after the pandemic hiatus of three years, so the preparations are said to be very thorough. Yasaka Shrine is the focus of the Hoko floats procession, and there will also be performances arranged inside the shrine after the parade. Normally, these performances require an additional fee to watch, but during the festival, they are open to the public. We arrived at Yasaka Shrine before 9 o'clock, and the steps at the entrance were almost full of people. This is an ideal viewing spot for the flower umbrella procession.
+
+- [Gion Matsuri](https://letsgokyoto.com/kyoto-gion-matsuri/) is Kyoto's largest summer festival, held at Yasaka Shrine for an entire month. It is not only one of Kyoto's three major festivals (Gion Matsuri, Jidai Matsuri, and Aoi Matsuri) but also one of Japan's three major festivals, along with Tenjin Matsuri in Osaka and Kanda Matsuri in Tokyo! During the Heian period of Japan (around the 9th century), the population rapidly increased, and plagues broke out. Due to the lack of medical knowledge, people believed that the plague was caused by evil spirits. To appease the plague, Kyoto, the capital city at the time, began to hold Gion Matsuri at Yasaka Shrine, and the plague was miraculously subdued. Originally, Gion Matsuri was only held during times of plague, but it became an annual event in the 10th century.
+
+- After watching the Gion Matsuri flower umbrella procession and some performances, we headed to Edo - Tokyo. The kids were excited to experience the Shinkansen (bullet train) for the first time. Before heading to Tokyo, remember to use up the money in the Icoca card and then get a refund (if not used up, there will be a handling fee of 220 yen, unless the remaining balance is less than that amount). This is because in East Japan, you'll need to get a Suica card.
+
+- The place to return the card at Kyoto Station is on the second floor at the JR Ticket Office, so there was a long line. If you only need to buy Shinkansen tickets, it's faster to use the first floor ticket window.
+
+- Riding the beloved Shinkansen, we traveled from west to east through Japan to the mega-city - Tokyo. As we stepped out of the station, the bustling scene of Tokyo overwhelmed us. Towering buildings were everywhere, truly representing Tokyo. The taxi queue at the station was not too long, and the ride to the hotel allowed us to enjoy the view of Tokyo.
+
+- Upon entering Tokyo, we were greeted by the bustling cityscape. However, since we arrived quite late, we went straight to our accommodation. The original options were Akihabara and Ginza, but we didn't go there this time. It's said that they are not as lively as Shinjuku, and they are more for anime and manga lovers, not what we were looking for.
+
+### Day 8 - Jul.25 - Tue - Senso-ji Temple - University of Tokyo - Tokyo Ueno Park - Katsushika Noryo Hanabi Taikai (Katsushika Summer Fireworks Festival)
+
+- Our accommodation was very close to Senso-ji Temple in Asakusa, so our first stop in Tokyo was at the Kaminarimon Gate. This is a must-visit spot in Tokyo. The full name of Kaminarimon Gate is Fushin Raijinmon, which refers to the gods of wind and thunder. The two deities are represented on each side of the gate's large lantern. The lantern of Kaminarimon Gate is 3.9 meters high, with a diameter of 3.3 meters, and weighs 700 kg. The frame of the lantern is made of bamboo from the Tango region in Kyoto, and the washi paper used for the outer covering is made from nearly 300 sheets. This washi paper is produced from the Buntan plant (a mulberry family plant) in Fukui Prefecture, making it a 100% Japanese-made lantern. Since 1971, the lantern has been produced by Takahashi Chochin in Shimogyo Ward, Kyoto, and a new set of lanterns is made about every ten years.
+
+- Kaminarimon Gate has a deep connection with the Japanese electronics company "Panasonic." It all dates back to 1960 when the founder of Panasonic, Konosuke Matsushita, was suffering from illness. He visited Senso-ji Temple to pray for good health. After his health improved, he offered a gate and a large lantern, which is what we now see as Kaminarimon Gate. To continue this bond, the names of Konosuke Matsushita and his company, Panasonic, are still engraved under the large lantern.
+
+- To get to the University of Tokyo from Asakusa, we took the subway. Before setting off, we bought Suica cards, which function similarly to Icoca cards. However, JR is currently promoting the Welcome Suica, a red cherry blossom card. It looks more beautiful and does not require a deposit. It can also be automatically purchased and refunded through machines. The only condition is to use up the money, otherwise, no refund will be given. To buy a child's card, we had to go to a larger JR station like Ueno. The queue here was comparable to the one at Kansai Airport...
+
+- The University of Tokyo (Tokyo University), also known as Todai, is a national comprehensive research university in Tokyo, and it is recognized as the highest institute of learning in Japan. Its history dates back to 1877 when it was established as the first modern university under the new education system in Japan. It was formed from the merger of Tokyo Kaisei School and Tokyo Medical School, both founded during the end of the Edo period. In 1886, it was renamed as "Imperial University," and in 1897, it became "Tokyo Imperial University." In 1947, it was renamed to its current name, the University of Tokyo. The University of Tokyo has three campuses, each with different educational and research focuses. The Hongo Campus implements a general education curriculum, the Komaba Campus provides specialized education, and the Kashiwa Campus mainly offers graduate courses.
+
+- The University of Tokyo enjoys a high reputation in the academic world. As of October 9, 2018, ten faculty members and alumni of the University of Tokyo have been awarded the Nobel Prize. Additionally, 11 individuals who received their degrees from the University of Tokyo and 16 individuals associated with the university have become Nobel laureates. **According to the QS World University Rankings 2021, the University of Tokyo ranks first in Japan, sixth in Asia, and 24th in the world.** As of 2018, 16 alumni of the University of Tokyo have served as Prime Ministers of Japan, accounting for a quarter of all Prime Ministers in Japanese history. Furthermore, ten faculty members and alumni of the university have been awarded the Nobel Prize. In addition to that, two non-alumni Ph.D. recipients have also received the Nobel Prize: Shinichiro Tomonaga (Physics, 1965) and Satoshi Ōmura (Medicine, 2015). Moreover, alumni of the University of Tokyo include renowned writers Yasunari Kawabata (Literature, 1968) and Kenzaburō Ōe (Literature, 1994), with Kawabata receiving one of Japan's highest literary awards. The university's alumni also include a Fields Medalist, as well as three Pritzker Architecture Prize laureates. Additionally, five alumni of the University of Tokyo have become astronauts, participating in space missions.
+
+- Tokyo University and Ueno Park are only separated by a street, making the area very peaceful. The Central Cafeteria is located below the Yasuda Auditorium. Photography inside the cafeteria is prohibited, and staff members would intervene if anyone tries to take photos. We often saw groups of young students visiting the university for educational purposes. Near the restaurant's exit, there is a small shop where you can buy some University of Tokyo souvenirs.
+
+- After exploring the University of Tokyo, we took a bus from within the campus to Ueno Park. In addition to being a public recreational area for the general public, the park is also surrounded by various museums and art galleries, making it a place for leisure and increasing knowledge and aesthetics, a win-win situation. We chose the Earth Museum in the National Museum of Nature and Science. The admission fee for students and adults is reasonable. Inside the museum, there was a 360-degree movie, which had multilingual receivers including Chinese, Korean, and English. The staff also explained in detail how to use the receivers. Afterwards, we entered the main exhibition of the Earth Museum, which is spread over three floors, each with a different focus. The museum covers topics from nature to technological advancements. There were many interactive facilities in the technology section, which piqued the interest of the kids.
+
+- Evening: Katsushika Noryo Hanabi Taikai (Katsushika Summer Fireworks Festival). This was something we had researched beforehand. The Katsushika area is relatively remote, so there are fewer people. However, the reality slapped us hard. The small station of Kanamachi was jammed with people exiting, and even during that time, vehicles kept arriving to drop off passengers. This congestion was probably unprecedented for this small station. Fortunately, everyone followed the rules and moved slowly under the guidance of station staff, otherwise, there could have been safety issues with such a large crowd.
+
+- Before watching the fireworks display, we ate at a dumpling shop near the station. The taste was good, and they were said to rank high on the handmade dumpling list. We were stuffed after the meal. Highly recommended!!
 
 
-### Day 7 - Jul.24 - Mon - 京都祗园祭 - 东京
+### Day 9 - Jul.26 - Wed - Tokyo - Kamakura
 
-- 这是疫情之后的第一次祇园祭. 停了三年, 所以这次的准备据说是非常充分. 八坂神社会是花伞游行的重点, 而且之后还会在社内安排表演. 在平时, 那可是需要另外付费才能看到的表演. 9点前赶到八坂神社, 门口的台阶上已经快要坐满了人. 这里将会真面花伞游行的队伍, 所以那是个非常理想的观赏地点. 
-- [祗园祭](https://letsgokyoto.com/kyoto-gion-matsuri/) 是京都最大的夏季节庆，举办在八坂神社，可是为期一整个月的祭典。 祇園祭不只是京都三大祭(祇園祭、時代祭、葵祭)之首，他還是日本三大祭(京都祇園祭、大阪天神祭、東京神田祭)之首喔！ 日本平安時代（約九世紀），人口快速成長而瘟疫四起，因為醫療知識不足，人們認為瘟疫是惡靈在作怪，為了平息瘟疫，當時的都城京都開始在八坂神社舉辦祇園祭，瘟疫居然就此平定了下來。 祇園祭本來只有在發生瘟疫時才舉辦法式，到了西元10世紀才固定每年舉行。
-- 看完祇园祭的花伞游行和部分的表演, 也要启程前往江户 - 东京了. 小朋友最为念叨的新干线, 这次终于有机会让他体验了. 去东京之前, 记得先把Icoca里面的钱用完然后退掉(不用掉的话, 就会被收取220日元的手续费, 除非余额少于这个数额), 因为到了东日本, 就得买Suica, 也就是西瓜卡了. 
-- 京都站能退卡的地方在二楼的JR Ticket Office, 所以这里的队伍很长. 如果只是要买新干线, 那么选择一楼的额购票窗口可以更快. 
-- 坐上小朋友心爱的新干线, 从西到东贯穿日本来到超大城市 -- 东京. 一出车站, 东京的繁华景象扑面而来. 高耸入云的建筑随处可见, 不愧是东京. 车站打车的队伍不算长, 从车站到酒店的这段路正好可以好好欣赏东京的面貌. 
-- 进入东京，扑面而来的是繁华的城市面貌，但是也因为到的比较晚， 所以直接前往民宿入住了。原本备选的点是秋叶原和银座， 后面也没去， 据说没有新宿热闹， 而且是二次元，不是这挂的。
+- In the morning, we departed from Asakusa, Tokyo, and headed to Kamakura. Upon arrival at Kamakura Station, we decided to visit Tsurugaoka Hachimangu Shrine. Tsurugaoka Hachimangu is one of the most important shrines dedicated to the Shinto gods of warriors and the guardian deity of the Minamoto clan, Hachiman. In 1063, Minamoto no Yoriyoshi, the head of the Minamoto clan, constructed Tsurugaoka Hachimangu as a token of gratitude for the gods' blessings after achieving victory. Later, his son Minamoto no Yoshiie moved to Kamakura, which eventually became the de facto capital during the Kamakura shogunate (1192-1333). In 1180, the shrine was relocated to Kamakura by Minamoto no Yoritomo, who shifted the center of power from Kyoto to the east and established the Kamakura shogunate, which lasted until 1868.
 
+- If you want to go to the seaside, you can visit Yuigahama Beach. Kamakura has three beaches: Yuigahama, Zaimokuza, and Koshigoe. Among them, Yuigahama Beach is the most convenient to reach. It's a 15-minute walk from Kamakura Station. You can also take the Enoshima Electric Railway Line and get off at either Wadazuka Station, Yuigahama Station, or Enoshima Station, then walk for about 5 minutes to reach the beach. While lying on the beach, you can enjoy a view of Mount Fuji.
 
-### Day 8 - Jul.25 - Tue - 东京上野公园 - 浅草寺 - 东京大学 - 葛饰纳凉花火大会
+- The highlight of our visit to Kamakura was, of course, going to Kamakura High School in front of the station, the filming location of the basketball anime "Slam Dunk." We walked up the hill to Kanagawa Prefectural Kamakura High School. This place also holds memories of Akanarika (played by Naomi Suzuki) during her student days.
 
-- 住处和浅草寺非常近, 不行就能到, 所以东京第一站就从浅草雷门开始了. 这里是东京的必去景点之一, 雷门全称是风神雷神没, 指的是掌管风的神明和掌管雷的神明, 两位神明像分列雷门大提灯的两侧. 雷门的大提灯高3.9米，直径为3.3米，重量更达700kg。 提灯的骨架是用在京都的丹波地区所采摘的竹子所制，而外框上的和纸更是使用了将近300枚黏贴而成的。这些和纸是以福井县产的葡蟠（桑科植物）为原料所制，可谓百分之百的日本原产提灯。 这里的提灯是自1971年起，由京都市下京区的高桥提灯所制作的，每隔将近十年就会重新制作一批。
-- 雷门的大提灯与日本电器企业“松下”有着很深的渊源。 这一切要追溯倒1960年。在这一年，松下电器产业（现为Panasonic）的创立者松下幸之助忧于病痛，为祈求健康而前往浅草寺参拜。 之后，松下幸之助的病被治好了，为了还愿便送上了门与大提灯，也就是现在所看到的雷门。 而为了续下这段缘分，现在的大提灯下面，也依旧刻有松下电器产业（现Panasonic）创业者，松下幸之助的名字。
+- In the afternoon, we strolled along Komachi Street, a pedestrian shopping street, to buy some souvenirs. Komachi Street is a unique modern district in the heart of this ancient city. It is filled with fashionable boutiques and offers various types of delicious food, attracting visitors year-round. Many restaurants in Komachi Street serve shirasu (whitebait), a local specialty. The locals are creative and adventurous when it comes to food, serving shirasu in various ways, including raw, with noodles, on pizza, or atop a rice bowl – there's something for everyone. The array of desserts and snacks here is also tempting, especially the sweetened adzuki beans and biscuits. For literature enthusiasts, you can visit the café often frequented by Nobel laureate Yasunari Kawabata. It is located near Komachi Street and has a long history, still open to this day. The famous Kawabata Yasunari Memorial Museum is also nearby and easy to find.
 
+- Other optional sightseeing spots in Kamakura include the Tengazake Ukiyo-e Museum and the Shonan Matsuri Doya Bookstore.
 
-- 从浅草站去东京大学得坐地铁, 上路之前, 先要买一张Suica, 功能跟Icoca是一样的. 但是现在JR在重推Welcome Suica, 红色的樱花卡, 看起来更漂亮, 不需要押金, 还可以通过机器自动购买和退卡, 只不过必须把钱用完, 否则是不退的. 购买小孩卡还是得到大一点的JR站, 比如上野. 这里的队伍长度堪比关西机场...
-- 东京大学（Tokyo University），简称东大，是日本东京的一所国立综合性研究型大学，也是公认的日本最高学府。它的历史可以追溯到1877年，是日本第一所现代学制综合大学，前身是幕末时期创办的东京开成学校和东京医学校。1886年更名为"帝国大学"，1897年改名为"东京帝国大学"，后于1947年复用现名。 东京大学设有3个校区，每个校区都有不同的教育和研究内容。驹场校区实施博雅课程，本乡校区提供专业教育，柏校区主要开设大学院（研究生）课程。
-- 东京大学在学术界享有盛誉，截至2018年10月9日，已有10名东大教职员和校友获得诺贝尔奖，另外11人获得东大学位的人士和16人具有东大关联的人士也成为了诺贝尔奖得主。 根据2021年的QS世界大学排名，东京大学在日本排名第一，在亚洲排名第六，在世界排名第24。 截至2018年，东京大学的校友中有16位曾担任内阁总理大臣（首相），占历来总理大臣人数的四分之一。此外，还有10位东大教职员和校友获得了诺贝尔奖。另外，还有2位非校友的论文博士获得了诺贝尔奖，他们是朝永振一郎（1965年物理学奖）和大村智（2015年医学奖）。 除此之外，东京大学的校友还包括著名作家川端康成（1968年文学奖）和大江健三郎（1994年文学奖），其中川端康成是日本最高文学奖项之一。 此外，东京大学的校友中还有一位获得数学界最高荣誉菲尔兹奖的人士，以及三位获得建筑界最高荣誉普利兹克建筑奖的人士。另外，还有五位东大校友成为太空人，参与了宇航任务。
-- 从上野坐公交车就可以到东京大学校内, 中央食堂就在安田讲堂下面, 里面是不能拍照的, 会有工作人员来制止。东京大学和上野公园只有一路之隔， 里面非常安静， 同时也经常看到有年纪尚小的学生团在参观研学。 餐厅出门还有一个小小的商店，可以购买一些东大纪念品。 
-- 逛完东大，在校园内等一趟始发的公交车就可以到上野公园了， 这里除了是个给大众开放的公共活动区域之外，还围绕了一圈的博物馆、美术馆、科技馆等等，对民众来说既可以休闲，又可以增加见识和审美，一举多得。 我们选择了科技博物馆的地球馆，门票是大学生以上才全价，也不贵。 进去后有个360度电影，居然配有包括中文、韩文、英文在内的多语言接收器，工作人员也非常仔细的解释了各个按钮的使用情况。 之后进入地球馆主馆，总共3层，每一层都有不同的侧重点， 有包括自然的，也有讲述科技进化的。科技馆部分交互的设施比较多， 小孩子也更加感兴趣。
-- 晚上：葛饰区纳凉花火大会。 这也是之前网上了解好的。一切葛饰区比较偏僻所以人会比较少，但现实狠狠的打了一把脸。葛饰区的小站因为出口的人流实在太大，直接把人堵在了站内，期间还不断有车辆到达下客，这拥堵情况估计对这个小站来说也是多年未遇了。不过好在大家都非常守规矩，听着指挥慢慢挪动，否则这么多人还是非常容易出现安全问题的。 
-- 去看烟花表演之前，在站边上吃了家饺子店，味道不错，号称位列手工饺子的排行榜，吃的好饱。 推荐!!
-
-> 推荐餐厅： 
-
-
-### Day 9 - Jul.26 - Wed - 东京 - 镰仓
-
-- 上午从东京浅草出发前往镰仓, 从镰仓站出来, 可以先前往鹤冈八幡宫游览。鹤冈八幡宫是供奉武士和源本守护神八幡的最重要的神社。1063 
-  年，时任源氏家督的赖义为感谢众神赐予胜利，修建了鹤冈八幡宫。其后其子嗣源赖朝举家迁至镰仓，即镰仓幕府（1192-1333 
-  年）实际意义上的首都，于 1180 年将该寺迁建于此。源赖朝将权力中心自京都东移，并建立起幕府军政体系后，这套政体便持续到了 1868 年。
-- 如果要去海边, 可以前往由比滨沙滩. 镰仓有三座海滩：由比滨、材木座及腰越。其中，前往由比滨最为方便. 从镰仓站步行 15 分钟即可抵达。搭乘江之岛电铁线至和田冢站、由比滨站或江之岛站下车，步行 5 
-  分钟即可抵达。躺在沙滩上就可以眺望富士山. 
-- 前往镰仓, 重头戏当然是去镰仓高校前站打卡灌篮高手取景地, 沿着山坡往上走, 就可以到神奈川县立镰仓高等学校. 这里也是赤名莉香(铃木保奈美毕业的学校)学生时代度过的地方
-- 下午前往小町通步行街(Komachi Street), 买一些伴手礼.镰仓小町通是这座古城中心一处独特的现代街区，这里时尚精品店林立，各式美食应有尽有，全年游客如织，热闹非凡。在小町通，许多餐馆都会供应小银鱼，小银鱼是一种被称为"白子"的当地特色美食。当地人在美食上善于思考且勇于尝试，他们想尽办法以各种方式制作白子料理，包括生吃、搭配面条、制作披萨或放在丼饭上，总有一款适合您。 这里的各类甜点和小吃也非常诱人，尤其是小糖豆和曲奇饼干。如果您是一位文学爱好者，可以到诺贝尔奖得主川端康成经常光顾的咖啡店坐坐。这家店就在小町通附近，有着多年的历史，至今仍在营业。著名的川端康成故居也在附近，都很容易找到。
-- 其他可选的游览点, 还有腾泽浮世绘馆, 以及湘南茑屋书店
 
 ![Tokyo](/assets/doc_img/20230621-japan_post_05_susann-schuster.jpg)
 *picture provided by Susann Schuster in Unsplash*
 
-### Day 10 - Jul.27 - Thu - 东京新宿 - 原宿 - 涉谷 - 东京爱情故事
+### Day 10 - Jul.27 - Thu - Tokyo National Art Center - Omotesando - Yoyogi Park - Tower Records Shibuya Store
 
-![东京爱情故事 - 东京篇](/assets/doc_img/2023-06-21-tokyo_love_story.png)
+![Tokyo Love Story - Tokyo Arc](/assets/doc_img/2023-06-21-tokyo_love_story.png)
 
-- 上午: 出发去代代木公园,途中经过[表参道](https://goo.gl/maps/HnMMyckrLVdV6rRp9)(35.666095, 139.710270). 表参道A1出口.这里是分手后完治和莉香相遇的地方. 
-- 之后前往[代代木公园]
-(https://goo.gl/maps/frBBXWESHPfMVtSB6)(GPS:35.667720, 139.696650),
-也就是莉香第一次吻完治的广场和三年后他们分手的广场. 
-- 明治神宫
-- [莉香和完治的东京工作点位于目黑区](https://goo.gl/maps/ZfEFB6xyLtdBL3fT9)(GPS:35.646713, 139.6941550)
+- It's the day before leaving Japan, and finally, we can sleep in and wake up naturally. Today's plan is to visit the Tokyo National Art Center. After getting off the subway, we took an elevator directly to the entrance of the art center. It's more like a large exhibition hall than a traditional museum, with each hall dedicated to various themed exhibitions, and all of them are paid exhibitions. We coincidentally came across an exhibition by the Chinese visual artist [Cai Guo-Qiang](https://en.wikipedia.org/wiki/Cai_Guo-Qiang), known for his visual and firework designs for the 2008 Beijing Olympics and the 2022 Beijing Winter Olympics.
 
-### Day 11 - Jul.28 - Fri - 东京 - 上海 - 杭州
+- However, my wife and daughter chose to visit another exhibition about the application of light in various paintings. As an art novice like me, resting outside was the best choice. On the top floor, there's an art library with a good selection of books. I found a book about ukiyo-e (woodblock prints) because I had originally planned to visit a ukiyo-e museum, but couldn't fit it into our schedule. So I decided to learn a bit from the art book instead.
 
-## 签证 - 常规材料要求
+- After leaving the art center, we walked to [Omotesando](https://goo.gl/maps/HnMMyckrLVdV6rRp9) (35.666095, 139.710270), the place where Kanji Nagao and Rika Akana met after breakup in "Tokyo Love Story." We had a sushi lunch at a conveyor belt sushi restaurant nearby and then went to [Yoyogi Park](https://goo.gl/maps/frBBXWESHPfMVtSB6) (GPS:35.667720, 139.696650), where the iconic scenes of Kanji Nagao and Rika Akana's first kiss and their parting. I was hoping for a large open area for photos, but unfortunately, most of it was occupied by scaffolding and various tents. It turned out that the next day they were holding a Taiwanese food street event. Previously, my friend came here for photos and encountered an Indian food street event. Why does Yoyogi Park, such a sacred place, have to be used for food events?
 
-1. 护照原件（有效期6个月以上，如有老护照请一起提供）
-2. 照片原件二张（白底彩照4.5cm*3.5cm，近6个月内拍摄）
-3. 身份证正反面复印件一份
-4. 户口本复印件（除空白页，有信息页都要）
-5. 申请表（必须需要正反面打印在一张纸上并签字）
-6. 居住证复印件（江浙沪皖赣以外户籍人员需要） 如外省户籍在上海工作请一并提供上海市民信息网的用户名和登入密码填写在居住证的复印件上
-7. 个人税单近12个月缴税总额4200元以上，且每月缴税金额不少于350元，不取平均值。
-8. 银行流水，体现工资奖金字样，近12个月每月不少于9000元，不取平均值
-9. 提供全程的机票酒店确认单
-10. 房产车产复印件 
-11. 10万年薪在职证明(如果有50万，可以考虑5年签，不过费用相应会高一点)
+- However, there was also a pleasant surprise: the **National Yoyogi Arena** here was hosting the **2023 Japan Badminton Open**. No wonder there were so many Yonex booths around. According to the official Chinese badminton account, many top Chinese players were participating. Unfortunately, we couldn't stay to cheer for the Chinese team due to our schedule, but this unexpected encounter added more memorable moments to our trip to Japan.
 
-**此套餐仅限符合条件本人 不适用附属**
+- Yoyogi Park was a personal choice in our itinerary, while the rest of the family, especially my daughter, chose to visit Tower Records Shibuya Store. Tower Records is a chain of music stores originating from the United States, with the slogan **No Music, No Life**. It was established in 1960, but the U.S. stores closed in 2006. Now the brand mainly operates overseas, with a strong presence in Japan, where Tower Records is a haven for music enthusiasts. The Tower Records Shibuya Store has eight floors, each with specific themes and music genres. The 3rd floor mainly sells domestic pop music products, while the 6th floor offers jazz, reggae, blues, and other genres. I particularly recommend the 2nd floor's "Tower Books," where you can find a wide variety of magazines and books related to music and art, including many imported hardcover versions. They also sell original Tower Records merchandise, such as tote bags and T-shirts. The adjacent "Tower Record Cafe" offers occasional limited-edition collaborative dishes, and the dining space is very relaxing.
 
-> :thumbsup: 如果在杭州,推荐浙江新世界国旅(有淘宝店). 之前在日本领事馆的签证代理列表上有他们的名字, 所以是正规渠道. 为了赶时间, 我选择线下递交, 6.25号送过去, 当面迅速清点材料, 7.4号就通知出签了. 整个过程专业快捷.好评推荐 !!   
+- After buying some records, we returned to our accommodation. We spent the remaining money on the Suica card at Family Mart and prepared to head home the next day.
 
-## 活动
+### Day 11 - Jul.28 - Fri - Tokyo - Shanghai - Hangzhou
 
-## 参考链接
-
-### 东京
-- [永恒经典 - 东京爱情故事在线播放](https://www.iole.tv/vodplay/12646-1-1.html)
-- [永恒经典 - 东京爱情故事下载](https://www.bt-tt.com/html/7/18196.html)
-- [东京爱情故事 日本拍摄地探访攻略](https://www.sohu.com/a/86332656_119756) 只看这一个帖子就够了，还有经纬度，膜拜
-  - 莉香和完治的东京工作点: 35.646713, 139.6941550
-  - 莉香和完治分手的代代木公园： 东京地下铁千代田线代代木公园站 35.667720, 139.696650
-  - 莉香和完治三年后相遇： 35.666095, 139.710270
-- [别了，平成时代：从“用香槟洗勺子”到“低欲望社会”的30年，日本到底经历了什么？](https://m.21jingji.com/article/20190430/herald/aa870f893d4a1e93839035107e4e3066.html)
-
-### 京都
-- [祗园祭](https://letsgokyoto.com/kyoto-gion-matsuri/)  2023京都祗园祭完全指南
-
-### 和歌山
-- [和歌山自由行](https://journey.tw/go-shirahama/)
-
-### 书本影视
-
-- 书籍：《窥视日本》 - 妹尾河童 
-- 影视：《永远的三丁目的夕阳》系列电影
-- 影视：《海街日记》 - 是枝裕和 (镰仓)
-- 影视: [《龙马传》](https://www.haitu.tv/vod/play/id/77853/sid/1/nid/1.html) - 福山雅治
-
-### 旅游卡购买
-
-- 了解ICOKA和SUICA [一分钟看懂日本交通卡 - 西瓜卡和ICOCA的区别](https://www.mafengwo.cn/gonglve/ziyouxing/283260.html)
-- JR关西广域周游卡. [淘宝店](https://jrxrblvyou.tmall.com/) 
-- [一文搞懂浅草线](https://zhuanlan.zhihu.com/p/63156082)
-- [喵爸喵妈优惠链接](https://kimiyo.tw/kamakura-transportation/)
+- Today's mission is to use up all the money on the Suica card and then return it at the airport to get the 500 yen deposit back per card.
+- There is a direct subway line from Asakusa to Narita Airport, very convenient. After spending so many days in Japan, we had already become experts in using ticket machines.
+- The airport procedures were very fast, and the security check didn't take much time either. The journey back was smooth!
 
 
-> 新干线简介：日本的高速火车（子弹列车）称为新干线，是由JR（日本铁路公司）所营运。东海道新干线连接东京、京都、名古屋及大阪。
-新干线车次共有三个速度级别的火车运行：「希望号Nozomi」、「光号Hikari」、「回音号Kodama」
-> - 希望号Nozomi：坐希望号列车从东京到京都需要大约140分钟。 
-> - 光速号Hikar：坐光速号列车要160分钟。 
-> - 回音号Kodama：乘回声号列车则需要大约4小时。
-> TIPS:东京到京都的新干线往返票价约27000日元左右，几乎和日本铁路周游券JR Pass7日券的票价一样，建议购买日本铁路周游券JR Pass7，这样在使用日期内利用周游券多次往返或去其他地方非常划算和方便。使用日本铁路周游券JR Pass可以乘坐光号和回声号，不能乘希望号。
-持有日本铁路周游券JR Pass的客人除了希望号Nozomi不能乘坐之外，其他火车均可乘坐。
+## Activities
+
+## Reference Links
+
+### Tokyo
+- [Eternal Classic - Watch Tokyo Love Story Online](https://www.iole.tv/vodplay/12646-1-1.html)
+- [Eternal Classic - Download Tokyo Love Story](https://www.bt-tt.com/html/7/18196.html)
+
+
+### Kyoto
+- [Gion Matsuri](https://letsgokyoto.com/kyoto-gion-matsuri/) The Complete Guide to Gion Matsuri in Kyoto 2023
+
+### Wakayama
+- [Wakayama Independent Travel](https://journey.tw/go-shirahama/)
+
+### Books and Movies
+
+- Book: "Peeking into Japan" - Kawataro Meo
+- Movie: "Always - Sunset on Third Street" film series
+- Movie: "Our Little Sister" - Hirokazu Kore-eda (Kamakura)
+- Movie: [Ryoma-den](https://www.haitu.tv/vod/play/id/77853/sid/1/nid/1.html) - Starring Masaharu Fukuyama
+
+### Travel Card Purchase
+
+- Understand ICOCA and SUICA [One Minute Guide to Japanese Transportation Cards - Difference between Suica and ICOCA](https://www.mafengwo.cn/gonglve/ziyouxing/283260.html)
+- JR Kansai Wide Area Pass. [Taobao Store](https://jrxrblvyou.tmall.com/)
+- [Understanding Asakusa Line](https://zhuanlan.zhihu.com/p/63156082)
+
+
+> Shinkansen Introduction: Japan's high-speed train, known as Shinkansen or "bullet train," is operated by JR (Japan Railways). The Tokaido Shinkansen connects Tokyo, Kyoto, Nagoya, and Osaka.
+Shinkansen trains operate at three speed levels: "Nozomi," "Hikari," and "Kodama."
+> - Nozomi: Takes about 140 minutes from Tokyo to Kyoto.
+> - Hikari: Takes about 160 minutes on the Hikari train.
+> - Kodama: Takes about 4 hours on the Kodama train.
+> TIPS: The round-trip fare from Tokyo to Kyoto on Shinkansen is about 27,000 yen, nearly the same as the price of the Japan Rail Pass 7-day ticket. It is recommended to purchase the Japan Rail Pass 7-day ticket for multiple trips or travel to other places within the validity period. With the Japan Rail Pass, you can take Hikari and Kodama, but not Nozomi.
+Passengers with the Japan Rail Pass can ride all other trains except Nozomi.
