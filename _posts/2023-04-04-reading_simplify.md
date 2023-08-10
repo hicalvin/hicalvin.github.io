@@ -2,7 +2,9 @@
 layout: post
 title:  "After Reading Simplify 极简法则"
 date:   2023-04-04 10:10:50 +0800
-category: reading
+categories: 
+- reading
+- english
 ---
 
 The book of <Simplify> was written by Richard Koch.  Richard Koch is a British author, investor, and entrepreneur who has written several books on business and personal development, including "The 80/20 Principle" and "Simplify." He advocates for the use of the 80/20 principle, which suggests that 80% of results come from 20% of effort, and that focusing on the most important 20% can lead to significant improvements in productivity and success. Additionally, he emphasizes the importance of simplifying one's life and business, getting rid of unnecessary complexity and focusing on what truly matters.
