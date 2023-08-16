@@ -3,7 +3,7 @@ layout: post
 title:  "DIY Trip: From Conan's Shirahama to Akanarika's Tokyo"
 date:   2023-08-03 13:03:50 +0800
 categories: 
-- travel, english
+- english
 ---
 
 ![header picture](/assets/doc_img/20230621-japan_top_01.jpg)
