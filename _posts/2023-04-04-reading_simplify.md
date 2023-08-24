@@ -3,7 +3,6 @@ layout: post
 title:  "After Reading Simplify 极简法则"
 date:   2023-04-04 10:10:50 +0800
 categories: 
-- reading
 - english
 ---
 
