@@ -5,6 +5,10 @@ date:   2023-04-15 22:33:50 +0800
 category: tech
 ---
 
+[Large Language Model](https://images.unsplash.com/photo-1694166966928-b8491c46abaa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3503&q=80)
+
+-- *by Alexander Kovalev* 
+
 ## LlamaIndex
 
 LlamaIndex is a project that provides a central interface to connect your LLM's with external data like database and files(pdf, json, docx, epub etc). It also can access to some site like bilibili, reddit etc. There's a [Llama Hub](https://llamahub.ai/) to collect all the interfaces. 
@@ -97,3 +101,4 @@ I will go to the store after I finish this work.
 - [Langchain Introduction](https://www.pinecone.io/learn/langchain-intro/)
 - [Huggingface - AI Community](https://huggingface.co/)
 - [Getting Started with LangChain](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)
+- [Langchain Crash Course for Beginners](https://www.youtube.com/watch?v=nAmC7SoVLd8)
