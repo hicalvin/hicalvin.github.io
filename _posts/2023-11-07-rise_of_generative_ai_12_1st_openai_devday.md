@@ -39,7 +39,7 @@ category: tech
 
 在这些显著的发展的介绍之后，山姆欢迎了一个特别嘉宾，Microsoft的CEO - 萨蒂亚.纳德拉。他上台讨论了OpenAI和Microsoft之间的合作关系，强调了他们共同推进AI技术的努力。
 
-然后OpenAI揭示了**GPTs**，开放给全球开发者构建和定制他们的ChatGPT模型。为了展示这些进步的实际应用，来自OpenAI的工程师展示了如何使用Zapier的GPT模型连接她的个人日历和聊天工具,现场展示使用自然语言让不同的工具交互是多么的简单。
+然后OpenAI揭示了**GPTs**，开放给全球开发者构建和定制他们的ChatGPT模型。为了展示这些进步的实际应用，来自OpenAI的工程师展示了如何使用[Zapier](https://zapier.com/)的GPT模型连接她的个人日历和聊天工具,现场展示使用自然语言让不同的工具交互是多么的简单。
 
 既然可以构建自己的GPT，那么OpenAI把GPT的构建再往前推进了一步，只用自然语言，就可以构建一个自己的GPT。山姆亲自演示了这个功能，使用自然语言，利用他在YC做投资时的经验文档，通过与GPT Builder对话。GPT Builder 就开始从命名GPT模型，选择应用图标，到建立GPT的过程页面全过程，完全由自然语言输入驱动。在几分钟内，一个叫'Startup Mentor'的新GPT模型诞生了。
 
@@ -98,3 +98,8 @@ As the event neared its conclusion, Sam unveiled the Beta version of the **Assis
 In an exciting turn of events, the engineer used a voice command to award each DevDay attendee a credit of 500 dollars in the OpenAI account. This surprise not only delighted the attendees but also served as a powerful demonstration of the capabilities of the new Assistants API.
 
 In summary, the first OpenAI DevDay was a grand success. It was a celebration of the significant strides OpenAI has made in the past year, and a revealing peek into the future of AI. As we reflect on this event, it's clear that OpenAI is not just leading the AI revolution but also fostering a community of innovators and developers committed to pushing the boundaries of what's possible with AI.
+
+## 参考
+
+- [OpenAI开发者日中英文完整版](https://youtu.be/lydmOkYSLyE?si=7EXUWdalZKb7XMAJ)
+- [OpenAI开发者日带来了什么](https://youtu.be/4-SSjvWx1B8?si=hnAitRZct5IMtpOJ)
