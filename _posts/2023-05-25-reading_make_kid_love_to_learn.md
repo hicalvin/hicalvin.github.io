@@ -110,3 +110,4 @@ category: reading
 1. 加入随机性 
 2. 让孩子自己设定奖励
 
+#reading 

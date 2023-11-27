@@ -103,3 +103,6 @@ In summary, the first OpenAI DevDay was a grand success. It was a celebration of
 
 - [OpenAI开发者日中英文完整版](https://youtu.be/lydmOkYSLyE?si=7EXUWdalZKb7XMAJ)
 - [OpenAI开发者日带来了什么](https://youtu.be/4-SSjvWx1B8?si=hnAitRZct5IMtpOJ)
+
+
+#ai/openai #ai/openai/chatgpt 

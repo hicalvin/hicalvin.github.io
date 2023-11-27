@@ -35,3 +35,5 @@ I chose to chat with Steve Jobs and ask him about products. Here is a snippet of
 
 
 Overall, I really like the feeling by haring Steve's voice to answer my question. It feels so close to him. Great experience !!
+
+#ai/realcharai 

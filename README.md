@@ -1,6 +1,6 @@
 # Chirpy
 
-🌏 English • [简体中文](docs/README_zh-CN.md)
+🌏 English • [简体中文](README_zh-CN.md)
 
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
