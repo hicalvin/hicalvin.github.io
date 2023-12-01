@@ -83,4 +83,6 @@ category: reading
 
 如果想深入了解他，就去翻翻他写的《高卢战记》吧。
 
+![Rome Empire](../assets/doc_img/20231127-rome-empire.svg)
+
 #reading
