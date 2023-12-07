@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "生成式AI的崛起13：OpenAI的宫斗戏，以Sam的回归和Ilya的出局收场"
-date:   2023-11-31 23:56:50 +0800
+title:  "生成式AI的崛起14：谷歌年底力挽狂澜"
+date:   2023-12-07 23:51:50 +0800
 category: tech
 ---
 
