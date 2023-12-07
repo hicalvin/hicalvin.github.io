@@ -10,10 +10,10 @@
 
 title: Calvin Yan                          # the main title
 
-tagline: A software engineer in Hangzhou China.  # it will display as the sub-title
+tagline: Coder, Reader, Writer, Traveller  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Software development, travel, posts, chatGPT. 
+  Coder, Reader, Writer, Traveller 
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://hicalvin.github.io'
@@ -23,10 +23,10 @@ author: Calvin Yan                  # change to your full name
 avatar: /assets/img/me-calvin.png   # support internet resources
 
 github:
-  username: calviny             # change to your github username
+  username: skywalker_zj             # change to your github username
 
 twitter:
-  username: calviny            # change to your twitter username
+  username: skywalker_zj            # change to your twitter username
 
 social:
   name: Calvin Yan                  # it will shows as the copyright owner in Footer
