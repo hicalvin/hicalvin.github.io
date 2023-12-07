@@ -5,6 +5,10 @@ date:   2023-12-07 23:51:50 +0800
 category: tech
 ---
 
+![Google Bard](https://images.unsplash.com/photo-1686191568216-aea226860b06?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+-- *by Mojahid Mottakin from Unsplash*
+
 眼看着整个2023年的风光都被ChatGPT全部抢完的时候，谷歌在最后一个月进行了一次**绝地反击**，拿出了在各项数据上全面超越GPT4 的至尊模型 **Gemini Ultra**。 
 
 当地时间 12 月 6 日，谷歌 CEO 桑达尔・皮查伊官宣 Gemini 1.0 版正式上线。
