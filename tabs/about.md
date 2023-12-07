@@ -8,4 +8,8 @@ title: About
 # MIT License
 ---
 
-Located in **Hangzhou, China**. Love Software, Soccer, Cyber Game, ChatGPT etc. Fan of [AC Milan](https://www.acmilan.com/en)
+Coder, Reader, Writer, Traveller
+
+[Forza Milan !!](https://www.acmilan.com/en)
+
+In **Hangzhou, China**.
