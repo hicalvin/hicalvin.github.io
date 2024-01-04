@@ -93,7 +93,7 @@ category: life
 > - 演：主要包括“手面”和“起角色”
 
 
-![吴亮莹](https://i0.hdslb.com/bfs/archive/16866ceccdc8b10b53b92defee8707520908a072.jpg)
+
 
 *青砖伴瓦漆  
 白马踏新泥  
