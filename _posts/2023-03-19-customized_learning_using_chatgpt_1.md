@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "用ChatPGT定制化学习"
-date:   2023-03-19 23:28:50 +0800
-category: education
+title: 用ChatPGT定制化学习
+date: 2023-03-19 23:28:50 +0800
+category: learning
 ---
 
 ## 数学

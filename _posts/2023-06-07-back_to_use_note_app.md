@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "我又装回了笔记软件，这次是Flomo"
-date:   2023-06-07 11:19:50 +0800
-category: education
+title: 我又装回了笔记软件，这次是Flomo
+date: 2023-06-07 11:19:50 +0800
+category: learning
 ---
 
 首先，我是Notion的重度用户。在用Notion之前，我的手机上装过TODO的APP，笔记APP，还有Blog APP，直到找到Notion，看了一圈Youtube上面各种Notion的介绍视频之后就被深深吸引了。
