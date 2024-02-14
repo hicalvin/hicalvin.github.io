@@ -12,7 +12,6 @@ category: tech
 
 ![calvin_get_rich](https://static-cse.canva.cn/blob/347943/3.png)
 
-*by [Andrew Neel](https://unsplash.com/@andrewtneel) in Unsplash*
 
 今天，[OpenAI](https://openai.com/) 再次发布重要信息，ChatGPT 将对部分免费和 Pro 版本的用户开放[增强记忆（Memory）版本 ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)。 这对于 ChatGPT 的使用者来说又是一项重要的提升。
 
