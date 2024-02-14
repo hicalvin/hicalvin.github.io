@@ -10,7 +10,7 @@ category: tech
 
 今天是大年初五，迎财神咯！！ 
 
-![chatgpt](https://images.unsplash.com/photo-1679403766680-9aa2b959417d?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![calvin_get_rich](https://static-cse.canva.cn/blob/347943/3.png)
 
 *by [Andrew Neel](https://unsplash.com/@andrewtneel) in Unsplash*
 
