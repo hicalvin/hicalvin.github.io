@@ -7,7 +7,9 @@ category: tech
 
 > 今天是ChatGPT诞生第 **433** 天
 
-LangChain 终于在2024年1月5号发布了稳定版本 0.1.0。这个在去年 ChatGPT 出现之后蓬勃兴起的开源社区，在过去不到一年的时间里发展速度可谓是一日千里，至今已收获7万6千颗👍。虽然核心组件还是Agent, Chain 和 PromptTemplate， 但在此基础上丰富了各种 LLM 接口，包括 OpenAI， HuggingFace Llama2 等等，甚至包含了 RESTful API (LangServe) 框架和 Observability(LangSmith) 组件，使其真正的成为了一个生态，而不只是一个 Library 或者是 Framework。 和 LLM 开发相关的服务组件，如模型、向量数据库、输入输出等等，都不约而同的推出了 LangChain 的 `Python` 和 `Javascript` 开发包，使 LLM 的开发者能够非常容易的将各种组件加入到 LLM 的开发应用中。  
+![](https://daxg39y63pxwu.cloudfront.net/images/blog/langchain/LangChain.webp)
+
+LangChain 终于在2024年1月5号发布了稳定版本 0.1.0。这个在去年 ChatGPT 出现之后蓬勃兴起的开源社区，在过去不到一年的时间里发展速度可谓是一日千里，至今已收获7万6千颗 🌟。虽然核心组件还是Agent, Chain 和 PromptTemplate， 但在此基础上丰富了各种 LLM 接口，包括 OpenAI， HuggingFace Llama2 等等，甚至包含了 RESTful API (LangServe) 框架和 Observability(LangSmith) 组件，使其真正的成为了一个生态，而不只是一个 Library 或者是 Framework。 和 LLM 开发相关的服务组件，如模型、向量数据库、输入输出等等，都不约而同的推出了 LangChain 的 `Python` 和 `Javascript` 开发包，使 LLM 的开发者能够非常容易的将各种组件加入到 LLM 的开发应用中。  
 
 > 去年LangChain 刚出来的时候就非常看好TA， [有博客为证](./2023-04-15-rise_of_generative_ai_5.md) !!
 
@@ -87,3 +89,5 @@ RAG 的机制可以参看以下图片：
 
 
 尝试以后觉得这套生态还是非常好用而且效果明显的。 如果有充分的数据集，Langchain + RAG 对于小的开发者来说是个不错的选择。 
+
+#ai/google/gemini 
