@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生成式AI的崛起17：初試 LangChain + RAG + Gemini
+title: 生成式AI的崛起17：即将告别短时“记忆”的 ChatGPT
 date: 2024-02-14 21:21:50 +0800
 category: tech
 ---
