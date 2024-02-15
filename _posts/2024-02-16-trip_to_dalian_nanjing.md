@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大海与飞雪的相遇，历史和现代的交融
+title: 海水、飘雪、历史、先锋
 date: 2024-02-15 22:50:50 +0800
 category: travel
 ---
