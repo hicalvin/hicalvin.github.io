@@ -193,4 +193,4 @@ Not bad.
 
 - [GPT，GPT-2，GPT-3 论文精读](https://www.youtube.com/watch?v=t70Bl3w7bxY)
 - [ChatGPT 详解系列之一](https://www.youtube.com/watch?v=S3xgoFFwlpM)
-- [OpenAI CEO Sam Altman | AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0)
+- [OpenAI CEO Sam Altman - AI for the Next Era](https://www.youtube.com/watch?v=WHoWGNQRXb0)

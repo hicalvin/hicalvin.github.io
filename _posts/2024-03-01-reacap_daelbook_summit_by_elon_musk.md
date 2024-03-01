@@ -62,4 +62,4 @@ DealBook Summit，是由《纽约时报》主办的每年一次的高端峰会�
 
 ### Link
 
-- [Youtube: Elon Musk on Advertisers, Trust and the “Wild Storm” in His Mind | DealBook Summit 2023](https://www.youtube.com/watch?v=2BfMuHDfGJI&t=4644s)
+- [YouTube: Elon Musk on DealBook Summit 2023](https://www.youtube.com/watch?v=2BfMuHDfGJI&t=4644s)
