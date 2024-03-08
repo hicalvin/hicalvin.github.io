@@ -7,7 +7,7 @@ category: life
 
 ![](https://images.unsplash.com/photo-1608106055806-e892769d2e5a?q=80&w=2989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-*by zhenzhong liu(https://unsplash.com/@lzzbest)*
+*by [zhenzhong liu](https://unsplash.com/@lzzbest)*
 
 还记得小时候，我们对世界充满好奇，总是有着问不完的“为什么”？那时候，父母和老师是解答我们疑惑的百科全书。
 
