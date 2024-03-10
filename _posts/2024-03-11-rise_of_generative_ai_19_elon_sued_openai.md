@@ -14,7 +14,7 @@ OpenAI 的宫斗戏落幕，AI 界短暂地回归了平静，除了 OpenAI 的 S
 
 马斯克此举，旨在迫使 OpenAI 遵守原始协议。根据法庭文件，他指控 OpenAI 违约、违反信托义务和进行不公平商业行为，并要求该公司恢复开源。
 
-![imagecloud.thepaper.cn...](https://imagecloud.thepaper.cn/thepaper/image/293/941/498.jpg)
+![](https://theatlasnews.co/wp-content/uploads/2024/03/Tesla-CEO-Elon-Musk-and-OpenAI-Founder-Sam-Altman-1068x580.jpg)
 
 马斯克对 OpenAI 的诉讼，乍看之下似乎有些意气用事，甚至不可理喻。然而，这却是迄今为止对 OpenAI 开发通用人工智能 (AGI) 尝试最为实质性的监督举措。
 
