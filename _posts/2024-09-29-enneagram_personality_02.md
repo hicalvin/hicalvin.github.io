@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 九型人格之完美型人格
+title: 九型人格-完美型人格
 date: 2024-09-29 15:46:50 +0800
 category: learning
 ---

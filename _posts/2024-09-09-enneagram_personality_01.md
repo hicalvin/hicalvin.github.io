@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 九型人格和人际关系
+title: 九型人格
 date: 2024-09-09 18:38:50 +0800
 category: learning
 ---
