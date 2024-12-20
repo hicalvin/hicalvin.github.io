@@ -7,10 +7,9 @@ category: tech
 
 如今 Cursor 在 AI IDE 这块已经是独领风搔。它虽然是基于 VS Code， 但是从非常基本的内核就开始扩展加入 AI 模块，使的整个 Cursor 的使用体验非常流畅。 用非常简单的 command + K 和 command + L 就能轻松召唤出 AI 助手，通过 prompt 就可以直接生成想要的代码或者给出代码建议。 这种自然而然的使用方式，让使用者可以非常沉浸式的专注于自己想要完成的代码逻辑，无需在 IDE 和浏览器之间来回跳转。
 
-Cursor 的另一个非常大的优势是，它支持非常丰富的编程语言，包括 Python、Java、C++、JavaScript、C#、Go、Rust、PHP、Ruby、Swift、Kotlin、Scala、Perl、Lua、Bash 等。所以无论你是什么技术栈工程师，都可以非常容易的享受 Cursor 提供的便利。 
+Cursor 的另一个非常大的优势是，它支持非常丰富的编程语言，包括 Python、Java、C++、JavaScript、C#、Go、Rust、PHP、Ruby、Swift、Kotlin、Scala、Perl、Lua、Bash 等。所以无论你是什么技术栈工程师，都可以非常容易的享受 Cursor 提供的便利。
 
 但 Cursor 最大的优势，是可以轻松接入不同的 LLM，例如，你可以轻松接入 OpenAI 的 GPT-4，也可以轻松接入 Anthropic 的 Claude 等。 而最近刚刚发布的免费的Qwen Coder，因为在各项编码评测中都获得高分，已经在第一时间得到了关注。 今天抽了些时间，就尝试了 Cursor + Qwen Coder，并只需要写两句话，就可以轻松生成 Java 程序。
-
 
 ## 配置
 
@@ -88,6 +87,6 @@ Enter your guess: 3
 Congratulations! You've guessed the number.
 ```
 
-虽然这只是一个非常非常简单的 HelloWorld 程序，但真的能感受到在 AI 工具的加持下，生产力的图谱和提升已经到了另外一个层面。如今的程序员，除了分为 Junior Senior 之外，也许还可以分为会用 AI 的，和不会用 AI 的。 
+虽然这只是一个非常非常简单的 HelloWorld 程序，但真的能感受到在 AI 工具的加持下，生产力的图谱和提升已经到了另外一个层面。如今的程序员，除了分为 Junior Senior 之外，也许还可以分为会用 AI 的，和不会用 AI 的。
 
-如果软件工程师已经如此，那么其他行业是不是也有这样的分野正在产生呢？ 
+如果软件工程师已经如此，那么其他行业是不是也有这样的分野正在产生呢？
