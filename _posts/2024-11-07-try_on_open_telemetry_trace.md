@@ -290,6 +290,7 @@ public void demoTrace() throws InterruptedException {
 ```
 
 ## 参考
+
 - [OpenTelemetry - Trace](https://opentelemetry.io/docs/concepts/signals/traces/)
 - [OpenTelemetry - Trace API](https://opentelemetry.io/docs/specs/otel/trace/api/)
 - [Zipkin architecture](https://segmentfault.com/img/remote/1460000042686005)
