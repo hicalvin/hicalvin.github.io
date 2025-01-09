@@ -7,7 +7,7 @@ category: tech
 
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 
-*---Python*
+*---Python---*
 
 Python 的各种类库为快速处理数据提供了诸多便利， 其中包括以下几个：
 
