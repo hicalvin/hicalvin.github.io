@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  生成式AI的崛起24: 炸裂的谷歌 2025年 I/O 开发者大会
+title:  生成式AI的崛起24：炸裂的谷歌 2025年 I/O 开发者大会
 date: 2025-05-30 13:35:50 +0800
 category: tech
 ---
