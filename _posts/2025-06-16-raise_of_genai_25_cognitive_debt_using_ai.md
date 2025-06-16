@@ -32,4 +32,5 @@ category: tech
 
 
 > 论文链接：[Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+> 
 > 视频B站链接：[要成为优质杠精，我可以在一分钟之内教会大家，因为只需要三步｜苏德超：咱们食堂的菜不好吃【一席少年第2位讲者】]https://www.bilibili.com/video/BV1dcMFzcECx/?share_source=copy_web&vd_source=8a93113c68b700ec53f31d956ccbc433)
