@@ -5,6 +5,10 @@ date: 2025-09-11 09:10:00 +0800
 category: tech
 ---
 
+![coding](https://images.unsplash.com/photo-1561886362-a2b38ce83470?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+-- *by Alfred Rowe in Unsplash*
+
 > 这是“生成式AI的崛起”系列第 26 篇，记录一次真实的 Vibe Coding（智能代理 + 结对协作节奏）体验：不到 10 分钟，从一个模糊想法，到可运行脚本、功能扩展、项目重构，全程自然语言驱动。
 
 ## 背景与诉求
@@ -112,4 +116,4 @@ class Pipeline:
 
 Vibe Coding 像持续在线的结对伙伴：我负责方向决策，它负责环境铺设、重复 labor 与结构整理；认知切换次数显著下降，产出密度提升。
 
-
+> "The hottest new programming language is English."  --- Andrej Karpathy
