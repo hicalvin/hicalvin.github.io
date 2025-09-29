@@ -20,7 +20,7 @@ category: tech
 
 而且我已经在我自己的VS Code上安装了Voice Chat插件，准备用语音和AI一起写代码了，连敲提示词的时间都省了，真是太方便了。各位同学们，编程语言可以不学，但英语一定要学好啊！
 
-![out-put](../assets/doc_img/2025/2025-09-29-try_spec_kit.gif)
+![out-put](/assets/doc_img/2025/2025-09-29-try_spec_kit.gif)
 
 ## 试用路径与角色定位
 
@@ -47,7 +47,7 @@ category: tech
 - `/implement`：生成代码、测试与文档，跑起来直到通过验收。
 
 
-![ai-chat](../assets/doc_img/2025/2025-09-29-try_spec_kit_ai_chat.png)
+![ai-chat](/assets/doc_img/2025/2025-09-29-try_spec_kit_ai_chat.png)
 
 有一个小Tip：在用 `/implement` 的时候，我把 AI Model 切到了 `Claude Sonnet 4`；而前面围绕需求的交流都基于 `GPT-5`。我这么做的考虑是，不同模型在不同任务上各有千秋：
 
