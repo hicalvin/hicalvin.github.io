@@ -22,6 +22,8 @@ category: tech
 
 我能理解每个大厂甚至大国在面对这一机遇的时候，谁都不愿意落于人后。但我也担心，这种竞赛心态会让我们忽视了对AI潜在风险的思考和应对。正如希腊神话中的法厄同和歌德笔下的小学徒一样，我们可能会因为过于自信和急于求成，而忽略了对AI的控制和监管，最终导致不可挽回的后果。
 
+"I think it’s quite conceivable that humanity is just a passing phase in the evolution of intelligence." —— Geoffrey Hinton
+
 ## 参考与延伸阅读
 
 - 中国日报中文网：《“暂停训练比人类聪明的AI？”马斯克、千位专家和学者发公开信》——关于对AI发展节奏的公开讨论与担忧。[链接](https://cn.chinadaily.com.cn/a/202303/29/WS642409fba3102ada8b235e93.html)。
