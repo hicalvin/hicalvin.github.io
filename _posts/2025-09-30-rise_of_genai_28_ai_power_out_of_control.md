@@ -24,9 +24,11 @@ category: tech
 
 "I think it’s quite conceivable that humanity is just a passing phase in the evolution of intelligence." —— Geoffrey Hinton
 
-## 参考与延伸阅读
+## 参考
 
 - 中国日报中文网：《“暂停训练比人类聪明的AI？”马斯克、千位专家和学者发公开信》——关于对AI发展节奏的公开讨论与担忧。[链接](https://cn.chinadaily.com.cn/a/202303/29/WS642409fba3102ada8b235e93.html)。
 - MIT Sloan：《Why neural net pioneer Geoffrey Hinton is sounding the alarm on AI》——Hinton对AI风险的公开表态与理由。[链接](https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai)。
 - CBS News：《“Godfather of AI” Geoffrey Hinton warns of the dangers of AI》——更大众化的访谈与风险解读。[链接](https://www.cbsnews.com/news/godfather-of-ai-geoffrey-hinton-ai-warning/)。
 - 2025云栖大会开幕式暨云栖前瞻主论坛主旨演讲 [链接](https://yunqi.aliyun.com/2025/session?agendaId=6074g)
+
+#ai #人工智能 
