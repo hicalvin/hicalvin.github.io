@@ -5,7 +5,7 @@ date: 2025-05-30 13:35:50 +0800
 category: tech
 ---
 
-![google_fight_with_others](/assets/doc_img/2025/20250530-google_io_2025.png)
+![google_fight_with_others](/assets/doc_img/2025/2025-05-30-google_io_2025.png)
 
 
 前几天被项目追着跑，愣是错过了谷歌 2025 年 I/O 开发者大会。看到科技圈刷屏式报道才惊觉，原来这次发布会藏着这么多王炸。赶紧花两小时恶补了 keynote，直接被谷歌炸裂的发布会狠狠拿捏住了！​
