@@ -5,7 +5,7 @@ date: 2025-10-02 11:33:00 +0800
 category: reading
 ---
 
-![clakson-farm-01](https://img2.doubanio.com/view/subject/s/public/s34395051.jpg)
+![clakson-farm-01](/assets/doc_img/2025/2025-10-02-clarkson_farm_01.jpg)
 
 最近看了一本书，叫《克拉克森的农场》，看完以后印象非常深刻，甚至在阅读过程中有几次都忍不住笑出声来。
 
@@ -33,6 +33,6 @@ category: reading
 
 其实虽然通篇充斥这各种“负能量”，但实际上能看出这位老爷子做事情的认真和细致，讲原则、坚持自我、不轻易妥协的性格，有悲观情绪，但依旧用幽默的方式来表达，阅读过程非常愉快。我个人觉得，这本书非常适合在周末的下午，泡一杯茶，静静地读上两三个小时，感受一下英国乡村的田园风光和农场生活。有兴趣的话，也可以看他的纪录片,目前已经播到了第四季，四季的豆瓣评分都在9.5分以上，非常值得一看。
 
-![clakson-farm-02](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921842277.webp)
+![clakson-farm-02](/assets/doc_img/2025/2025-10-02-clarkson_farm_02.jpg)
 
-
+#reading
