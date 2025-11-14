@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  生成式AI的崛起29: 提示词的“自我进化” - ACE 框架
+title:  生成式AI的崛起29:提示词的“自我进化” - ACE 框架
 date: 2025-10-02 11:33:00 +0800
 category: reading
 ---
