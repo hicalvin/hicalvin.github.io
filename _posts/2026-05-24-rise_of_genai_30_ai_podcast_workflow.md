@@ -9,7 +9,6 @@ category: tech
 
 -- Luke Jones in Unsplash
 
-# 过去半年，我如何用 AI 做一档给孩子听的科技播客
 
 半年前，我开始做一档播客。
 
