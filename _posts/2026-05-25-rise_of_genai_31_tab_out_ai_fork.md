@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  看到一个开源项目后，我马上 fork，并用 AI 改了两个小功能
-date: 2026-05-25 21:00:00 +0800
+date: 2026-05-25 10:00:00 +0800
 category: tech
 ---
 
