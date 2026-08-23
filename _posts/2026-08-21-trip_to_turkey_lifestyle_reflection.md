@@ -5,6 +5,11 @@ date: 2026-08-21 10:00:00 +0800
 category: travel
 ---
 
+
+![Istanbul](https://images.unsplash.com/photo-1589561454226-796a8aa89b05?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+*-- by Engin Yapici in Unsplash*
+
 晚上 11 点，我终于踏进家门，结束了两周的土耳其之旅。
 
 最后这段行程实在有些折腾。两天之内，我们经过了四个机场：第一天一早从安塔利亚飞到伊斯坦布尔，第二天从伊斯坦布尔飞到四川天府机场，最后再坐晚上的飞机回杭州。安塔利亚那一程又是早上 7 点半起飞。一路辗转下来，回到家时只剩下一个感觉：累。
