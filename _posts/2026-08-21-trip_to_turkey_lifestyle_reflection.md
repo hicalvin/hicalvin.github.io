@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "土耳其旅行引发的生活方式思考"
+title: "土耳其旅行让我更加感受到生活的多样性"
 date: 2026-08-21 10:00:00 +0800
 category: travel
 ---
