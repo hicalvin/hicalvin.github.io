@@ -5,6 +5,10 @@ date: 2026-08-02 10:00:00 +0800
 category: tech
 ---
 
+![image](https://plus.unsplash.com/premium_photo-1725985758251-b49c6b581d17?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+-- by *Philip Oroni in Unsplash*
+
 今天讲讲跟 AI 相关的几个名词：Agent、MCP 和 SKILL。它们在 AI 讨论中经常出现，但我发现很多人对它们的理解还停留在表面。听多了甚至容易混淆，所以通过我在 Jira 工作流中的实践，我对它们有了更具体的理解。
 
 这里我用一个专门关系 Jira Task，也就是平时我们工作的一个任务单位来举例。我们用的是两周一次的 Sprint，也就是迭代周期，管理任务的工具就是 Jira，Task 当然就是记录在 Jira 里面的任务了。对于 Jira 的操作，以前都是通过浏览器完成，在有了 AI 以后，说实话我已经很久没有打开浏览器来操作 Jira 了，基本上都是假手给一个数字助手，也就是 Agent - `jira-operator`。这里我拿一个最日常的请求作为例子：“告诉我当前 Sprint 的状态。”  
@@ -45,6 +49,8 @@ SKILL 可以理解为可复用的工作经验。它描述一个重复性场景�
 在我的本地工作空间里，SKILL 通常用 Markdown 编写。这样做的好处是，我可以直接阅读和修改它，让工作流随着实践不断演化。SKILL 还可以保存那些不适合每次都重新写进 prompt 的偏好。例如，我可以在里面定义“当前 Sprint”应该怎样判断、如何识别我的团队，以及 Sprint 报告中哪些字段最重要。
 
 [OpenAI Academy 对 Skills 和 Agents 的解释](https://academy.openai.com/en/public/clubs/news-organizations-b9osl/videos/skills-vs-agents-2026-07-13)提供了一个很清晰的区分：Skill 是关于工作应该如何完成的可复用模板，而 Agent 是能够收集材料、使用工具、遵循指令并应用这个 Skill 的工作流。
+
+如果想进一步了解什么是 Agent Skill，这里推荐一个 [Agent Skill 介绍视频](https://youtu.be/yDc0_8emz7M?si=YmRVio1la1Unqqo3)，可以结合实际例子理解 Skill 如何把工作方法变成可复用的指令。
 
 我在实践中还有一个更具体的体会：SKILL 不应该只是很长的一段自然语言说明。当准确性和一致性很重要时，最好让 Markdown 和代码一起工作。Markdown 记录经验和期望行为，代码则可以让重复性的解析、筛选、排序、格式化和文件生成更加确定。
 
@@ -164,6 +170,8 @@ In my local workspace, a SKILL is usually written in Markdown. This makes it pos
 
 [OpenAI Academy’s explanation of Skills and Agents](https://academy.openai.com/en/public/clubs/news-organizations-b9osl/videos/skills-vs-agents-2026-07-13) offers a useful distinction: a Skill is a reusable template for how work should be done, while an Agent is the workflow that gathers material, uses tools, follows instructions, and applies that Skill.
 
+For a further explanation of what an Agent Skill is, I recommend this [Agent Skill introduction video](https://youtu.be/yDc0_8emz7M?si=YmRVio1la1Unqqo3). It provides practical examples of how a Skill turns a way of working into reusable instructions.
+
 I have also learned that a SKILL should not be only a long natural-language document. When accuracy and consistency matter, Markdown should be accompanied by code. Markdown records the experience and intended behavior. Code can make repeated parsing, filtering, sorting, formatting, and file creation more deterministic.
 
 ## The example: from one sentence to a Jira report
@@ -245,4 +253,3 @@ If I had to reduce it to one sentence: the Agent decides what to do, the SKILL d
 - [OpenAI Academy: Skills vs. Agents](https://academy.openai.com/en/public/clubs/news-organizations-b9osl/videos/skills-vs-agents-2026-07-13)
 
 #ai #agent #mcp #skill #jira #agenticengineering
-
