@@ -5,6 +5,10 @@ date: 2026-10-10 17:25:11 +0800
 category: tech
 ---
 
+![编程工作区](https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+
+-- by *[Fotis Fotopoulos](https://unsplash.com/@ffstop) in [Unsplash](https://unsplash.com/photos/black-computer-keyboard-DuHKoV44prg)*
+
 今天，我终于把日常开发的主窗口从 VS Code 换成了 Codex。以前用 VS Code 的界面屏幕分成三栏，左边是文件树，中间是文件内容，右边是 Copilot 或 Agent。现在换成 Codex 以后，左边是项目、对话和 worktree，中间是 Agent，文件视图和终端被放到了右边。看起来只是几个窗口换了位置，实际上是工作的方式变了：工作的第一入口，不再是文件，而是智能体。
 
 文件仍然需要读，代码仍然需要检查，只是我越来越习惯先把事情说出来。我想做什么，就先和 Agent 说，接着再去看它改了什么、结果对不对。文件视图的确认，已经彻底成了辅助。今天把主窗口换过来，我觉得也算是顺着自己的习惯，把界面调到了更合适的位置。
